@@ -1,12 +1,54 @@
 {
-  "diambil": "2026-11-14T17:36:51+07:00",
+  "diambil": "2026-11-15T03:43:31+07:00",
   "akun": "akadiva.app",
   "pengikut": 8,
-  "mengikuti": 8,
-  "jumlah_postingan": 6,
+  "mengikuti": 10,
+  "jumlah_postingan": 1,
   "izin_insights": true,
   "catatan": "",
   "media": [
+    {
+      "id": "18111191807242728",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DfuRr67SKc0/",
+      "timestamp": "2026-11-14T13:18:48+0000",
+      "like_count": 5,
+      "comments_count": 0,
+      "caption_awal": "Pondasi yayasan naik kelas part 1 #yayasanpendidikan",
+      "panjang_caption": 52,
+      "insights": {
+        "reach": 121,
+        "views": 137,
+        "likes": 5,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 5,
+        "tingkat_interaksi_persen": 4.13
+      }
+    },
+    {
+      "id": "17978080322982573",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DfuKB2dIM-M/",
+      "timestamp": "2026-11-14T12:00:44+0000",
+      "like_count": 3,
+      "comments_count": 0,
+      "caption_awal": "Pukul 09.45. Bel istirahat bunyi, teh baru diseduh.",
+      "panjang_caption": 1362,
+      "insights": {
+        "reach": 10,
+        "views": 24,
+        "likes": 3,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 4,
+        "tingkat_interaksi_persen": 40
+      }
+    },
     {
       "id": "18132105052831301",
       "media_type": "VIDEO",
@@ -19,7 +61,7 @@
       "panjang_caption": 407,
       "insights": {
         "reach": 149,
-        "views": 227,
+        "views": 230,
         "likes": 7,
         "comments": 0,
         "saved": 1,
@@ -40,7 +82,7 @@
       "panjang_caption": 969,
       "insights": {
         "reach": 31,
-        "views": 90,
+        "views": 91,
         "likes": 3,
         "comments": 0,
         "saved": 1,
