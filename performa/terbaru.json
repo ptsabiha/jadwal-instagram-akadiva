@@ -1,12 +1,54 @@
 {
-  "diambil": "2026-11-16T04:02:43+07:00",
+  "diambil": "2026-11-17T07:15:29+07:00",
   "akun": "akadiva.app",
   "pengikut": 8,
   "mengikuti": 16,
-  "jumlah_postingan": 1,
+  "jumlah_postingan": 3,
   "izin_insights": true,
   "catatan": "",
   "media": [
+    {
+      "id": "18183151660429516",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DfzTnRkFLgO/",
+      "timestamp": "2026-11-16T12:00:40+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Mulai tahun ajaran 2027/2028, siswa direncanakan tidak lagi otomatis naik kelas.",
+      "panjang_caption": 1519,
+      "insights": {
+        "reach": 4,
+        "views": 11,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18036578702851921",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/Dfyjjsplr-8/",
+      "timestamp": "2026-11-16T05:00:45+0000",
+      "like_count": 1,
+      "comments_count": 0,
+      "caption_awal": "Bel istirahat bunyi. Di ruang guru, setiap orang ternyata punya kartu pegawainya sendiri.",
+      "panjang_caption": 1057,
+      "insights": {
+        "reach": 9,
+        "views": 22,
+        "likes": 1,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "tingkat_interaksi_persen": 11.11
+      }
+    },
     {
       "id": "18123484216918432",
       "media_type": "VIDEO",
@@ -18,14 +60,14 @@
       "caption_awal": "Yayasan naik kelas part 2 #yayasanpendidikan",
       "panjang_caption": 44,
       "insights": {
-        "reach": 5,
-        "views": 14,
+        "reach": 6,
+        "views": 16,
         "likes": 3,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 3,
-        "tingkat_interaksi_persen": 60
+        "tingkat_interaksi_persen": 50
       }
     },
     {
@@ -39,14 +81,14 @@
       "caption_awal": "Pondasi yayasan naik kelas part 1 #yayasanpendidikan",
       "panjang_caption": 52,
       "insights": {
-        "reach": 122,
-        "views": 144,
+        "reach": 123,
+        "views": 147,
         "likes": 6,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 6,
-        "tingkat_interaksi_persen": 4.92
+        "tingkat_interaksi_persen": 4.88
       }
     },
     {
@@ -60,14 +102,14 @@
       "caption_awal": "Pukul 09.45. Bel istirahat bunyi, teh baru diseduh.",
       "panjang_caption": 1362,
       "insights": {
-        "reach": 19,
-        "views": 40,
+        "reach": 23,
+        "views": 50,
         "likes": 3,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 4,
-        "tingkat_interaksi_persen": 21.05
+        "tingkat_interaksi_persen": 17.39
       }
     },
     {
@@ -82,7 +124,7 @@
       "panjang_caption": 407,
       "insights": {
         "reach": 149,
-        "views": 233,
+        "views": 235,
         "likes": 7,
         "comments": 0,
         "saved": 1,
@@ -102,14 +144,14 @@
       "caption_awal": "Apa jadinya kalau pengurus yayasan terlalu dalam ikut campur urusan teknis operasional harian sekolah? 🤔",
       "panjang_caption": 969,
       "insights": {
-        "reach": 31,
-        "views": 97,
+        "reach": 32,
+        "views": 100,
         "likes": 3,
         "comments": 0,
         "saved": 1,
         "shares": 0,
         "total_interactions": 5,
-        "tingkat_interaksi_persen": 16.13
+        "tingkat_interaksi_persen": 15.63
       }
     },
     {
@@ -123,14 +165,14 @@
       "caption_awal": "Sekolah di bawah naungan yayasan Anda sering jalan di tempat, atau malah sering ada “drama” internal antara pengurus dan",
       "panjang_caption": 998,
       "insights": {
-        "reach": 21,
-        "views": 64,
+        "reach": 22,
+        "views": 69,
         "likes": 3,
         "comments": 0,
         "saved": 1,
         "shares": 0,
         "total_interactions": 5,
-        "tingkat_interaksi_persen": 23.81
+        "tingkat_interaksi_persen": 22.73
       }
     },
     {
@@ -144,14 +186,14 @@
       "caption_awal": "Menurut kamu, siapa yang paling rajin di sekolah? 🤔",
       "panjang_caption": 500,
       "insights": {
-        "reach": 219,
-        "views": 305,
+        "reach": 220,
+        "views": 306,
         "likes": 9,
         "comments": 0,
         "saved": 1,
         "shares": 0,
         "total_interactions": 13,
-        "tingkat_interaksi_persen": 5.94
+        "tingkat_interaksi_persen": 5.91
       }
     },
     {
@@ -187,7 +229,7 @@
       "panjang_caption": 400,
       "insights": {
         "reach": 301,
-        "views": 511,
+        "views": 512,
         "likes": 7,
         "comments": 0,
         "saved": 0,
