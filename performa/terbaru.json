@@ -1,12 +1,54 @@
 {
-  "diambil": "2026-11-19T05:57:15+07:00",
+  "diambil": "2026-11-20T06:03:53+07:00",
   "akun": "akadiva.app",
   "pengikut": 8,
-  "mengikuti": 16,
-  "jumlah_postingan": 4,
+  "mengikuti": 17,
+  "jumlah_postingan": 6,
   "izin_insights": true,
   "catatan": "",
   "media": [
+    {
+      "id": "18103916249647627",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/Df7CAhUIA-m/",
+      "timestamp": "2026-11-19T12:00:47+0000",
+      "like_count": 2,
+      "comments_count": 0,
+      "caption_awal": "Pukul 06.30, notifikasi grup wali murid sudah delapan. SPP sudah masuk belum, rapor dibagikan kapan, kemarin anak saya h",
+      "panjang_caption": 986,
+      "insights": {
+        "reach": 6,
+        "views": 8,
+        "likes": 2,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 2,
+        "tingkat_interaksi_persen": 33.33
+      }
+    },
+    {
+      "id": "18053417387820590",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/Df6R7yJFqq2/",
+      "timestamp": "2026-11-19T05:00:41+0000",
+      "like_count": 1,
+      "comments_count": 0,
+      "caption_awal": "Kalender meja guru dan tendik sampai akhir semester ganjil, kalau dilingkari pakai spidol:",
+      "panjang_caption": 1181,
+      "insights": {
+        "reach": 5,
+        "views": 18,
+        "likes": 1,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "tingkat_interaksi_persen": 20
+      }
+    },
     {
       "id": "18443454466178519",
       "media_type": "CAROUSEL_ALBUM",
@@ -18,8 +60,8 @@
       "caption_awal": "Pukul 09.10, seorang ibu mengirim pesan ke wali kelas: anaknya tadi pamit berangkat sekolah, apakah sudah sampai? Wali k",
       "panjang_caption": 890,
       "insights": {
-        "reach": 4,
-        "views": 14,
+        "reach": 5,
+        "views": 19,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -40,7 +82,7 @@
       "panjang_caption": 1519,
       "insights": {
         "reach": 5,
-        "views": 13,
+        "views": 14,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -123,14 +165,14 @@
       "caption_awal": "Pukul 09.45. Bel istirahat bunyi, teh baru diseduh.",
       "panjang_caption": 1362,
       "insights": {
-        "reach": 24,
+        "reach": 25,
         "views": 52,
         "likes": 3,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 4,
-        "tingkat_interaksi_persen": 16.67
+        "tingkat_interaksi_persen": 16
       }
     },
     {
@@ -166,7 +208,7 @@
       "panjang_caption": 969,
       "insights": {
         "reach": 32,
-        "views": 101,
+        "views": 102,
         "likes": 3,
         "comments": 0,
         "saved": 1,
@@ -187,7 +229,7 @@
       "panjang_caption": 998,
       "insights": {
         "reach": 22,
-        "views": 69,
+        "views": 70,
         "likes": 3,
         "comments": 0,
         "saved": 1,
