@@ -1,12 +1,33 @@
 {
-  "diambil": "2026-11-20T06:03:53+07:00",
+  "diambil": "2026-11-21T05:41:35+07:00",
   "akun": "akadiva.app",
   "pengikut": 8,
   "mengikuti": 17,
-  "jumlah_postingan": 6,
+  "jumlah_postingan": 7,
   "izin_insights": true,
   "catatan": "",
   "media": [
+    {
+      "id": "18017727608959362",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/Df9mylMm-3u/",
+      "timestamp": "2026-11-20T12:00:40+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Kabar yang ramai dibahas di dunia SMA: jurusan IPA, IPS, dan Bahasa direncanakan kembali dibuka mulai tahun ajaran 2027/",
+      "panjang_caption": 912,
+      "insights": {
+        "reach": 4,
+        "views": 10,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
     {
       "id": "18103916249647627",
       "media_type": "CAROUSEL_ALBUM",
@@ -19,7 +40,7 @@
       "panjang_caption": 986,
       "insights": {
         "reach": 6,
-        "views": 8,
+        "views": 12,
         "likes": 2,
         "comments": 0,
         "saved": 0,
@@ -40,7 +61,7 @@
       "panjang_caption": 1181,
       "insights": {
         "reach": 5,
-        "views": 18,
+        "views": 19,
         "likes": 1,
         "comments": 0,
         "saved": 0,
@@ -165,14 +186,14 @@
       "caption_awal": "Pukul 09.45. Bel istirahat bunyi, teh baru diseduh.",
       "panjang_caption": 1362,
       "insights": {
-        "reach": 25,
+        "reach": 26,
         "views": 52,
         "likes": 3,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 4,
-        "tingkat_interaksi_persen": 16
+        "tingkat_interaksi_persen": 15.38
       }
     },
     {
@@ -187,7 +208,7 @@
       "panjang_caption": 407,
       "insights": {
         "reach": 149,
-        "views": 236,
+        "views": 237,
         "likes": 7,
         "comments": 0,
         "saved": 1,
@@ -208,7 +229,7 @@
       "panjang_caption": 969,
       "insights": {
         "reach": 32,
-        "views": 102,
+        "views": 103,
         "likes": 3,
         "comments": 0,
         "saved": 1,
