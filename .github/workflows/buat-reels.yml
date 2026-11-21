@@ -27,7 +27,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 240
     steps:
+      # always the newest main, not the commit that queued this run: an earlier run may have finished folders meanwhile
       - uses: actions/checkout@v7
+        with:
+          ref: main
 
       - name: Ada naskah yang menunggu?
         id: cek
