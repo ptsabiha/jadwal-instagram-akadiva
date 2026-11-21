@@ -132,6 +132,7 @@ function tambah(folder, o) {
   const pengaturan = bacaPengaturan();
   const sumber = path.resolve(folder);
   if (!fs.existsSync(sumber)) throw new Error(`Folder tidak ditemukan: ${sumber}`);
+  if (fs.existsSync(path.join(sumber, 'reel.mp4'))) return tambahReels(sumber, o, pengaturan);
 
   const slide = fs.readdirSync(sumber).filter((f) => /^\d+\.(png|jpe?g)$/i.test(f)).sort((a, b) => parseInt(a) - parseInt(b));
   if (!slide.length) throw new Error(`Tidak ada slide bernama 1.png, 2.png, ... di ${sumber}`);
@@ -187,6 +188,40 @@ function tambah(folder, o) {
   };
   simpanPost(post);
   console.log(`📝 Draf: ${judul} · ${keluar.length} slide ${post.ukuran} · ${formatWIB(waktu)} · caption ${c.panjang} karakter, ${c.tagar} tagar  [${id}]`);
+  if (!o.senyap) for (const p of peringatanJadwal(post, semua, pengaturan)) console.log(`   ⚠️ ${p}`);
+  return post;
+}
+
+// Reels: folder berisi reel.mp4 (9:16, H.264/AAC, 3–90 detik) + caption.txt; opsional sampul-detik.txt (detik untuk sampul).
+// Video disalin ke antrian/<id>/reel.mp4 dan diambil Instagram dari URL publik repo ini, sama seperti gambar carousel.
+function tambahReels(sumber, o, pengaturan) {
+  const berkasCaption = path.join(sumber, 'caption.txt');
+  const caption = fs.existsSync(berkasCaption) ? fs.readFileSync(berkasCaption, 'utf8').replace(/^﻿/, '').replace(/\r\n/g, '\n').trim() : '';
+  const c = periksaCaption(caption);
+  if (c.masalah.length) throw new Error(`Caption ${sumber}: ${c.masalah.join('; ')}.`);
+  const besar = fs.statSync(path.join(sumber, 'reel.mp4')).size;
+  if (besar > 95 * 1024 * 1024) throw new Error(`reel.mp4 ${Math.round(besar / 1048576)} MB; perkecil dulu (maks. 95 MB agar muat di GitHub).`);
+  const fSampul = path.join(sumber, 'sampul-detik.txt');
+  const sampulMs = fs.existsSync(fSampul) ? Math.max(0, Math.round(parseFloat(fs.readFileSync(fSampul, 'utf8')) * 1000)) || 0 : 0;
+  const semua = bacaSemua();
+  const ganda = semua.find((p) => samaJalur(p.sumber, sumber) && p.status !== 'batal');
+  if (ganda && !o.paksa) throw new Error(`Folder ini sudah ada di antrean sebagai "${ganda.id}" (${ganda.status}). Pakai --paksa kalau memang mau dua kali.`);
+  const waktu = o.waktuIso || (o.waktu ? parseWaktu(o.waktu, pengaturan.zona_waktu) : slotBerikut(semua, pengaturan));
+  const judul = String(o.judul || path.basename(sumber));
+  const urutan = o.urutan ? Number(o.urutan) : 0;
+  const dasar = o.grup ? `${slug(o.grup)}-${String(urutan).padStart(2, '0')}-${slug(judul)}` : `${waktu.slice(0, 10).replace(/-/g, '')}-${slug(judul)}`;
+  const id = idUnik(dasar);
+  const dir = path.join(DIR_ANTRIAN, id);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.copyFileSync(path.join(sumber, 'reel.mp4'), path.join(dir, 'reel.mp4'));
+  const post = {
+    id, judul, waktu, grup: o.grup ? String(o.grup) : null, urutan, caption, jenis: 'reels', slide: [], video: 'reel.mp4', sampul_ms: sampulMs,
+    ukuran: '1080x1920', bingkai45: false, sumber,
+    status: 'draf', dibuat: isoZona(new Date(), pengaturan.zona_waktu), percobaan: 0, galat: null,
+    uji: null, media_id: null, permalink: null, terbit_pada: null,
+  };
+  simpanPost(post);
+  console.log(`📝 Draf reels: ${judul} · ${Math.round(besar / 1048576)} MB · ${formatWIB(waktu)} · caption ${c.panjang} karakter, ${c.tagar} tagar  [${id}]`);
   if (!o.senyap) for (const p of peringatanJadwal(post, semua, pengaturan)) console.log(`   ⚠️ ${p}`);
   return post;
 }
@@ -309,7 +344,7 @@ function baris(p, i) {
     : p.galat ? `galat: ${p.galat}`
       : p.uji ? `uji ${p.uji.hasil}${p.uji.hasil === 'gagal' ? `: ${p.uji.pesan}` : ''}` : '';
   const kapan = p.status === 'terbit' ? formatWIB(p.terbit_pada) : formatWIB(p.waktu);
-  return `${String(i + 1).padStart(2)}. ${LAMBANG[p.status] || '?'} ${p.status.padEnd(8)} ${kapan.padEnd(28)} ${p.judul} (${p.slide.length} slide)${ket ? `\n      ${ket}` : ''}\n      id: ${p.id}`;
+  return `${String(i + 1).padStart(2)}. ${LAMBANG[p.status] || '?'} ${p.status.padEnd(8)} ${kapan.padEnd(28)} ${p.judul} (${p.video ? 'reels' : p.slide.length + ' slide'})${ket ? `\n      ${ket}` : ''}\n      id: ${p.id}`;
 }
 
 function daftar(pos, o) {
@@ -360,7 +395,7 @@ async function jalankanPenerbit(mode, post) {
 // 60 carousel sekaligus (±420 wadah) menghabiskannya, dan postingan terjadwal tertahan hampir sehari.
 // (Fungsi, bukan const: perintah dijalankan di atas sebelum baris ini dievaluasi.)
 function batasWadahUji() { return 50; }
-function jumlahWadah(p) { return p.slide.length + (p.slide.length > 1 ? 1 : 0); }
+function jumlahWadah(p) { return p.video ? 1 : p.slide.length + (p.slide.length > 1 ? 1 : 0); }
 
 async function uji(pos, o) {
   tarikTerbaru();
