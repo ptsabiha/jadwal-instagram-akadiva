@@ -1,0 +1,94 @@
+{
+ "judul": "Arsip Sekolah yang Rapi",
+ "tema": "administrasi sekolah",
+ "tanya": [
+  "Arsip",
+  "sekolah yang rapi?"
+ ],
+ "salah": "lemari banyak",
+ "kunci": "dicari",
+ "kepala": "dibangun 4 hal:",
+ "poin": [
+  [
+   "1. Satu aturan nama",
+   "tanggal, jenis, nama"
+  ],
+  [
+   "2. Satu tempat simpan",
+   "bukan di banyak map"
+  ],
+  [
+   "3. Ada penanggung jawab",
+   "satu orang pegang kunci"
+  ],
+  [
+   "4. Dicadangkan rutin",
+   "salinan digital tersimpan"
+  ]
+ ],
+ "hasil": "data aman",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira, arsip sekolah yang rapi itu lemarinya banyak.",
+   "say_ridwan": "Banyak yang mengira, arsip sekolah yang rapi itu, lemarinya banyak.",
+   "kunci": [
+    "lemarinya"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal lemari hanya tempat.",
+   "say_ridwan": "Padahal, lemari, hanya tempat."
+  },
+  {
+   "id": "n3",
+   "text": "Arsip yang rapi, adalah yang mudah dicari.",
+   "say_ridwan": "Arsip yang rapi, adalah yang mudah, dicari.",
+   "kunci": [
+    "dicari"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Mudah dicari itu dibangun oleh empat hal.",
+   "say_ridwan": "Mudah dicari itu, dibangun oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, satu aturan nama berkas. Tanggal, jenis, lalu nama.",
+   "say_ridwan": "Pertama, satu aturan nama berkas. Tanggal, jenis, lalu nama."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, satu tempat simpan. Bukan tersebar di banyak map.",
+   "say_ridwan": "Kedua, satu tempat simpan. Bukan tersebar, di banyak map."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, ada penanggung jawab. Satu orang yang memegang kuncinya.",
+   "say_ridwan": "Ketiga, ada penanggung jawab. Satu orang, yang memegang kuncinya."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, dicadangkan rutin. Salinan digitalnya selalu tersimpan.",
+   "say_ridwan": "Keempat, dicadangkan rutin. Salinan digitalnya, selalu tersimpan."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat arsip mudah dicari.",
+   "say_ridwan": "Empat hal inilah, yang membuat arsip, mudah dicari."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat arsip mudah dicari, data sekolah aman dan kerja jadi ringan.",
+   "say_ridwan": "Dan saat arsip mudah dicari, data sekolah aman, dan kerja jadi ringan."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah menyimpan data siswa di satu tempat, lengkap dengan log aktivitas.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, menyimpan data siswa di satu tempat, lengkap dengan log aktivitas."
+  }
+ ],
+ "caption": "Arsip sekolah yang rapi bukan soal banyaknya lemari, tapi soal mudahnya dicari.\n\nEmpat hal yang membangunnya: satu aturan nama berkas, satu tempat simpan, penanggung jawab yang jelas, dan cadangan digital rutin.\n\nCoba Akadiva gratis, link di bio.\n\n#administrasisekolah #arsipsekolah #operatorsekolah #manajemensekolah #yayasanpendidikan #akadiva"
+}

@@ -1,0 +1,94 @@
+{
+ "judul": "Rapat Sekolah yang Berhasil",
+ "tema": "manajemen sekolah",
+ "tanya": [
+  "Rapat",
+  "yang berhasil?"
+ ],
+ "salah": "yang paling lama",
+ "kunci": "tindakan",
+ "kepala": "ditentukan 4 hal:",
+ "poin": [
+  [
+   "1. Agenda dikirim dulu",
+   "semua datang siap"
+  ],
+  [
+   "2. Waktu dibatasi",
+   "mulai dan selesai tepat"
+  ],
+  [
+   "3. Keputusan dicatat",
+   "siapa, tugas, kapan"
+  ],
+  [
+   "4. Tindak lanjut dicek",
+   "rapat berikut mulai di sini"
+  ]
+ ],
+ "hasil": "rapat berguna",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira, rapat yang berhasil itu yang paling lama.",
+   "say_ridwan": "Banyak yang mengira, rapat yang berhasil itu, yang paling lama.",
+   "kunci": [
+    "lama"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal lama belum tentu hasil.",
+   "say_ridwan": "Padahal, lama, belum tentu hasil."
+  },
+  {
+   "id": "n3",
+   "text": "Rapat yang berhasil berakhir dengan satu kata: tindakan.",
+   "say_ridwan": "Rapat yang berhasil, berakhir dengan satu kata: tindakan.",
+   "kunci": [
+    "tindakan"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Tindakan itu ditentukan oleh empat hal.",
+   "say_ridwan": "Tindakan itu, ditentukan oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, agenda dikirim lebih dulu. Semua datang dalam keadaan siap.",
+   "say_ridwan": "Pertama, agenda dikirim lebih dulu. Semua datang, dalam keadaan siap."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, waktunya dibatasi. Mulai dan selesai tepat waktu.",
+   "say_ridwan": "Kedua, waktunya dibatasi. Mulai, dan selesai, tepat waktu."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, keputusan dicatat. Jelas siapa mengerjakan apa, dan kapan.",
+   "say_ridwan": "Ketiga, keputusan dicatat. Jelas siapa mengerjakan apa, dan kapan."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, tindak lanjut dicek. Rapat berikutnya mulai dari hasil, bukan dari nol.",
+   "say_ridwan": "Keempat, tindak lanjut dicek. Rapat berikutnya, mulai dari hasil, bukan dari nol."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat tindakan nyata.",
+   "say_ridwan": "Empat hal inilah, yang membuat tindakan nyata."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat tindakan nyata, rapat jadi berguna bagi semua.",
+   "say_ridwan": "Dan saat tindakan nyata, rapat jadi berguna, bagi semua."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah mengelola kegiatan dan datanya dalam satu tempat.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mengelola kegiatan dan datanya, dalam satu tempat."
+  }
+ ],
+ "caption": "Rapat yang berhasil bukan yang paling lama, tapi yang berujung tindakan.\n\nEmpat hal yang menentukan: agenda dikirim lebih dulu, waktu dibatasi, keputusan dicatat lengkap dengan siapa dan kapan, dan tindak lanjut dicek di rapat berikutnya.\n\nCoba Akadiva gratis, link di bio.\n\n#manajemensekolah #yayasanpendidikan #kepalasekolah #rapatsekolah #akadiva"
+}

@@ -1,0 +1,94 @@
+{
+ "judul": "Guru Baru yang Betah",
+ "tema": "SDM sekolah",
+ "tanya": [
+  "Guru baru",
+  "betah bertahan?"
+ ],
+ "salah": "gajinya besar",
+ "kunci": "dibimbing",
+ "kepala": "dimulai dari 4 hal:",
+ "poin": [
+  [
+   "1. Disambut hangat",
+   "kenalan dengan tim"
+  ],
+  [
+   "2. Punya pendamping",
+   "guru senior jadi mentor"
+  ],
+  [
+   "3. Beban jelas",
+   "tugas dan jadwal tertulis"
+  ],
+  [
+   "4. Didengar rutin",
+   "ada obrolan tiap bulan"
+  ]
+ ],
+ "hasil": "guru betah",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira, guru baru betah karena gajinya besar.",
+   "say_ridwan": "Banyak yang mengira, guru baru betah, karena gajinya besar.",
+   "kunci": [
+    "gajinya"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal bukan itu saja.",
+   "say_ridwan": "Padahal, bukan itu saja."
+  },
+  {
+   "id": "n3",
+   "text": "Guru baru betah, kalau merasa dibimbing.",
+   "say_ridwan": "Guru baru betah, kalau merasa, dibimbing.",
+   "kunci": [
+    "dibimbing"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Rasa dibimbing itu dimulai dari empat hal.",
+   "say_ridwan": "Rasa dibimbing itu, dimulai dari empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, disambut hangat. Ia dikenalkan dengan seluruh tim.",
+   "say_ridwan": "Pertama, disambut hangat. Ia dikenalkan, dengan seluruh tim."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, punya pendamping. Guru senior menjadi tempat bertanya.",
+   "say_ridwan": "Kedua, punya pendamping. Guru senior, menjadi tempat bertanya."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, bebannya jelas. Tugas dan jadwal tertulis sejak hari pertama.",
+   "say_ridwan": "Ketiga, bebannya jelas. Tugas dan jadwal, tertulis sejak hari pertama."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, didengar rutin. Ada obrolan santai setiap bulan.",
+   "say_ridwan": "Keempat, didengar rutin. Ada obrolan santai, setiap bulan."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat guru baru merasa dibimbing.",
+   "say_ridwan": "Empat hal inilah, yang membuat guru baru, merasa dibimbing."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat merasa dibimbing, guru betah dan mengajar dengan tenang.",
+   "say_ridwan": "Dan saat merasa dibimbing, guru betah, dan mengajar dengan tenang."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah menata jadwal dan tugas guru dengan jelas.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, menata jadwal dan tugas guru, dengan jelas."
+  }
+ ],
+ "caption": "Guru baru betah bukan hanya karena gaji, tapi karena merasa dibimbing.\n\nEmpat hal yang bisa dimulai sekolah: sambutan hangat, pendamping dari guru senior, beban tugas dan jadwal yang jelas, serta obrolan rutin setiap bulan.\n\nCoba Akadiva gratis, link di bio.\n\n#sdmsekolah #gurubaru #yayasanpendidikan #kepalasekolah #manajemensekolah #akadiva"
+}
