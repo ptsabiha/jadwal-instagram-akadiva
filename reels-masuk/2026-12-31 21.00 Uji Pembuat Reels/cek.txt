@@ -1,0 +1,19 @@
+== 2026-12-31 21.00 Uji Pembuat Reels
+konten ok: Yayasan Pendidikan yang Baik
+-- membuat narasi Suara Ridwan
+n1 4.513 s  skor 0.89 | Banyak yang mengira, yaitan yang baik itu, gedungnya megah.
+n2 3.36 s  skor 1.0 | Padahal, gedung hanya wadah.
+n3 4.056 s  skor 0.78 | Ya ya sen yang baik, dimulai dari satu kata,  Amanah.
+n4 2.825 s  skor 0.83 | Pamanah itu dijaga oleh empat hal.
+n5 5.961 s  skor 0.86 | Pertama, visinya jelas. Semua tahu, sekolah ini mau dibawa kemana.
+n6 6.617 s  skor 0.84 | Kedua, keuangannya terbuka, setiap rupiah tercatat dan bisa dipertanggung jawabkan.
+n7 7.226 s  skor 0.92 | Ketiga, gurunya dihargai gaji tempat waktu dan ada ruang untuk terus belajar.
+n8 6.24 s  skor 0.92 | keempat, orang tua dilibatkan, kabar anak sampai ke rumah, bukan hanya saat rapport.
+n9 3.152 s  skor 1.0 | Empat hal inilah yang membuat amanah terjaga.
+n10 4.366 s  skor 0.88 | Dan saat amanah terjaga, murid tumbuh binan tenang.
+n11 6.237 s  skor 0.7 | Akadiva berisa biha edu, membantu yasan, menjaga amanah setiap hari.
+events 303 dur 62.91 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.0), 'chalk+fx': np.float64(-21.8)}
+durasi 62.900000s, 11 MB, frame hitam: 0, suara -14.0 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-12-31 21.00 Uji Pembuat Reels/reel.mp4
