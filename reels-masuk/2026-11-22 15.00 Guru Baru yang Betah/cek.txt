@@ -1,0 +1,20 @@
+== 2026-11-22 15.00 Guru Baru yang Betah
+konten ok: Guru Baru yang Betah
+-- membuat narasi Suara Ridwan
+n1 4.338 s  skor 1.1 | Banyak yang mengira guru baru betah karena gajinya besar.
+n2 2.125 s  skor 1.0 | Padahal, bukan itu saja.
+n3 3.538 s  skor 1.1 | Guru baru betah kalau merasa dibimbing.
+n4 3.176 s  skor 0.71 | Rasa di bimbing itu dimulai dari 4 hal.
+n5 5.209 s  skor 1.0 | Pertama disambut hangat, ia dikenalkan dengan seluruh tim.
+n6 5.371 s  skor 1.0 | Kedua, punya pendamping. Guru senior menjadi tempat bertanya.
+n7 6.002 s  skor 1.0 | Ketiga, bebannya jelas. Tugas dan jadwal tertulis sejak hari pertama.
+n8 4.904 s  skor 0.62 | HIMPAD DIGENGAR ROOTING  Ada obrolan santai setiap bulan
+n9 4.516 s  skor 1.0 | Empat hal inilah yang membuat guru baru merasa dibimbing.
+n10 4.77 s  skor 1.0 | dan saat merasa dibimbing, guru betah dan mengajar dengan tenang.
+n11 6.73 s  skor 0.92 | Akadiva Bai Sabiha Edu membantu sekolah menata jadwal dan tugas guru dengan jelas.
+PERINGATAN: kalimat kurang jelas (skor < 0,7): n8
+events 294 dur 59.46 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.8)}
+durasi 59.460000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-22 15.00 Guru Baru yang Betah/reel.mp4

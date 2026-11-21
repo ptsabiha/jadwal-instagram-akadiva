@@ -1,0 +1,75 @@
+1
+00:00:00,370 --> 00:00:01,992
+Banyak yang mengira,
+
+2
+00:00:01,992 --> 00:00:05,464
+arsip sekolah yang rapi itu lemarinya banyak.
+
+3
+00:00:05,464 --> 00:00:08,723
+Padahal lemari hanya tempat.
+
+4
+00:00:08,723 --> 00:00:10,267
+Arsip yang rapi,
+
+5
+00:00:10,267 --> 00:00:12,786
+adalah yang mudah dicari.
+
+6
+00:00:13,856 --> 00:00:17,448
+Mudah dicari itu dibangun oleh empat hal.
+
+7
+00:00:17,448 --> 00:00:20,736
+Pertama, satu aturan nama berkas.
+
+8
+00:00:20,736 --> 00:00:23,762
+Tanggal, jenis, lalu nama.
+
+9
+00:00:23,762 --> 00:00:26,356
+Kedua, satu tempat simpan.
+
+10
+00:00:26,356 --> 00:00:29,188
+Bukan tersebar di banyak map.
+
+11
+00:00:29,188 --> 00:00:31,830
+Ketiga, ada penanggung jawab.
+
+12
+00:00:31,830 --> 00:00:34,882
+Satu orang yang memegang kuncinya.
+
+13
+00:00:34,882 --> 00:00:37,421
+Keempat, dicadangkan rutin.
+
+14
+00:00:37,421 --> 00:00:40,721
+Salinan digitalnya selalu tersimpan.
+
+15
+00:00:40,721 --> 00:00:45,232
+Empat hal inilah yang membuat arsip mudah dicari.
+
+16
+00:00:45,302 --> 00:00:47,663
+Dan saat arsip mudah dicari,
+
+17
+00:00:47,663 --> 00:00:51,139
+data sekolah aman dan kerja jadi ringan.
+
+18
+00:00:51,209 --> 00:00:56,901
+Akadiva by SABIHA Edu, membantu sekolah menyimpan data siswa di satu tempat,
+
+19
+00:00:56,901 --> 00:00:59,470
+lengkap dengan log aktivitas.

@@ -1,0 +1,19 @@
+== 2026-11-22 09.00 Rapat Sekolah yang Berhasil
+konten ok: Rapat Sekolah yang Berhasil
+-- membuat narasi Suara Ridwan
+n1 4.501 s  skor 1.1 | banyak yang mengira rapat yang berhasil itu yang paling lama.
+n2 3.217 s  skor 1.0 | Padahal lama belum tentu hasil.
+n3 4.452 s  skor 1.1 | Rapat yang berhasil berakhir dengan satu kata, tindakan.
+n4 3.104 s  skor 1.0 | Tindakan itu ditentukan oleh empat hal.
+n5 5.782 s  skor 1.0 | Pertama, agenda dikirim lebih dulu. Semua datang dalam keadaan siap.
+n6 5.796 s  skor 1.0 | Kedua, waktunya dibatasi, mulai dan selesai tepat waktu.
+n7 5.901 s  skor 1.0 | Ketiga, keputusan dicatat, jelas siapa mengerjakan apa dan kapan.
+n8 6.668 s  skor 1.0 | keempat, tindak lanjut dicek. Rapat berikutnya, mulai dari hasil, bukan dari nol.
+n9 3.306 s  skor 1.0 | Empat hal inilah yang membuat tindakan nyata.
+n10 4.499 s  skor 1.0 | dan saat tindakan nyata, rapat jadi berguna bagi semua.
+n11 6.977 s  skor 0.92 | Akadiva Bay Sabiha Edu membantu sekolah mengelola kegiatan dan datanya dalam satu tempat.
+events 313 dur 62.72 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.7)}
+durasi 62.720000s, 12 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-22 09.00 Rapat Sekolah yang Berhasil/reel.mp4
