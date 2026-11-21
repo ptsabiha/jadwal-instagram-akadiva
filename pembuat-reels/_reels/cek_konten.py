@@ -12,6 +12,10 @@ if not err:
         if len(t) > maks: err.append(f'{label} "{t}" terlalu panjang ({len(t)} > {maks} huruf)')
     if len(K['tanya']) != 2: err.append('"tanya" harus 2 baris: [kata besar, baris kecil]')
     else: papan('tanya[0]', K['tanya'][0], 10); papan('tanya[1]', K['tanya'][1], 18)
+    TEMA = {'manajemen sekolah', 'sdm sekolah', 'administrasi sekolah', 'branding sekolah', 'kelembagaan yayasan'}
+    if str(K['tema']).strip().lower() not in TEMA: err.append(f'"tema" harus salah satu dari: {", ".join(sorted(TEMA))} (dipakai di sampul)')
+    if len(K['judul']) > 42: err.append(f'"judul" terlalu panjang untuk sampul ({len(K["judul"])} > 42 huruf)')
+    papan('judul', K['judul'], 42)
     papan('salah', K['salah'], 18); papan('kunci', K['kunci'], 9); papan('kepala', K['kepala'], 22); papan('hasil', K['hasil'], 16)
     if len(K['poin']) != 4: err.append('"poin" harus tepat 4 baris')
     for i, p in enumerate(K['poin']):
