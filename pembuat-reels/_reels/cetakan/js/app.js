@@ -17,6 +17,7 @@ installDeposit();
 
 const KERJA = Q.get('kerja') || '_kerja';                     // the reel being made: konten.json + vo/ (Suara Ridwan)
 const K = await (await fetch(KERJA + '/konten.json')).json();
+globalThis.WARNA_PAPAN = Q.get('papan') || K.papan || 'hijau';      // board paint (stage.js WARNA)
 if (Q.has('sampul')) {                                          // ?sampul: the reel's cover (one fixed layout for a tidy grid)
   await (await import('./sampul.js')).gambar(cv, W, H, K);
   window.DUR = 1; window.render = () => {}; window.READY = true;

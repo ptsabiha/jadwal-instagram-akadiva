@@ -10,6 +10,12 @@ export const WALL = [-1500, -1500, 9400, 4900];          // x0, y0, w, h
 export const WALL_R = .5;                                 // px per unit for the wall bake
 export const SLATE_R = 1;                                 // px per unit for the slates
 
+// board paint: 'hijau' (classic green slate) or 'biru' (deep navy, Akadiva's colour). Chosen by the page (?papan=, konten.papan).
+export const WARNA = {
+  hijau: { dasar: '#0f1c15', m1: [22, 36, 29], m2: [10, 18, 14], gelap: '#0b130f' },
+  biru: { dasar: '#0d1a30', m1: [24, 38, 62], m2: [8, 14, 28], gelap: '#0a1222' },
+};
+const W_ = () => WARNA[globalThis.WARNA_PAPAN] || WARNA.hijau;
 export const css = (c, a = 1) => `rgba(${c[0]},${c[1]},${c[2]},${a})`;
 
 // a smooth noise image whose alpha is the noise (fixed colour); scaled up it stays smooth
@@ -27,10 +33,10 @@ function noiseLayer(w, h, seed, rgb, aMax, pow = 1) {
 export function bakeSlate(w, h, seed, edges = false) {
   const R = SLATE_R, m = edges ? 34 : 0, cv = new OffscreenCanvas(Math.ceil((w + 2 * m) * R), Math.ceil(h * R)), c = cv.getContext('2d');
   c.scale(R, R); c.translate(m, 0); c.imageSmoothingQuality = 'high';
-  c.fillStyle = '#0f1c15'; c.fillRect(0, 0, w, h);
+  c.fillStyle = W_().dasar; c.fillRect(0, 0, w, h);
   // very slow, very low mottling: the paint is even, not patchy
-  c.drawImage(noiseLayer(Math.ceil(w / 260), Math.ceil(h / 260), seed, [22, 36, 29], .5), 0, 0, w, h);
-  c.drawImage(noiseLayer(Math.ceil(w / 60), Math.ceil(h / 60), seed + 1, [10, 18, 14], .28), 0, 0, w, h);
+  c.drawImage(noiseLayer(Math.ceil(w / 260), Math.ceil(h / 260), seed, W_().m1, .5), 0, 0, w, h);
+  c.drawImage(noiseLayer(Math.ceil(w / 60), Math.ceil(h / 60), seed + 1, W_().m2, .28), 0, 0, w, h);
   if (edges) {                                         // the panel's own wooden stiles
     for (const x0 of [-m, w]) wood(c, x0, 0, m, h, false, seed + (x0 < 0 ? 5 : 6));
     for (const x0 of [0, w - 26]) { const g = c.createLinearGradient(x0, 0, x0 + 26, 0); const L = x0 === 0; g.addColorStop(0, `rgba(0,0,0,${L ? .38 : 0})`); g.addColorStop(1, `rgba(0,0,0,${L ? 0 : .38})`); c.fillStyle = g; c.fillRect(x0, 0, 26, h); }
@@ -80,7 +86,7 @@ export function bakeWall() {
   c.save(); c.filter = 'blur(40px)'; c.fillStyle = 'rgba(30,26,20,.45)'; c.fillRect(-40, -40, BW + 150, BH + 230); c.restore();
   // frame: four rails
   const F = 70;
-  c.fillStyle = '#0b130f'; c.fillRect(0, 0, BW, BH);
+  c.fillStyle = W_().gelap; c.fillRect(0, 0, BW, BH);
   wood(c, -F, -F, BW + 2 * F, F, true, 1); wood(c, -F, BH, BW + 2 * F, F, true, 2); wood(c, -F, 0, F, BH, false, 3); wood(c, BW, 0, F, BH, false, 4);
   c.strokeStyle = 'rgba(0,0,0,.55)'; c.lineWidth = 3; c.strokeRect(-1.5, -1.5, BW + 3, BH + 3);
   // chalk tray: a shelf under the bottom rail, its top face catching light

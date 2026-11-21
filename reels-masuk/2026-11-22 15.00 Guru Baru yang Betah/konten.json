@@ -56,8 +56,12 @@
   },
   {
    "id": "n5",
-   "text": "Pertama, disambut hangat. Ia dikenalkan dengan seluruh tim.",
-   "say_ridwan": "Pertama, disambut hangat. Ia dikenalkan, dengan seluruh tim."
+   "text": "Pertama, guru baru disambut dengan hangat. Ia dikenalkan dengan seluruh tim.",
+   "say_ridwan": "Pertama, guru baru disambut, dengan hangat. Ia dikenalkan, dengan seluruh tim.",
+   "kunci": [
+    "disambut",
+    "hangat"
+   ]
   },
   {
    "id": "n6",
