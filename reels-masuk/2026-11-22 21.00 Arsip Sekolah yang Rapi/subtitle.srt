@@ -1,79 +1,79 @@
 1
-00:00:00,370 --> 00:00:01,991
+00:00:00,370 --> 00:00:01,993
 Banyak yang mengira,
 
 2
-00:00:01,991 --> 00:00:05,463
+00:00:01,993 --> 00:00:05,468
 arsip sekolah yang rapi itu lemarinya banyak.
 
 3
-00:00:05,463 --> 00:00:08,532
+00:00:05,468 --> 00:00:08,532
 Padahal lemari hanya tempat.
 
 4
-00:00:08,532 --> 00:00:10,075
+00:00:08,532 --> 00:00:10,081
 Arsip yang rapi,
 
 5
-00:00:10,075 --> 00:00:12,593
+00:00:10,081 --> 00:00:12,608
 adalah yang mudah dicari.
 
 6
-00:00:13,663 --> 00:00:17,240
+00:00:13,678 --> 00:00:17,254
 Mudah dicari itu dibangun oleh empat hal.
 
 7
-00:00:17,240 --> 00:00:20,523
+00:00:17,254 --> 00:00:20,542
 Pertama, satu aturan nama berkas.
 
 8
-00:00:20,523 --> 00:00:23,546
+00:00:20,542 --> 00:00:23,569
 Tanggal, jenis, lalu nama.
 
 9
-00:00:23,546 --> 00:00:26,114
+00:00:23,569 --> 00:00:26,127
 Kedua, satu tempat simpan.
 
 10
-00:00:26,114 --> 00:00:28,920
+00:00:26,127 --> 00:00:28,922
 Bukan tersebar di banyak map.
 
 11
-00:00:28,920 --> 00:00:31,497
+00:00:28,922 --> 00:00:31,519
 Ketiga, ada penanggung jawab.
 
 12
-00:00:31,497 --> 00:00:34,480
+00:00:31,519 --> 00:00:34,524
 Satu orang yang memegang kuncinya.
 
 13
-00:00:34,480 --> 00:00:35,430
+00:00:34,524 --> 00:00:35,473
 Keempat,
 
 14
-00:00:35,430 --> 00:00:38,499
+00:00:35,473 --> 00:00:38,537
 selalu dibuat cadangan secara rutin.
 
 15
-00:00:38,499 --> 00:00:41,930
+00:00:38,537 --> 00:00:41,962
 Salinan digitalnya selalu tersimpan.
 
 16
-00:00:41,930 --> 00:00:46,445
+00:00:41,962 --> 00:00:46,475
 Empat hal inilah yang membuat arsip mudah dicari.
 
 17
-00:00:46,515 --> 00:00:48,876
+00:00:46,545 --> 00:00:48,905
 Dan saat arsip mudah dicari,
 
 18
-00:00:48,876 --> 00:00:52,352
+00:00:48,905 --> 00:00:52,379
 data sekolah aman dan kerja jadi ringan.
 
 19
-00:00:52,422 --> 00:00:58,116
+00:00:52,449 --> 00:00:58,141
 Akadiva by SABIHA Edu, membantu sekolah menyimpan data siswa di satu tempat,
 
 20
-00:00:58,116 --> 00:01:00,686
+00:00:58,141 --> 00:01:00,710
 lengkap dengan log aktivitas.

@@ -1,71 +1,75 @@
 1
-00:00:00,370 --> 00:00:02,046
+00:00:00,370 --> 00:00:02,044
 Banyak yang mengira,
 
 2
-00:00:02,046 --> 00:00:05,059
+00:00:02,044 --> 00:00:05,052
 guru baru betah karena gajinya besar.
 
 3
-00:00:05,059 --> 00:00:07,582
+00:00:05,052 --> 00:00:07,579
 Padahal bukan itu saja.
 
 4
-00:00:07,582 --> 00:00:11,501
+00:00:07,579 --> 00:00:11,493
 Guru baru betah, kalau merasa dibimbing.
 
 5
-00:00:13,101 --> 00:00:16,625
+00:00:13,093 --> 00:00:16,608
 Rasa dibimbing itu dimulai dari empat hal.
 
 6
-00:00:16,625 --> 00:00:19,009
-Pertama, disambut hangat.
+00:00:16,608 --> 00:00:17,570
+Pertama,
 
 7
-00:00:19,009 --> 00:00:21,982
-Ia dikenalkan dengan seluruh tim.
+00:00:17,570 --> 00:00:20,402
+guru baru disambut dengan hangat.
 
 8
-00:00:21,982 --> 00:00:24,327
-Kedua, punya pendamping.
+00:00:20,402 --> 00:00:23,505
+Ia dikenalkan dengan seluruh tim.
 
 9
-00:00:24,327 --> 00:00:27,633
-Guru senior menjadi tempat bertanya.
+00:00:23,505 --> 00:00:25,852
+Kedua, punya pendamping.
 
 10
-00:00:27,633 --> 00:00:29,897
-Ketiga, bebannya jelas.
+00:00:25,852 --> 00:00:29,161
+Guru senior menjadi tempat bertanya.
 
 11
-00:00:29,897 --> 00:00:33,854
-Tugas dan jadwal tertulis sejak hari pertama.
+00:00:29,161 --> 00:00:31,435
+Ketiga, bebannya jelas.
 
 12
-00:00:33,854 --> 00:00:36,386
-Keempat, didengar rutin.
+00:00:31,435 --> 00:00:35,407
+Tugas dan jadwal tertulis sejak hari pertama.
 
 13
-00:00:36,386 --> 00:00:39,549
-Ada obrolan santai setiap bulan.
+00:00:35,407 --> 00:00:37,934
+Keempat, didengar rutin.
 
 14
-00:00:39,549 --> 00:00:44,432
-Empat hal inilah yang membuat guru baru merasa dibimbing.
+00:00:37,934 --> 00:00:41,092
+Ada obrolan santai setiap bulan.
 
 15
-00:00:44,502 --> 00:00:46,561
-Dan saat merasa dibimbing,
+00:00:41,092 --> 00:00:45,984
+Empat hal inilah yang membuat guru baru merasa dibimbing.
 
 16
-00:00:46,561 --> 00:00:49,648
-guru betah dan mengajar dengan tenang.
+00:00:46,054 --> 00:00:48,110
+Dan saat merasa dibimbing,
 
 17
-00:00:49,718 --> 00:00:51,688
-Akadiva by SABIHA Edu,
+00:00:48,110 --> 00:00:51,193
+guru betah dan mengajar dengan tenang.
 
 18
-00:00:51,688 --> 00:00:56,830
+00:00:51,263 --> 00:00:53,231
+Akadiva by SABIHA Edu,
+
+19
+00:00:53,231 --> 00:00:58,366
 membantu sekolah menata jadwal dan tugas guru dengan jelas.

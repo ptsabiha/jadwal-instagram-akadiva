@@ -1,19 +1,19 @@
 == 2026-11-22 15.00 Guru Baru yang Betah
 konten ok: Guru Baru yang Betah
 -- membuat narasi Suara Ridwan
-n1 4.339 s  skor 1.1 | Banyak yang mengira, guru baru betah karena gajinya besar.
-n2 2.173 s  skor 1.0 | Padahal, bukan itu saja.
-n3 3.539 s  skor 1.1 | Guru baru betah kalau merasa dibimbing.
-n4 3.174 s  skor 1.0 | rasa dibimbing itu dimulai dari empat hal
-n5 5.007 s  skor 0.71 | Pertama, di sebuah hanggit, ia dikenalkan dengan seluruh tim.
-n6 5.301 s  skor 0.93 | 2. Punya pendamping. Guru senior menjadi tempat bertanya.
-n7 5.871 s  skor 1.0 | Ketiga, bebannya jelas. Tugas dan jadwal tertulis sejak hari pertama.
-n8 5.345 s  skor 0.82 | Keempat, di dengar rutin, ada obrolan santai setiap bulan.
-n9 4.503 s  skor 1.0 | Empat hal inilah yang membuat guru baru merasa dibimbing.
-n10 4.766 s  skor 1.0 | dan saat merasa dibimbing, guru betah dan mengajar dengan tenang.
-n11 6.732 s  skor 0.92 | Akadiva Bai Sabiha Edu membantu sekolah menata jadwal dan tugas guru dengan jelas.
-events 294 dur 59.53 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+n1 4.332 s  skor 0.99 | Banyak yang menirah, guru baru betah karena gajinya besar.
+n2 2.177 s  skor 1.0 | Padahal, bukan itu saja.
+n3 3.534 s  skor 1.1 | Guru baru betah kalau merasa dibimbing.
+n4 3.165 s  skor 1.0 | rasa dibimbing itu dimulai dari empat hal
+n5 6.547 s  skor 1.2 | Pertama, guru baru disambut dengan hangat, ia dikenalkan dengan seluruh tim.
+n6 5.306 s  skor 1.0 | Kedua, punya pendamping. Guru senior menjadi tempat bertanya.
+n7 5.896 s  skor 1.0 | Ketiga, bebannya jelas. Tugas dan jadwal tertulis sejak hari pertama.
+n8 5.335 s  skor 0.82 | Keempat di demgak rutin. Ada obrolan santai setiap bulan.
+n9 4.512 s  skor 1.0 | Empat hal inilah yang membuat guru baru merasa dibimbing.
+n10 4.759 s  skor 1.0 | dan saat merasa dibimbing, guru betah dan mengajar dengan tenang.
+n11 6.723 s  skor 0.92 | Akadiva Bai Sabiha Edu membantu sekolah menata jadwal dan tugas guru dengan jelas.
+events 295 dur 61.07 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
 readcheck ok
-stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.8)}
-durasi 59.530000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.9)}
+durasi 61.066667s, 11 MB, frame hitam: 0, suara -14.1 LUFS
 SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-22 15.00 Guru Baru yang Betah/reel.mp4
