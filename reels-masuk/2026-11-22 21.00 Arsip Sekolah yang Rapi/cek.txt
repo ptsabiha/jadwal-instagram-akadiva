@@ -1,19 +1,19 @@
 == 2026-11-22 21.00 Arsip Sekolah yang Rapi
 konten ok: Arsip Sekolah yang Rapi
 -- membuat narasi Suara Ridwan
-n1 4.749 s  skor 1.1 | banyak yang mengira arsip sekolah yang rapi itu lemarinya banyak.
-n2 2.717 s  skor 1.0 | Padahal lemari hanya tempat.
-n3 3.695 s  skor 1.1 | Arsip yang rapi adalah yang mudah dicari.
-n4 3.254 s  skor 1.0 | mudah dicari itu dibangun oleh empat hal.
-n5 5.955 s  skor 1.0 | Pertama, satu aturan nama berkas, tanggal, jenis, lalu nama.
-n6 5.013 s  skor 1.0 | Kedua, satu tempat simpan. Bukan tersebar di banyak map.
-n7 5.239 s  skor 1.0 | Ketiga ada penanggung jawab, satu orang yang memegang kuncinya.
-n8 5.58 s  skor 0.71 | keempat, dikadang routing, salinan digitalnya selalu tersimpan.
+n1 4.743 s  skor 1.1 | banyak yang mengira arsip sekolah yang rapi itu lemarinya banyak.
+n2 2.719 s  skor 1.0 | Padahal lemari hanya tempat.
+n3 3.681 s  skor 1.1 | Arsip yang rapi adalah yang mudah dicari.
+n4 3.227 s  skor 1.0 | mudah dicari itu dibangun oleh empat hal.
+n5 5.956 s  skor 1.0 | Pertama, satu aturan nama berkas, tanggal, jenis, lalu nama.
+n6 5.024 s  skor 1.0 | Kedua, satu tempat simpan. Bukan tersebar di banyak map.
+n7 5.21 s  skor 1.0 | Ketiga ada penanggung jawab, satu orang yang memegang kuncinya.
+n8 7.1 s  skor 1.2 | keempat selalu dibuat cadangan secara rutin, salinan digitalnya selalu tersimpan.
 n9 4.135 s  skor 0.88 | Empat hal inilah yang membuat arsif mudah dicari.
-n10 5.464 s  skor 1.0 | dan saat arsip mudah dicari data sekolah aman dan kerja jadi ringan.
-n11 7.895 s  skor 0.94 | Akadiva Bay Sabiha Edu membantu sekolah menyimpan data siswa di satu tempat, lengkap dengan log aktivitas.
-events 298 dur 61.95 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+n10 5.457 s  skor 1.0 | dan saat arsip mudah dicari, data sekolah aman dan kerja jadi ringan.
+n11 7.884 s  skor 0.94 | Akadiva Bay Sabiha Edu membantu sekolah menyimpan data siswa di satu tempat, lengkap dengan log aktivitas.
+events 299 dur 63.39 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
 readcheck ok
-stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.8)}
-durasi 61.950000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.7)}
+durasi 63.390000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
 SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-22 21.00 Arsip Sekolah yang Rapi/reel.mp4

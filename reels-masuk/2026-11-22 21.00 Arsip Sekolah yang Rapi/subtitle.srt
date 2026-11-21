@@ -1,75 +1,79 @@
 1
-00:00:00,370 --> 00:00:01,993
+00:00:00,370 --> 00:00:01,991
 Banyak yang mengira,
 
 2
-00:00:01,993 --> 00:00:05,469
+00:00:01,991 --> 00:00:05,463
 arsip sekolah yang rapi itu lemarinya banyak.
 
 3
-00:00:05,469 --> 00:00:08,536
+00:00:05,463 --> 00:00:08,532
 Padahal lemari hanya tempat.
 
 4
-00:00:08,536 --> 00:00:10,085
+00:00:08,532 --> 00:00:10,075
 Arsip yang rapi,
 
 5
-00:00:10,085 --> 00:00:12,611
+00:00:10,075 --> 00:00:12,593
 adalah yang mudah dicari.
 
 6
-00:00:13,681 --> 00:00:17,285
+00:00:13,663 --> 00:00:17,240
 Mudah dicari itu dibangun oleh empat hal.
 
 7
-00:00:17,285 --> 00:00:20,568
+00:00:17,240 --> 00:00:20,523
 Pertama, satu aturan nama berkas.
 
 8
-00:00:20,568 --> 00:00:23,590
+00:00:20,523 --> 00:00:23,546
 Tanggal, jenis, lalu nama.
 
 9
-00:00:23,590 --> 00:00:26,153
+00:00:23,546 --> 00:00:26,114
 Kedua, satu tempat simpan.
 
 10
-00:00:26,153 --> 00:00:28,953
+00:00:26,114 --> 00:00:28,920
 Bukan tersebar di banyak map.
 
 11
-00:00:28,953 --> 00:00:31,544
+00:00:28,920 --> 00:00:31,497
 Ketiga, ada penanggung jawab.
 
 12
-00:00:31,544 --> 00:00:34,542
+00:00:31,497 --> 00:00:34,480
 Satu orang yang memegang kuncinya.
 
 13
-00:00:34,542 --> 00:00:37,122
-Keempat, dicadangkan rutin.
+00:00:34,480 --> 00:00:35,430
+Keempat,
 
 14
-00:00:37,122 --> 00:00:40,472
-Salinan digitalnya selalu tersimpan.
+00:00:35,430 --> 00:00:38,499
+selalu dibuat cadangan secara rutin.
 
 15
-00:00:40,472 --> 00:00:44,987
-Empat hal inilah yang membuat arsip mudah dicari.
+00:00:38,499 --> 00:00:41,930
+Salinan digitalnya selalu tersimpan.
 
 16
-00:00:45,057 --> 00:00:47,421
-Dan saat arsip mudah dicari,
+00:00:41,930 --> 00:00:46,445
+Empat hal inilah yang membuat arsip mudah dicari.
 
 17
-00:00:47,421 --> 00:00:50,901
-data sekolah aman dan kerja jadi ringan.
+00:00:46,515 --> 00:00:48,876
+Dan saat arsip mudah dicari,
 
 18
-00:00:50,971 --> 00:00:56,673
-Akadiva by SABIHA Edu, membantu sekolah menyimpan data siswa di satu tempat,
+00:00:48,876 --> 00:00:52,352
+data sekolah aman dan kerja jadi ringan.
 
 19
-00:00:56,673 --> 00:00:59,246
+00:00:52,422 --> 00:00:58,116
+Akadiva by SABIHA Edu, membantu sekolah menyimpan data siswa di satu tempat,
+
+20
+00:00:58,116 --> 00:01:00,686
 lengkap dengan log aktivitas.
