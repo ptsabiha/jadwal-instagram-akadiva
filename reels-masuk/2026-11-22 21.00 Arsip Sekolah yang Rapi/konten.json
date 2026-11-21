@@ -71,8 +71,12 @@
   },
   {
    "id": "n8",
-   "text": "Keempat, dicadangkan rutin. Salinan digitalnya selalu tersimpan.",
-   "say_ridwan": "Keempat, dicadangkan rutin. Salinan digitalnya, selalu tersimpan."
+   "text": "Keempat, selalu dibuat cadangan secara rutin. Salinan digitalnya selalu tersimpan.",
+   "say_ridwan": "Keempat, selalu dibuat cadangan, secara rutin. Salinan digitalnya, selalu tersimpan.",
+   "kunci": [
+    "cadangan",
+    "rutin"
+   ]
   },
   {
    "id": "n9",

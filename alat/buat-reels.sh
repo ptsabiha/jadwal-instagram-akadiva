@@ -5,7 +5,7 @@
 # Butuh env: LIB (pustaka Lemo-Opuscar), SUARA_PY (Python berisi torch, edge-tts, faster-whisper).
 set -u
 AKAR=$(cd "$(dirname "$0")/.." && pwd); cd "$AKAR"
-OK=0; GAGAL=0; GRUP=""
+OK=0; GAGAL=0; IDS=""
 for d in reels-masuk/*/; do
   [ -f "$d/konten.json" ] || continue
   [ -f "$d/status.txt" ] && continue
@@ -16,16 +16,22 @@ for d in reels-masuk/*/; do
   detik=$(( $(date +%s) - mulai ))
   echo "::endgroup::"
   if grep -q "^SIAP" "$d/cek.txt" 2>/dev/null; then
-    if node alat/jadwal.mjs tambah "$d" --judul "$judul" --grup "reels-$tgl" --waktu "$tgl $jam" --senyap; then
-      echo "siap $(date -u +%FT%TZ) ${detik}s" > "$d/status.txt"; OK=$((OK + 1)); GRUP="$GRUP reels-$tgl"
+    keluar=$(node alat/jadwal.mjs tambah "$d" --judul "$judul" --grup "reels-$tgl" --waktu "$tgl $jam" --senyap 2>&1); echo "$keluar"
+    id=$(echo "$keluar" | sed -n 's/.*\[\([^]]*\)\]$/\1/p' | tail -1)
+    if [ -n "$id" ]; then
+      echo "siap $(date -u +%FT%TZ) ${detik}s $id" > "$d/status.txt"; OK=$((OK + 1)); IDS="$IDS $id"
     else echo "gagal antre $(date -u +%FT%TZ)" > "$d/status.txt"; GAGAL=$((GAGAL + 1)); fi
   else
     echo "gagal $(date -u +%FT%TZ) ${detik}s" > "$d/status.txt"; GAGAL=$((GAGAL + 1))
     echo "::error::Reels gagal: $nama"; tail -8 "$d/cek.txt" 2>/dev/null
   fi
 done
-# approve every group that got a new reel (draf -> menunggu); this also commits and pushes the queue
-for g in $(echo "$GRUP" | tr ' ' '\n' | sort -u); do node alat/jadwal.mjs setujui --grup "$g" --tanpa-uji; done
+# approve exactly the new reels by id (draf -> menunggu); a group may already hold approved posts, which "setujui --grup"
+# refuses (22 Nov 2026: two re-made reels were lost that way). This also commits and pushes the queue.
+if [ -n "$IDS" ] && ! node alat/jadwal.mjs setujui $IDS --tanpa-uji; then
+  echo "::error::Menyetujui gagal; draf tetap disimpan"; git add antrian; git commit -q -m "📝 Draf reels (belum disetujui):$IDS" || true
+  git pull -q --rebase && git push -q; GAGAL=$((GAGAL + 1))
+fi
 # keep the outcome of every folder (status.txt, cek.txt, sampul, subtitle) in the repo; videos and voice stay out (.gitignore)
 git add reels-masuk
 git diff --cached --quiet || { git commit -q -m "🎬 Pembuat reels: $OK siap, $GAGAL gagal"; git pull -q --rebase && git push -q; }
