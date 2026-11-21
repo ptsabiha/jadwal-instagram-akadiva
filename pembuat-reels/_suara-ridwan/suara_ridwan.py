@@ -31,7 +31,9 @@ KAMUS_UCAPAN = os.path.join(HERE, 'kamus-ucapan.json')
 ASLI, PITCH_ASLI = 'id-ID-ArdiNeural', '+29Hz'
 # opening interjections are spoken by the native Indonesian voice (also turned into Ridwan's timbre) and joined to Brian's
 # sentence: the owner's choice "N3" (21 Nov 2026) for "Nah"; the same rule holds for every interjection in this list
-KATA_SERU = {'nah', 'lho', 'loh', 'wah', 'yuk', 'ayo', 'eh', 'duh', 'aduh', 'lha', 'wow', 'oh', 'hmm', 'nah,'}
+KATA_SERU = {'nah', 'lho', 'loh', 'wah', 'yuk', 'ayo', 'eh', 'duh', 'aduh', 'lha', 'wow', 'oh', 'hmm',
+             # ordinal openers too: Brian read "Keempat" as "Himpad" (reels 22 Nov 2026), so they get the same treatment
+             'pertama', 'kedua', 'ketiga', 'keempat', 'kelima', 'terakhir', 'padahal', 'jadi', 'akhirnya'}
 CK = os.environ.get('SUARA_CK') or os.path.join(HERE, 'checkpoints_v2', 'converter')
 CK_URL = 'https://huggingface.co/myshell-ai/OpenVoiceV2/resolve/main/converter/'
 SE = os.path.join(HERE, 'sidik')
