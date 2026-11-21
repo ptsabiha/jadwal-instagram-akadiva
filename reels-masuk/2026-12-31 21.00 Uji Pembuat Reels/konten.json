@@ -1,0 +1,88 @@
+{
+ "judul": "Yayasan Pendidikan yang Baik",
+ "tema": "kelembagaan yayasan",
+ "tanya": [
+  "Yayasan",
+  "yang baik itu?"
+ ],
+ "salah": "gedungnya megah",
+ "kunci": "amanah",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Visi jelas",
+   "tahu mau dibawa ke mana"
+  ],
+  [
+   "2. Keuangan terbuka",
+   "setiap rupiah tercatat"
+  ],
+  [
+   "3. Guru dihargai",
+   "gaji tepat, terus belajar"
+  ],
+  [
+   "4. Orang tua dilibatkan",
+   "kabar sampai ke rumah"
+  ]
+ ],
+ "hasil": "murid tumbuh",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira, yayasan yang baik itu gedungnya megah.",
+   "say_ridwan": "Banyak yang mengira, yayasan yang baik itu, gedungnya megah."
+  },
+  {
+   "id": "n2",
+   "text": "Padahal gedung hanya wadah.",
+   "say_ridwan": "Padahal, gedung, hanya wadah."
+  },
+  {
+   "id": "n3",
+   "text": "Yayasan yang baik dimulai dari satu kata: amanah.",
+   "say_ridwan": "Yayasan yang baik, dimulai dari satu kata: amanah."
+  },
+  {
+   "id": "n4",
+   "text": "Amanah itu dijaga oleh empat hal.",
+   "say_ridwan": "Amanah itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, visinya jelas. Semua tahu sekolah ini mau dibawa ke mana.",
+   "say_ridwan": "Pertama, visinya jelas. Semua tahu, sekolah ini mau dibawa ke mana."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, keuangannya terbuka. Setiap rupiah tercatat dan bisa dipertanggungjawabkan.",
+   "say_ridwan": "Kedua, keuangannya terbuka. Setiap rupiah tercatat, dan bisa dipertanggungjawabkan."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, gurunya dihargai. Gaji tepat waktu, dan ada ruang untuk terus belajar.",
+   "say_ridwan": "Ketiga, gurunya dihargai. Gaji tepat waktu, dan ada ruang, untuk terus belajar."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, orang tua dilibatkan. Kabar anak sampai ke rumah, bukan hanya saat rapor.",
+   "say_ridwan": "Keempat, orang tua dilibatkan. Kabar anak sampai ke rumah, bukan hanya saat rapor."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat amanah terjaga.",
+   "say_ridwan": "Empat hal inilah, yang membuat amanah terjaga."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat amanah terjaga, murid tumbuh dengan tenang.",
+   "say_ridwan": "Dan saat amanah terjaga, murid tumbuh, dengan tenang."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu yayasan menjaga amanah setiap hari.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu yayasan, menjaga amanah, setiap hari."
+  }
+ ],
+ "caption": "Yayasan yang baik tidak dilihat dari gedungnya, tapi dari amanah yang dijaga setiap hari.\n\n#yayasanpendidikan #manajemensekolah #akadiva"
+}

@@ -1,0 +1,31 @@
+Reels papan kapur Akadiva (cetakan dari film "Yayasan Pendidikan yang Baik")
+
+GAMBAR
+- Tidak ada foto, rekaman video, gambar AI, atau model 3D. Dinding kelas, papan, bingkai, baki, jam, kapur, dan hapusan
+  digambar dengan kode (js/stage.js, js/chalk.js, js/app.js). Mesin kapur disalin dari pustaka gaya Lemo-Opuscar
+  (github.com/lemomo-ai/lemo-opuscar) lalu disesuaikan.
+
+FONT (SIL Open Font License 1.1; teks lisensi di fonts/)
+- EMS Delight (tulisan guru) dan EMS Casual Hand (tulisan murid): font SVG satu garis, turunan Delius (Natalia Raices)
+  dan Covered By Your Grace (Kimberly Geswein); konversi SVG oleh Sheldon B. Michaels dan Windell H. Oskay,
+  gitlab.com/oskay/svg-fonts. fonts/OFL-EMS.txt
+- Andika (SIL International): huruf subtitle. fonts/OFL-Andika.txt
+
+SUARA NARATOR
+- Edge TTS (layanan suara Microsoft), suara id-ID-ArdiNeural, +4 %. Diperiksa dengan faster-whisper (MIT; model Whisper, MIT).
+  Periksa sendiri ketentuan Microsoft sebelum memakai suara ini untuk iklan berbayar.
+
+BUNYI
+- Rekaman kapur dari Wikimedia Commons, dipotong menjadi butir (tools/foley_lib.py → foley/lib):
+  - "chalk-on-chalkboard" oleh fattirewhitey (freesound.org/people/fattirewhitey/sounds/264944) — CC0 1.0.
+  - "Chalkboard-writing.ogg" oleh Tomproberts (Commons) — CC0 1.0.
+- Musik: tidak ada (versi akhir tanpa musik latar; skor lama masih ada di audio.py, nyalakan dengan MUSIK=1).
+  Gelinding panel, sapuan kain, suasana ruang: disintesis di audio.py. Tidak ada sampel berlisensi lain.
+
+MEREK
+- Nama Akadiva, SABIHA Edu, dan PT SABIHA milik PT Sahabat Bintang Harapan (pemilik film ini).
+
+KODE
+- Mesin kapur, panggung kelas, dan alat render: Lemo-Opuscar (github.com/lemomo-ai/lemo-opuscar), lisensi di LICENSE-lemo-opuscar.txt.
+- Pengubah suara: OpenVoice V2 (MyShell, MIT), _suara-ridwan/openvoice/LICENSE.
+- Logo dan banner: milik PT Sahabat Bintang Harapan.

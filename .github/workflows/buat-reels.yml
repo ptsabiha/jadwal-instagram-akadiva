@@ -1,0 +1,99 @@
+name: Pembuat Reels
+
+# Routine harian Claude menaruh naskah reels di reels-masuk/<YYYY-MM-DD HH.MM Judul>/ (konten.json + caption.txt).
+# Workflow ini membuat videonya (papan kapur + Suara Ridwan), memeriksanya, lalu mengantrekannya di jamnya.
+# Penjaga (jaga.yml) yang menerbitkan ke Instagram. Laptop pemilik tidak dibutuhkan.
+on:
+  push:
+    branches: [main]
+    paths: ['reels-masuk/**']
+  schedule:
+    - cron: '23 */2 * * *'          # cadangan: kalau push tidak memicu, folder yang menunggu tetap diproses
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: pembuat-reels
+  cancel-in-progress: false
+
+env:
+  LEMO_COMMIT: f9e204293930952b61ba921cd8944d05f121beee
+
+jobs:
+  buat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Ada naskah yang menunggu?
+        id: cek
+        run: |
+          n=0; for d in reels-masuk/*/; do [ -f "$d/konten.json" ] && [ ! -f "$d/status.txt" ] && n=$((n+1)); done
+          echo "jumlah=$n" >> "$GITHUB_OUTPUT"; echo "$n reels menunggu"
+
+      - if: steps.cek.outputs.jumlah != '0'
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - if: steps.cek.outputs.jumlah != '0'
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - if: steps.cek.outputs.jumlah != '0'
+        name: ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null && ffmpeg -version | head -1
+
+      - if: steps.cek.outputs.jumlah != '0'
+        name: Cache alat (pustaka film, browser, Python, model suara)
+        uses: actions/cache@v6
+        with:
+          path: |
+            ~/lemo-opuscar
+            ~/.cache/ms-playwright
+            ~/.cache/suara-venv
+            ~/.cache/huggingface
+            pembuat-reels/_suara-ridwan/checkpoints_v2
+          key: reels-${{ runner.os }}-${{ env.LEMO_COMMIT }}-v1
+
+      - if: steps.cek.outputs.jumlah != '0'
+        name: Pustaka film Lemo-Opuscar (MIT)
+        run: |
+          L=~/lemo-opuscar
+          [ -d "$L/.git" ] || git clone -q https://github.com/lemomo-ai/lemo-opuscar.git "$L"
+          git -C "$L" fetch -q --depth 1 origin "$LEMO_COMMIT" && git -C "$L" checkout -q "$LEMO_COMMIT"
+          (cd "$L" && sh plugin/skills/lemo-opuscar/scripts/setup.sh deps 2>&1 | grep -vE "■|%" | tail -5)
+          test -x "$L/.venv/bin/python"
+
+      - if: steps.cek.outputs.jumlah != '0'
+        name: Suara Ridwan (torch CPU, OpenVoice, Whisper)
+        run: |
+          V=~/.cache/suara-venv
+          [ -x "$V/bin/python" ] || python -m venv "$V"
+          "$V/bin/pip" install -q torch --index-url https://download.pytorch.org/whl/cpu
+          "$V/bin/pip" install -q librosa soundfile numpy edge-tts faster-whisper
+          "$V/bin/python" pembuat-reels/_suara-ridwan/suara_ridwan.py siapkan
+          node alat/sidik-ridwan.mjs buka pembuat-reels/_suara-ridwan/sidik/ridwan.pth
+        env:
+          KUNCI_PRIVAT: ${{ secrets.KUNCI_PRIVAT }}
+
+      - if: steps.cek.outputs.jumlah != '0'
+        name: Buat, periksa, dan antrekan reels
+        run: sh alat/buat-reels.sh
+        env:
+          LIB: /home/runner/lemo-opuscar
+          SUARA_PY: /home/runner/.cache/suara-venv/bin/python
+          WORKERS: 4
+          GH_TOKEN: ${{ github.token }}
+          KUNCI_PRIVAT: ${{ secrets.KUNCI_PRIVAT }}
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+
+      - if: always() && steps.cek.outputs.jumlah != '0'
+        name: Hapus sidik suara dari mesin
+        run: rm -f pembuat-reels/_suara-ridwan/sidik/ridwan.pth

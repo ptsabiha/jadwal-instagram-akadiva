@@ -1,3 +1,13 @@
 node_modules/
 *.log
 .env
+
+# pembuat reels: video, suara, dan berkas kerja dibuat ulang di GitHub Actions; videonya disalin ke antrian/ oleh jadwal.mjs
+reels-masuk/**/reel.mp4
+reels-masuk/**/vo/
+reels-masuk/**/lines.json
+pembuat-reels/_reels/cetakan/_kerja/
+pembuat-reels/_suara-ridwan/checkpoints_v2/
+pembuat-reels/_suara-ridwan/sidik/ridwan.pth
+pembuat-reels/_suara-ridwan/sidik/_ardi*/
+__pycache__/
