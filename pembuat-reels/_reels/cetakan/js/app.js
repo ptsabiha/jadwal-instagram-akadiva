@@ -17,6 +17,11 @@ installDeposit();
 
 const KERJA = Q.get('kerja') || '_kerja';                     // the reel being made: konten.json + vo/ (Suara Ridwan)
 const K = await (await fetch(KERJA + '/konten.json')).json();
+if (Q.has('sampul')) {                                          // ?sampul: the reel's cover (one fixed layout for a tidy grid)
+  await (await import('./sampul.js')).gambar(cv, W, H, K);
+  window.DUR = 1; window.render = () => {}; window.READY = true;
+  await new Promise(() => {});                                  // stop here: nothing else of the film is built
+}
 const VO = await (await fetch(KERJA + '/vo/dur.json')).json();  // voice lengths: the picture is timed to the voice
 if (K.fraksi_sabiha == null) {                                  // where "SABIHA" falls inside the closing line, for the logo card
   const n11 = K.narasi.find(l => l.id === 'n11'), say = (n11.say_ridwan || n11.say || n11.text).toLowerCase(), i = say.indexOf('sabiha');
@@ -136,7 +141,7 @@ function wrap(txt) {
   for (let i = 1; i < w.length; i++) { const a = w.slice(0, i).join(' '), b = w.slice(i).join(' '), m = Math.max(sx.measureText(a).width, sx.measureText(b).width); if (!best || m < best[0]) best = [m, a, b]; }
   return [best[1], best[2]];
 }
-const BW_ = Math.round(W * .86), BH_ = Math.round(BW_ * BANNER.height / BANNER.width), BY_ = Math.round(H * .036);
+const BW_ = Math.round(W * .58), BH_ = Math.round(BW_ * BANNER.height / BANNER.width), BY_ = Math.round(H * .03);   // owner: smaller, in proportion (21 Nov 2026)
 function subtitle(t) {
   sx.clearRect(0, 0, W, H);
   if (!Q.has('nobanner')) sx.drawImage(BANNER, (W - BW_) / 2, BY_, BW_, BH_);

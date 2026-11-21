@@ -52,8 +52,10 @@ ffmpeg -v error -y -i "$KERJA/video.mp4" -i "$KERJA/mix.wav" -map 0:v:0 -map 1:a
 # 5. sampul, subtitle, pemeriksaan akhir
 # cover: the question and the wrong answer fully written, just before the wipe (also Instagram's thumb_offset)
 TS=$("$PY" -c "import json,sys;e=json.load(open(sys.argv[1],encoding='utf-8'))['ev'];print(round(next(x['t'] for x in e if x['type']=='wipe')-.15,2))" "$KERJA/events.json")
-node core/render/still.mjs "$TPL" $TS --size $SIZE --q "kerja=_kerja&nosubs" --out "$KERJA" --prefix sampul_ > /dev/null 2>&1 && cp "$KERJA/sampul_$TS.jpg" "$REEL/sampul.jpg"
 echo "$TS" > "$REEL/sampul-detik.txt"
+# the designed cover (same layout for every reel: theme, title, Akadiva card; tidy profile grid) -> Instagram cover_url
+node core/render/still.mjs "$TPL" 0 --size $SIZE --q "kerja=_kerja&sampul" --out "$KERJA" --prefix sampul_ > /dev/null 2>&1 && cp "$KERJA/sampul_0.jpg" "$REEL/sampul.jpg" \
+  || { log "GAGAL: sampul tidak bisa dibuat"; exit 1; }
 "$PY" - "$KERJA/events.json" "$REEL/subtitle.srt" <<'PYEOF'
 import json, sys
 ev = sorted((e for e in json.load(open(sys.argv[1], encoding='utf-8'))['ev'] if e['type'] == 'sub'), key=lambda e: e['t'])

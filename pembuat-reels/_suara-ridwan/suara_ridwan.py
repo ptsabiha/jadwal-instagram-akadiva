@@ -1,8 +1,11 @@
 """Suara Ridwan: narasi bahasa Indonesia dengan warna dan gaya bicara Ridwan (pemilik PT SABIHA).
 
-Cara kerja: edge-tts (id-ID-ArdiNeural) membacakan teks dengan nada, tempo, dan tanda jeda Ridwan; OpenVoice V2
-ToneColorConverter (MIT) mengganti warna suaranya dengan sidik suara Ridwan (sidik/ridwan.pth); jeda di dalam kalimat
-ditata ulang ke kebiasaan Ridwan. Tiap kalimat dibuat dalam 3 varian, lalu faster-whisper memilih yang paling jelas.
+Gaya baku sejak 21 Nov 2026 (pilihan pemilik "1C / I1"): edge-tts en-US-BrianMultilingualNeural (suara percakapan, jauh
+lebih luwes daripada Ardi) membacakan teks satu kalimat sekali ucap, nada +10 Hz (≈139 Hz, nada Ridwan); kata yang sering
+salah diucapkan diganti ejaannya lewat kamus-ucapan.json (dipelajari belajar_ucapan.py); OpenVoice V2 ToneColorConverter
+(MIT) mengganti warna suaranya dengan sidik suara Ridwan (tau 0,1); lalu desis "s" diredam dan diberi sedikit kehangatan.
+Antarkalimat diberi jeda 0,45 s. Tiap baris dibuat 2 varian, faster-whisper memilih yang paling jelas.
+Gaya lama (Ardi + penataan jeda) tetap ada: SUARA_GAYA=ardi.
 
 Gaya bicara Ridwan (diukur 21 Nov 2026 dari rekaman 8,5 menit): nada dasar 139 Hz (Ardi 110 Hz), 5,0 suku kata/detik
 saat bicara (4,0 termasuk jeda), jeda median 0,41 s, p75 0,71 s.
@@ -21,13 +24,20 @@ sys.path.insert(0, HERE)
 sys.modules['openvoice.text'] = types.SimpleNamespace(text_to_sequence=None)   # only the converter is used: skip the text front-end
 sys.modules['wavmark'] = types.SimpleNamespace(load_model=lambda: types.SimpleNamespace(to=lambda d: None))   # optional watermark: not installed
 
-VOICE = 'id-ID-ArdiNeural'
+GAYA = os.environ.get('SUARA_GAYA', 'brian')
+BRIAN, PITCH_BRIAN = 'en-US-BrianMultilingualNeural', '+10Hz'
+VOICE = BRIAN if GAYA == 'brian' else 'id-ID-ArdiNeural'
+KAMUS_UCAPAN = os.path.join(HERE, 'kamus-ucapan.json')
+ASLI, PITCH_ASLI = 'id-ID-ArdiNeural', '+29Hz'
+# opening interjections are spoken by the native Indonesian voice (also turned into Ridwan's timbre) and joined to Brian's
+# sentence: the owner's choice "N3" (21 Nov 2026) for "Nah"; the same rule holds for every interjection in this list
+KATA_SERU = {'nah', 'lho', 'loh', 'wah', 'yuk', 'ayo', 'eh', 'duh', 'aduh', 'lha', 'wow', 'oh', 'hmm', 'nah,'}
 CK = os.environ.get('SUARA_CK') or os.path.join(HERE, 'checkpoints_v2', 'converter')
 CK_URL = 'https://huggingface.co/myshell-ai/OpenVoiceV2/resolve/main/converter/'
 SE = os.path.join(HERE, 'sidik')
 # the three variants tried for every line: (edge-tts pitch, converter tau). +29 Hz = Ridwan's pitch, +15 Hz = halfway.
-VARIAN = [('+29Hz', .1), ('+29Hz', .3), ('+15Hz', .1)]
-RATE = os.environ.get('RIDWAN_RATE', '-6%')
+VARIAN = [(PITCH_BRIAN, .1), (PITCH_BRIAN, .15)] if GAYA == 'brian' else [('+29Hz', .1), ('+29Hz', .3), ('+15Hz', .1)]
+RATE = os.environ.get('RIDWAN_RATE', '+0%' if GAYA == 'brian' else '-6%')
 
 def siapkan():
     os.makedirs(CK, exist_ok=True)
@@ -60,7 +70,7 @@ def tts(text, wav, rate, pitch):
 
 def sidik(pitch):
     import torch
-    src = os.path.join(SE, 'ardi' + pitch.replace('+', 'p').replace('-', 'm') + '.pth')
+    src = os.path.join(SE, ('brian' if VOICE == BRIAN else 'ardi') + pitch.replace('+', 'p').replace('-', 'm') + '.pth')
     if not os.path.exists(src):                                # Ardi's fingerprint at this pitch: 5 sentences, made once
         tmp = os.path.join(SE, '_ardi' + pitch); os.makedirs(tmp, exist_ok=True); ws = []
         for i, t in enumerate(['Selamat pagi, Bapak dan Ibu pengurus yayasan, hari ini kita membahas laporan keuangan sekolah.',
@@ -93,15 +103,68 @@ def jeda(y, sr, seed=0):
         i = j
     return np.concatenate(out)
 
+def deess(y, sr, thr=.32):
+    """soften harsh 's': where the 4.2–10 kHz band takes too large a share of the signal, turn only that band down"""
+    import numpy as np
+    from scipy.signal import butter, sosfiltfilt
+    band = sosfiltfilt(butter(4, [4200, min(10000, sr / 2 - 200)], 'band', fs=sr, output='sos'), y)
+    w = int(.006 * sr); k = np.ones(w) / w
+    eb = np.sqrt(np.convolve(band ** 2, k, 'same')); ef = np.sqrt(np.convolve(y ** 2, k, 'same')) + 1e-6
+    g = np.clip(thr / (eb / ef + 1e-9), .35, 1.0); g = np.convolve(g, np.ones(w * 3) / (w * 3), 'same')
+    return y - band * (1 - g)
+def poles(y, sr):
+    """de-ess, a little warmth, less air hiss (the owner's chosen "1C" polish)"""
+    import numpy as np
+    from scipy.signal import butter, sosfilt
+    y = deess(y, sr); y = y + sosfilt(butter(2, [140, 380], 'band', fs=sr, output='sos'), y) * .22
+    y = y - sosfilt(butter(2, 8500, 'high', fs=sr, output='sos'), y) * .5
+    return y / (np.abs(y).max() + 1e-9) * .9
+def ejaan(teks):
+    """apply the learned pronunciation spellings (whole words, case-insensitive) for the Brian voice"""
+    if VOICE != BRIAN or not os.path.exists(KAMUS_UCAPAN): return teks
+    for k, v in json.load(open(KAMUS_UCAPAN, encoding='utf-8')).items():
+        teks = re.sub(r'(?<![\w-])' + re.escape(k) + r'(?![\w-])', v, teks, flags=re.I)
+    return teks
+def kalimat(teks):
+    return [x.strip() for x in re.findall(r'[^.?!]+[.?!]*', teks) if x.strip()]
+
 def ubah(src_wav, out_wav, pitch, tau, seed):
     import numpy as np, soundfile as sf
     s, t = sidik(pitch); conv().convert(audio_src_path=src_wav, src_se=s, tgt_se=t, output_path=out_wav, tau=tau)
     y, sr = sf.read(out_wav)
     i = np.flatnonzero(np.abs(y) > .01)
     if len(i): y = y[max(0, i[0] - int(.03 * sr)):i[-1] + int(.08 * sr)]
-    y = jeda(y, sr, seed)
+    if VOICE != BRIAN: y = jeda(y, sr, seed)
     k = int(.01 * sr); y[:k] *= np.linspace(0, 1, k); y[-k:] *= np.linspace(1, 0, k)
     sf.write(out_wav, y.astype(np.float32), sr)
+    return round(len(y) / sr, 3)
+
+def ucap_brian(teks, dst, rate, pitch, tau):
+    """the "1C / I1" style: one sentence per call (fresh intonation), Ridwan's timbre, 0.45 s between sentences, polish"""
+    import numpy as np, soundfile as sf
+    parts, sr = [], 22050
+    def potong(k, voice, pitch_, nama):
+        global VOICE
+        simpan = VOICE; VOICE = voice
+        raw = dst[:-4] + f'.{nama}.src.wav'; tts(k, raw, rate if voice == BRIAN else '+0%', pitch_)
+        y_ = dst[:-4] + f'.{nama}.wav'; s, t = sidik(pitch_)
+        conv().convert(audio_src_path=raw, src_se=s, tgt_se=t, output_path=y_, tau=tau)
+        VOICE = simpan
+        y, sr_ = sf.read(y_); os.remove(raw); os.remove(y_)
+        i = np.flatnonzero(np.abs(y) > .01)
+        return (y[max(0, i[0] - int(.015 * sr_)):i[-1] + int(.07 * sr_)] if len(i) else y), sr_
+    for j, k in enumerate(kalimat(teks)):
+        m = re.match(r'\s*([A-Za-z]+)\s*,\s*(.+)$', k)
+        if m and m.group(1).lower() in KATA_SERU:                    # "Nah, ..." -> native "Nah," + Brian for the rest
+            y0, sr = potong(m.group(1) + ',', ASLI, PITCH_ASLI, f'k{j}s')
+            y1, sr = potong(ejaan(m.group(2)[0].upper() + m.group(2)[1:]), BRIAN, pitch, f'k{j}')
+            y = np.concatenate([y0, np.zeros(int(.16 * sr)), y1])
+        else:
+            y, sr = potong(ejaan(k), BRIAN, pitch, f'k{j}')
+        parts += [y, np.zeros(int(.45 * sr))]
+    y = poles(np.concatenate(parts[:-1]), sr)
+    f = int(.01 * sr); y[:f] *= np.linspace(0, 1, f); y[-f:] *= np.linspace(1, 0, f)
+    sf.write(dst, y.astype(np.float32), sr)
     return round(len(y) / sr, 3)
 
 _asr = None
@@ -120,8 +183,11 @@ def narasi(lines, out):
     for n, l in enumerate(json.load(open(lines, encoding='utf-8'))):
         ucap = l.get('say_ridwan') or l.get('say') or l['text']; best = None
         for v, (pitch, tau) in enumerate(VARIAN):
-            raw = os.path.join(out, f"{l['id']}.v{v}.ardi.wav"); dst = os.path.join(out, f"{l['id']}.v{v}.wav")
-            tts(ucap, raw, l.get('rate', RATE), pitch); d = ubah(raw, dst, pitch, tau, n); os.remove(raw)
+            dst = os.path.join(out, f"{l['id']}.v{v}.wav")
+            if VOICE == BRIAN: d = ucap_brian(ucap, dst, l.get('rate', RATE), pitch, tau)
+            else:
+                raw = os.path.join(out, f"{l['id']}.v{v}.ardi.wav")
+                tts(ucap, raw, l.get('rate', RATE), pitch); d = ubah(raw, dst, pitch, tau, n); os.remove(raw)
             heard = dengar(dst); w = norm(heard)
             skor = difflib.SequenceMatcher(None, norm(l['text']), w).ratio() + .1 * sum(k.lower() in w for k in l.get('kunci', []))
             if not best or skor > best[0] + .001: best = (skor, v, d, heard)

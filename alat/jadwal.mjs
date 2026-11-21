@@ -214,8 +214,11 @@ function tambahReels(sumber, o, pengaturan) {
   const dir = path.join(DIR_ANTRIAN, id);
   fs.mkdirSync(dir, { recursive: true });
   fs.copyFileSync(path.join(sumber, 'reel.mp4'), path.join(dir, 'reel.mp4'));
+  // the designed cover (sampul.jpg, 9:16) becomes the reel's cover on Instagram (cover_url); without it, thumb_offset
+  let sampul = null;
+  if (fs.existsSync(path.join(sumber, 'sampul.jpg'))) { fs.copyFileSync(path.join(sumber, 'sampul.jpg'), path.join(dir, 'sampul.jpg')); sampul = 'sampul.jpg'; }
   const post = {
-    id, judul, waktu, grup: o.grup ? String(o.grup) : null, urutan, caption, jenis: 'reels', slide: [], video: 'reel.mp4', sampul_ms: sampulMs,
+    id, judul, waktu, grup: o.grup ? String(o.grup) : null, urutan, caption, jenis: 'reels', slide: [], video: 'reel.mp4', sampul, sampul_ms: sampulMs,
     ukuran: '1080x1920', bingkai45: false, sumber,
     status: 'draf', dibuat: isoZona(new Date(), pengaturan.zona_waktu), percobaan: 0, galat: null,
     uji: null, media_id: null, permalink: null, terbit_pada: null,

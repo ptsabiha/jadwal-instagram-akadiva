@@ -259,7 +259,11 @@ async function buatWadah(ig, igId, p, pengaturan) {
     const url = urlGambar(p.id, p.video, pengaturan);
     await pastikanGambarAda(url);
     const opsi = { media_type: 'REELS', video_url: url, caption: p.caption || '', share_to_feed: 'true' };
-    if (p.sampul_ms) opsi.thumb_offset = String(p.sampul_ms);
+    if (p.sampul) {                               // the designed cover (same layout every reel, tidy profile grid)
+      const urlSampul = urlGambar(p.id, p.sampul, pengaturan);
+      await pastikanGambarAda(urlSampul);
+      opsi.cover_url = urlSampul;
+    } else if (p.sampul_ms) opsi.thumb_offset = String(p.sampul_ms);
     const w = await ig.post(`/${igId}/media`, opsi);
     await tungguSiap(ig, w.id, 900000);
     return w.id;
