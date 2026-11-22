@@ -1,0 +1,94 @@
+{
+ "judul": "Kepala Sekolah yang Didengar Guru",
+ "tema": "SDM sekolah",
+ "tanya": [
+  "Kepsek",
+  "didengar guru?"
+ ],
+ "salah": "yang paling galak",
+ "kunci": "teladan",
+ "kepala": "dibangun oleh 4 hal:",
+ "poin": [
+  [
+   "1. Datang paling pagi",
+   "bukan cuma menyuruh"
+  ],
+  [
+   "2. Mau mendengar",
+   "guru boleh bicara"
+  ],
+  [
+   "3. Adil pada semua",
+   "aturan sama untuk semua"
+  ],
+  [
+   "4. Menghargai kerja",
+   "ucapkan terima kasih"
+  ]
+ ],
+ "hasil": "guru betah",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira kepala sekolah yang didengar guru itu yang paling galak.",
+   "say_ridwan": "Banyak yang mengira, kepala sekolah yang didengar guru itu, yang paling galak.",
+   "kunci": [
+    "galak"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal galak membuat orang menjauh.",
+   "say_ridwan": "Padahal, galak, membuat orang menjauh."
+  },
+  {
+   "id": "n3",
+   "text": "Yang didengar adalah yang jadi teladan.",
+   "say_ridwan": "Yang didengar, adalah yang jadi, teladan.",
+   "kunci": [
+    "teladan"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Teladan itu dibangun oleh empat hal.",
+   "say_ridwan": "Teladan itu, dibangun oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, datang paling pagi. Bukan cuma menyuruh.",
+   "say_ridwan": "Pertama, datang paling pagi. Bukan cuma, menyuruh."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, mau mendengar. Guru boleh menyampaikan pendapat.",
+   "say_ridwan": "Kedua, mau mendengar. Guru boleh, menyampaikan pendapat."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, adil pada semua. Aturannya sama untuk semua guru.",
+   "say_ridwan": "Ketiga, adil pada semua. Aturannya sama, untuk semua guru."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, menghargai kerja guru. Ucapkan terima kasih dengan tulus.",
+   "say_ridwan": "Keempat, menghargai kerja guru. Ucapkan terima kasih, dengan tulus."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat kepala sekolah menjadi teladan.",
+   "say_ridwan": "Empat hal inilah, yang membuat kepala sekolah, menjadi teladan."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat kepala sekolah jadi teladan, guru merasa dihargai dan betah mengajar.",
+   "say_ridwan": "Dan saat kepala sekolah jadi teladan, guru merasa dihargai, dan betah mengajar."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu kepala sekolah melihat jurnal mengajar lewat menu Pantau Pembelajaran.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu kepala sekolah, melihat jurnal mengajar, lewat menu Pantau Pembelajaran."
+  }
+ ],
+ "caption": "Kepala sekolah yang didengar guru bukan yang paling galak, tapi yang jadi teladan.\n\nEmpat hal yang membangunnya: datang paling pagi, mau mendengar, adil pada semua, dan menghargai kerja guru.\n\nCoba Akadiva gratis, link di bio.\n\n#sdmsekolah #kepalasekolah #gurusekolah #kepemimpinan #yayasanpendidikan #akadiva"
+}

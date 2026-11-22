@@ -1,0 +1,94 @@
+{
+ "judul": "Program Kerja Sekolah yang Jalan",
+ "tema": "manajemen sekolah",
+ "tanya": [
+  "Program",
+  "kerja yang jalan?"
+ ],
+ "salah": "programnya banyak",
+ "kunci": "terukur",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Tujuan jelas",
+   "bisa dicek hasilnya"
+  ],
+  [
+   "2. Penanggung jawab",
+   "satu nama tiap program"
+  ],
+  [
+   "3. Jadwal tertulis",
+   "mulai dan selesai jelas"
+  ],
+  [
+   "4. Dievaluasi berkala",
+   "dibahas tiap semester"
+  ]
+ ],
+ "hasil": "program tuntas",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira program kerja sekolah yang jalan itu programnya banyak.",
+   "say_ridwan": "Banyak yang mengira, program kerja sekolah yang jalan itu, programnya banyak.",
+   "kunci": [
+    "banyak"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal banyak belum tentu jalan.",
+   "say_ridwan": "Padahal, banyak, belum tentu jalan."
+  },
+  {
+   "id": "n3",
+   "text": "Program yang jalan adalah yang terukur.",
+   "say_ridwan": "Program yang jalan, adalah yang, terukur.",
+   "kunci": [
+    "terukur"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Terukur itu dijaga oleh empat hal.",
+   "say_ridwan": "Terukur itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, tujuannya jelas. Hasilnya bisa dicek.",
+   "say_ridwan": "Pertama, tujuannya jelas. Hasilnya, bisa dicek."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, ada penanggung jawab. Satu nama untuk tiap program.",
+   "say_ridwan": "Kedua, ada penanggung jawab. Satu nama, untuk tiap program."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, jadwalnya tertulis. Kapan mulai dan kapan selesai.",
+   "say_ridwan": "Ketiga, jadwalnya tertulis. Kapan mulai, dan kapan selesai."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, dievaluasi berkala. Dibahas setiap semester.",
+   "say_ridwan": "Keempat, dievaluasi berkala. Dibahas, setiap semester."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat program sekolah terukur.",
+   "say_ridwan": "Empat hal inilah, yang membuat program sekolah, terukur."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat program terukur, kerja tim terarah dan program lebih sering tuntas.",
+   "say_ridwan": "Dan saat program terukur, kerja tim terarah, dan program lebih sering tuntas."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah menata kalender akademik di satu tempat.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, menata kalender akademik, di satu tempat."
+  }
+ ],
+ "caption": "Program kerja sekolah yang jalan bukan soal banyaknya program, tapi soal terukurnya.\n\nEmpat hal yang menjaganya: tujuan yang jelas, penanggung jawab, jadwal tertulis, dan evaluasi tiap semester.\n\nCoba Akadiva gratis, link di bio.\n\n#manajemensekolah #programkerja #kepalasekolah #yayasanpendidikan #kalenderakademik #akadiva"
+}

@@ -1,0 +1,94 @@
+{
+ "judul": "Sekolah yang Dipercaya Orang Tua",
+ "tema": "branding sekolah",
+ "tanya": [
+  "Sekolah",
+  "yang dipercaya?"
+ ],
+ "salah": "gedungnya megah",
+ "kunci": "dipercaya",
+ "kepala": "dibangun oleh 4 hal:",
+ "poin": [
+  [
+   "1. Komunikasi jelas",
+   "kabar rutin ke orang tua"
+  ],
+  [
+   "2. Layanan ramah",
+   "disapa sejak gerbang"
+  ],
+  [
+   "3. Catatan rapi",
+   "kuitansi dan rapor tertib"
+  ],
+  [
+   "4. Prestasi dibagikan",
+   "lewat media sosial"
+  ]
+ ],
+ "hasil": "orang tua yakin",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira sekolah yang dipercaya orang tua itu gedungnya megah.",
+   "say_ridwan": "Banyak yang mengira, sekolah yang dipercaya orang tua itu, gedungnya megah.",
+   "kunci": [
+    "megah"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal gedung hanya tampilan.",
+   "say_ridwan": "Padahal, gedung, hanya tampilan."
+  },
+  {
+   "id": "n3",
+   "text": "Sekolah yang baik adalah yang dipercaya.",
+   "say_ridwan": "Sekolah yang baik, adalah yang, dipercaya.",
+   "kunci": [
+    "dipercaya"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Kepercayaan itu dibangun oleh empat hal.",
+   "say_ridwan": "Kepercayaan itu, dibangun oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, komunikasi yang jelas. Orang tua rutin mendapat kabar.",
+   "say_ridwan": "Pertama, komunikasi yang jelas. Orang tua, rutin mendapat kabar."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, layanan yang ramah. Orang tua disapa sejak di gerbang.",
+   "say_ridwan": "Kedua, layanan yang ramah. Orang tua disapa, sejak di gerbang."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, catatan yang rapi. Kuitansi dan rapor tertib.",
+   "say_ridwan": "Ketiga, catatan yang rapi. Kuitansi, dan rapor tertib."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, prestasi yang dibagikan. Lewat media sosial sekolah.",
+   "say_ridwan": "Keempat, prestasi yang dibagikan. Lewat media sosial, sekolah."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat sekolah dipercaya.",
+   "say_ridwan": "Empat hal inilah, yang membuat sekolah, dipercaya."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat sekolah dipercaya, orang tua yakin dan nama sekolah terjaga.",
+   "say_ridwan": "Dan saat sekolah dipercaya, orang tua yakin, dan nama sekolah terjaga."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah mengabari orang tua lewat Kabar WA dan mencetak Kuitansi SPP.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mengabari orang tua lewat Kabar WA, dan mencetak Kuitansi SPP."
+  }
+ ],
+ "caption": "Sekolah yang dipercaya orang tua bukan soal megahnya gedung, tapi soal kepercayaan.\n\nEmpat hal yang membangunnya: komunikasi yang jelas, layanan yang ramah, catatan yang rapi, dan prestasi yang dibagikan.\n\nCoba Akadiva gratis, link di bio.\n\n#brandingsekolah #citrasekolah #orangtuamurid #manajemensekolah #yayasanpendidikan #akadiva"
+}
