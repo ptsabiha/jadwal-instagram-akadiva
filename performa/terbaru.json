@@ -1,12 +1,138 @@
 {
-  "diambil": "2026-11-22T04:40:16+07:00",
+  "diambil": "2026-11-23T04:46:38+07:00",
   "akun": "akadiva.app",
   "pengikut": 8,
   "mengikuti": 19,
-  "jumlah_postingan": 7,
+  "jumlah_postingan": 10,
   "izin_insights": true,
   "catatan": "",
   "media": [
+    {
+      "id": "17917531995519178",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgC-FiJjOxJ/",
+      "timestamp": "2026-11-22T14:01:02+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Arsip sekolah yang rapi bukan soal banyaknya lemari, tapi soal mudahnya dicari.",
+      "panjang_caption": 345,
+      "insights": {
+        "reach": 3,
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18026401202957384",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgCw9bVoR05/",
+      "timestamp": "2026-11-22T12:05:43+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Hari pertama Penilaian Akhir Semester. Di ruang ujian ada dua kartu peserta bernomor 8, kursi nomor 19 kosong, dan penga",
+      "panjang_caption": 1155,
+      "insights": {
+        "reach": 2,
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18091335398290298",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgCU6xhnJZf/",
+      "timestamp": "2026-11-22T08:01:11+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Guru baru betah bukan hanya karena gaji, tapi karena merasa dibimbing.",
+      "panjang_caption": 342,
+      "insights": {
+        "reach": 2,
+        "views": 4,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18134253214801753",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgCAVdTjlS7/",
+      "timestamp": "2026-11-22T05:00:50+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Sore hari, seorang wali murid bertanya ke wali kelas: nilai IPA anaknya di rapor 72, tapi di grup kelas disebut 80. Guru",
+      "panjang_caption": 901,
+      "insights": {
+        "reach": 2,
+        "views": 9,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18071118401789946",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgBrw4nk7sd/",
+      "timestamp": "2026-11-22T02:01:43+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Rapat yang berhasil bukan yang paling lama, tapi yang berujung tindakan.",
+      "panjang_caption": 349,
+      "insights": {
+        "reach": 33,
+        "views": 42,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18004534326034623",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgBd_BhGkX5/",
+      "timestamp": "2026-11-22T00:00:40+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Rapat pengurus yayasan hari Minggu pukul 09.00. Laporan SPP SMP sudah masuk, SD dan MI masih menunggu, laporan nilai sem",
+      "panjang_caption": 877,
+      "insights": {
+        "reach": 2,
+        "views": 6,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
     {
       "id": "18138265570672448",
       "media_type": "VIDEO",
@@ -18,14 +144,14 @@
       "caption_awal": "Yayasan yang baik itu gedungnya megah? Belum tentu.",
       "panjang_caption": 806,
       "insights": {
-        "reach": 95,
-        "views": 106,
+        "reach": 102,
+        "views": 114,
         "likes": 5,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 5,
-        "tingkat_interaksi_persen": 5.26
+        "tingkat_interaksi_persen": 4.9
       }
     },
     {
@@ -81,14 +207,14 @@
       "caption_awal": "Kalender meja guru dan tendik sampai akhir semester ganjil, kalau dilingkari pakai spidol:",
       "panjang_caption": 1181,
       "insights": {
-        "reach": 6,
-        "views": 28,
+        "reach": 8,
+        "views": 30,
         "likes": 1,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 1,
-        "tingkat_interaksi_persen": 16.67
+        "tingkat_interaksi_persen": 12.5
       }
     },
     {
@@ -102,8 +228,8 @@
       "caption_awal": "Pukul 09.10, seorang ibu mengirim pesan ke wali kelas: anaknya tadi pamit berangkat sekolah, apakah sudah sampai? Wali k",
       "panjang_caption": 890,
       "insights": {
-        "reach": 6,
-        "views": 20,
+        "reach": 7,
+        "views": 22,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -123,8 +249,8 @@
       "caption_awal": "Mulai tahun ajaran 2027/2028, siswa direncanakan tidak lagi otomatis naik kelas.",
       "panjang_caption": 1519,
       "insights": {
-        "reach": 5,
-        "views": 14,
+        "reach": 6,
+        "views": 16,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -144,14 +270,14 @@
       "caption_awal": "Bel istirahat bunyi. Di ruang guru, setiap orang ternyata punya kartu pegawainya sendiri.",
       "panjang_caption": 1057,
       "insights": {
-        "reach": 10,
-        "views": 25,
+        "reach": 11,
+        "views": 26,
         "likes": 1,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 1,
-        "tingkat_interaksi_persen": 10
+        "tingkat_interaksi_persen": 9.09
       }
     },
     {
@@ -207,14 +333,14 @@
       "caption_awal": "Pukul 09.45. Bel istirahat bunyi, teh baru diseduh.",
       "panjang_caption": 1362,
       "insights": {
-        "reach": 27,
-        "views": 53,
+        "reach": 28,
+        "views": 54,
         "likes": 3,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 4,
-        "tingkat_interaksi_persen": 14.81
+        "tingkat_interaksi_persen": 14.29
       }
     },
     {
