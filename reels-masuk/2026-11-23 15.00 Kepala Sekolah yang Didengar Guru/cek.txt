@@ -1,0 +1,19 @@
+== 2026-11-23 15.00 Kepala Sekolah yang Didengar Guru
+konten ok: Kepala Sekolah yang Didengar Guru
+-- membuat narasi Suara Ridwan
+n1 5.059 s  skor 0.92 | banyak yang mengira kepala sekolah yang didengar guru itu yang paling gala.
+n2 3.222 s  skor 1.0 | Padahal Galak membuat orang menjauh.
+n3 3.422 s  skor 1.1 | yang didengar adalah yang jadi teladan.
+n4 2.876 s  skor 1.0 | teladan itu dibangun oleh empat hal.
+n5 4.61 s  skor 1.0 | Pertama, datang paling pagi. Bukan cuma menyuruh.
+n6 4.812 s  skor 1.0 | Kedua, mau mendengar. Guru boleh menyampaikan pendapat.
+n7 5.404 s  skor 1.0 | Ketiga, adil pada semua, aturannya sama untuk semua guru.
+n8 5.426 s  skor 1.0 | Keempat menghargai kerja guru, ucapkan terima kasih dengan tulus.
+n9 4.713 s  skor 1.0 | Empat hal inilah yang membuat kepala sekolah menjadi teladan.
+n10 5.728 s  skor 1.0 | Dan saat kepala sekolah jadi teladan, guru merasa dihargai dan betah mengajar.
+n11 7.651 s  skor 0.93 | Akadiva Bai Sabiha Edu membantu kepala sekolah melihat jurnal mengajar lewat menu pantau pembelajaran.
+events 279 dur 61.23 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.5)}
+durasi 61.230000s, 12 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-23 15.00 Kepala Sekolah yang Didengar Guru/reel.mp4

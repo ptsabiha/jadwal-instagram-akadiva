@@ -1,0 +1,19 @@
+== 2026-11-23 09.00 Program Kerja Sekolah yang Jalan
+konten ok: Program Kerja Sekolah yang Jalan
+-- membuat narasi Suara Ridwan
+n1 5.096 s  skor 1.1 | Banyak yang mengira program kerja sekolah yang jalan itu programnya banyak.
+n2 3.138 s  skor 1.0 | Padahal banyak belum tentu jalan.
+n3 3.353 s  skor 1.1 | Program yang jalan adalah yang terukur.
+n4 2.861 s  skor 1.0 | Terukur itu dijaga oleh empat hal.
+n5 4.397 s  skor 1.0 | Pertama, tujuannya jelas, hasilnya bisa dicek.
+n6 5.044 s  skor 1.0 | Kedua, ada penanggung jawab, satu nama untuk tiap program.
+n7 5.262 s  skor 0.88 | Kepiga Jadwalnya Tertulis. Kapan mulai dan kapan selesai?
+n8 5.165 s  skor 0.77 | keempat, dive valuasi berkala, dibahas setiap semester.
+n9 4.346 s  skor 1.0 | Empat hal inilah yang membuat program sekolah terukur.
+n10 5.565 s  skor 1.0 | Dan saat program terukur, kerja tim terarah dan program lebih sering tuntas.
+n11 6.559 s  skor 0.92 | Akadiva Bay Sabiha Edu membantu sekolah menata kalender akademik di satu tempat.
+events 299 dur 59.1 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.4)}
+durasi 59.100000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-23 09.00 Program Kerja Sekolah yang Jalan/reel.mp4

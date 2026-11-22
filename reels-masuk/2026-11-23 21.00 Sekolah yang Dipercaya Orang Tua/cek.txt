@@ -1,0 +1,19 @@
+== 2026-11-23 21.00 Sekolah yang Dipercaya Orang Tua
+konten ok: Sekolah yang Dipercaya Orang Tua
+-- membuat narasi Suara Ridwan
+n1 5.155 s  skor 1.1 | banyak yang mengira sekolah yang dipercaya orang tua itu gedungnya megah.
+n2 2.894 s  skor 1.0 | Padahal gedung hanya tampilan.
+n3 3.568 s  skor 1.1 | Sekolah yang baik adalah yang dipercaya.
+n4 3.166 s  skor 1.0 | Kepercayaan itu dibangun oleh empat hal.
+n5 5.431 s  skor 1.0 | Pertama, komunikasi yang jelas, orang tua rutin mendapat kabar.
+n6 5.357 s  skor 0.84 | Kedua, layanan yang ramah, orang tua disapa sejak digerbang.
+n7 4.946 s  skor 0.88 | ketiga, catatan yang rapi, kuitansi, dan rapor tertip.
+n8 5.304 s  skor 1.0 | keempat prestasi yang dibagikan  lewat media sosial sekolah
+n9 4.024 s  skor 1.0 | Empat hal inilah yang membuat sekolah dipercaya.
+n10 5.23 s  skor 1.0 | Dan saat sekolah dipercaya, orang tua yakin dan nama sekolah terjaga.
+n11 8.053 s  skor 0.94 | Akadiva bayi Sabiha Edu membantu sekolah mengabari orang tua lewat kabar wa dan mencetak kuitansi SPP.
+events 301 dur 61.76 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.7)}
+durasi 61.760000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-23 21.00 Sekolah yang Dipercaya Orang Tua/reel.mp4
