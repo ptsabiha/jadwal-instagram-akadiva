@@ -1,0 +1,94 @@
+{
+ "judul": "Penerimaan Siswa Baru yang Lancar",
+ "tema": "administrasi sekolah",
+ "tanya": [
+  "Siswa baru",
+  "yang lancar?"
+ ],
+ "salah": "formulirnya banyak",
+ "kunci": "terdata",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Syarat jelas",
+   "diumumkan lebih awal"
+  ],
+  [
+   "2. Satu formulir",
+   "tidak minta berkali-kali"
+  ],
+  [
+   "3. Data langsung masuk",
+   "tidak diketik ulang"
+  ],
+  [
+   "4. Kabar ke orang tua",
+   "status mudah diketahui"
+  ]
+ ],
+ "hasil": "pendaftar tenang",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira penerimaan siswa baru yang lancar itu formulirnya banyak.",
+   "say_ridwan": "Banyak yang mengira, penerimaan siswa baru yang lancar itu, formulirnya banyak.",
+   "kunci": [
+    "formulirnya"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal banyak formulir bikin repot.",
+   "say_ridwan": "Padahal, banyak formulir, bikin repot."
+  },
+  {
+   "id": "n3",
+   "text": "Yang membuat lancar adalah data yang terdata.",
+   "say_ridwan": "Yang membuat lancar, adalah data yang, terdata.",
+   "kunci": [
+    "terdata"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Terdata itu dijaga oleh empat hal.",
+   "say_ridwan": "Terdata itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, syaratnya jelas. Diumumkan lebih awal.",
+   "say_ridwan": "Pertama, syaratnya jelas. Diumumkan, lebih awal."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, cukup satu formulir. Orang tua tidak diminta berkali-kali.",
+   "say_ridwan": "Kedua, cukup satu formulir. Orang tua, tidak diminta berkali-kali."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, data langsung masuk. Tidak diketik ulang.",
+   "say_ridwan": "Ketiga, data langsung masuk. Tidak, diketik ulang."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, orang tua dikabari. Status pendaftaran mudah diketahui.",
+   "say_ridwan": "Keempat, orang tua dikabari. Status pendaftaran, mudah diketahui."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat data siswa baru terdata.",
+   "say_ridwan": "Empat hal inilah, yang membuat data siswa baru, terdata."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat data terdata, pendaftar lebih tenang dan panitia tidak lembur.",
+   "say_ridwan": "Dan saat data terdata, pendaftar lebih tenang, dan panitia, tidak lembur."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu operator memasukkan data siswa dari Excel.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu operator, memasukkan data siswa dari Excel."
+  }
+ ],
+ "caption": "Penerimaan siswa baru yang lancar bukan soal banyaknya formulir, tapi soal datanya terdata.\n\nEmpat hal yang menjaganya: syarat jelas, satu formulir, data langsung masuk, dan kabar ke orang tua.\n\nCoba Akadiva gratis, link di bio.\n\n#administrasisekolah #siswabaru #spmb #operatorsekolah #yayasanpendidikan #akadiva"
+}

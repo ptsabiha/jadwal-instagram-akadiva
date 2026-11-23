@@ -1,0 +1,94 @@
+{
+ "judul": "Anggaran Sekolah yang Sehat",
+ "tema": "manajemen sekolah",
+ "tanya": [
+  "Anggaran",
+  "yang sehat?"
+ ],
+ "salah": "uangnya banyak",
+ "kunci": "tertib",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Rencana tertulis",
+   "dibuat sebelum tahun ajaran"
+  ],
+  [
+   "2. Catat tiap belanja",
+   "saat itu juga"
+  ],
+  [
+   "3. Cek kas berkala",
+   "dicocokkan tiap bulan"
+  ],
+  [
+   "4. Laporan terbuka",
+   "untuk yayasan dan wali"
+  ]
+ ],
+ "hasil": "dana terarah",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira anggaran sekolah yang sehat itu uangnya banyak.",
+   "say_ridwan": "Banyak yang mengira, anggaran sekolah yang sehat itu, uangnya banyak.",
+   "kunci": [
+    "uangnya"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal banyak belum tentu sehat.",
+   "say_ridwan": "Padahal, banyak, belum tentu sehat."
+  },
+  {
+   "id": "n3",
+   "text": "Anggaran yang sehat adalah yang tertib.",
+   "say_ridwan": "Anggaran yang sehat, adalah yang, tertib.",
+   "kunci": [
+    "tertib"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Tertib itu dijaga oleh empat hal.",
+   "say_ridwan": "Tertib itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, rencananya tertulis. Dibuat sebelum tahun ajaran.",
+   "say_ridwan": "Pertama, rencananya tertulis. Dibuat, sebelum tahun ajaran."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, setiap belanja dicatat. Saat itu juga.",
+   "say_ridwan": "Kedua, setiap belanja dicatat. Saat itu juga."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, kas dicek berkala. Dicocokkan setiap bulan.",
+   "say_ridwan": "Ketiga, kas dicek berkala. Dicocokkan, setiap bulan."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, laporannya terbuka. Untuk yayasan dan wali murid.",
+   "say_ridwan": "Keempat, laporannya terbuka. Untuk yayasan, dan wali murid."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat anggaran sekolah tertib.",
+   "say_ridwan": "Empat hal inilah, yang membuat anggaran sekolah, tertib."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat anggaran tertib, dana lebih terarah dan kepercayaan ikut naik.",
+   "say_ridwan": "Dan saat anggaran tertib, dana lebih terarah, dan kepercayaan, ikut naik."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu bendahara mencatat tagihan SPP dan melihat laporan bulanannya.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu bendahara, mencatat tagihan SPP, dan melihat laporan bulanannya."
+  }
+ ],
+ "caption": "Anggaran sekolah yang sehat bukan soal banyaknya uang, tapi soal tertibnya.\n\nEmpat hal yang menjaganya: rencana tertulis, belanja dicatat saat itu juga, kas dicek berkala, dan laporan terbuka.\n\nCoba Akadiva gratis, link di bio.\n\n#manajemensekolah #anggaransekolah #bendaharasekolah #yayasanpendidikan #kepalasekolah #akadiva"
+}

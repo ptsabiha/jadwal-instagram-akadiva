@@ -1,0 +1,94 @@
+{
+ "judul": "Guru yang Terus Berkembang",
+ "tema": "SDM sekolah",
+ "tanya": [
+  "Guru",
+  "yang berkembang?"
+ ],
+ "salah": "yang pintar saja",
+ "kunci": "dibina",
+ "kepala": "dibangun oleh 4 hal:",
+ "poin": [
+  [
+   "1. Kenali kebutuhan",
+   "tiap guru berbeda"
+  ],
+  [
+   "2. Beri pelatihan",
+   "sesuai mata pelajaran"
+  ],
+  [
+   "3. Ada pendamping",
+   "guru senior yang membimbing"
+  ],
+  [
+   "4. Beri apresiasi",
+   "dihargai secara terbuka"
+  ]
+ ],
+ "hasil": "guru bertumbuh",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira guru yang berkembang itu yang pintar saja.",
+   "say_ridwan": "Banyak yang mengira, guru yang berkembang itu, yang pintar saja.",
+   "kunci": [
+    "yang"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal pintar saja tidak cukup.",
+   "say_ridwan": "Padahal, pintar saja, tidak cukup."
+  },
+  {
+   "id": "n3",
+   "text": "Guru berkembang karena dibina.",
+   "say_ridwan": "Guru berkembang, karena, dibina.",
+   "kunci": [
+    "dibina"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Dibina itu dibangun oleh empat hal.",
+   "say_ridwan": "Dibina itu, dibangun oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, kebutuhan guru dikenali. Tiap guru berbeda.",
+   "say_ridwan": "Pertama, kebutuhan guru dikenali. Tiap guru, berbeda."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, ada pelatihan. Sesuai mata pelajarannya.",
+   "say_ridwan": "Kedua, ada pelatihan. Sesuai, mata pelajarannya."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, ada pendamping. Guru senior yang membimbing.",
+   "say_ridwan": "Ketiga, ada pendamping. Guru senior, yang membimbing."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, ada apresiasi. Dihargai secara terbuka.",
+   "say_ridwan": "Keempat, ada apresiasi. Dihargai, secara terbuka."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat guru terus dibina.",
+   "say_ridwan": "Empat hal inilah, yang membuat guru, terus dibina."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat guru dibina, mengajar lebih percaya diri dan murid ikut berkembang.",
+   "say_ridwan": "Dan saat guru dibina, mengajar lebih percaya diri, dan murid, ikut berkembang."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu kepala sekolah memantau jurnal mengajar guru.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu kepala sekolah, memantau jurnal mengajar guru."
+  }
+ ],
+ "caption": "Guru yang terus berkembang bukan hanya yang pintar, tapi yang dibina.\n\nEmpat hal yang membangunnya: kebutuhan dikenali, pelatihan sesuai mapel, ada pendamping, dan apresiasi terbuka.\n\nCoba Akadiva gratis, link di bio.\n\n#sdmsekolah #gurumuda #pembinaanguru #kepalasekolah #yayasanpendidikan #akadiva"
+}
