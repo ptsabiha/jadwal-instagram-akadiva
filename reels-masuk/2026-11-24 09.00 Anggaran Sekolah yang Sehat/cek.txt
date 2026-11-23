@@ -1,0 +1,20 @@
+== 2026-11-24 09.00 Anggaran Sekolah yang Sehat
+konten ok: Anggaran Sekolah yang Sehat
+-- membuat narasi Suara Ridwan
+n1 4.676 s  skor 1.1 | Banyak yang mengira, anggaran sekolah yang sehat itu uangnya banyak.
+n2 2.963 s  skor 1.0 | Padahal banyak belum tentu sehat.
+n3 3.227 s  skor 0.83 | Anggaran yang sehat adalah yang tertip.
+n4 2.804 s  skor 0.83 | Tertip itu dijaga oleh empat hal.
+n5 5.316 s  skor 0.86 | Pertama, Rencanania Tertulis, dibuat sebelum tahun ajaran.
+n6 3.996 s  skor 0.86 | Kedua, setiap belanja dicatak. Saat itu juga.
+n7 4.891 s  skor 0.62 | Ketiga, kesdicik berkala. Dicocokan setiap bulan.
+n8 4.962 s  skor 1.0 | keempat laporannya terbuka untuk yayasan dan Wali Murid.
+n9 4.178 s  skor 0.88 | Empat hal inilah yang membuat anggaran sekolah tertip.
+n10 5.687 s  skor 0.91 | dan saat anggaran tertip, dana lebih terarah dan kepercayaan ikut naik.
+n11 7.51 s  skor 0.92 | Akadiva Bay Sabiha Edu membantu Bendahara mencatat tagihan SPP dan melihat laporan bulanannya.
+PERINGATAN: kalimat kurang jelas (skor < 0,7): n7
+events 288 dur 58.46 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.8)}
+durasi 58.460000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-24 09.00 Anggaran Sekolah yang Sehat/reel.mp4

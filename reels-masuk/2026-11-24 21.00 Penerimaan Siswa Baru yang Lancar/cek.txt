@@ -1,0 +1,19 @@
+== 2026-11-24 21.00 Penerimaan Siswa Baru yang Lancar
+konten ok: Penerimaan Siswa Baru yang Lancar
+-- membuat narasi Suara Ridwan
+n1 5.463 s  skor 1.1 | banyak yang mengira penerimaan siswa baru yang lancar itu formulirnya banyak
+n2 3.168 s  skor 1.0 | Padahal banyak formulir bikin repot.
+n3 3.729 s  skor 1.1 | yang membuat lancar adalah data yang terdata.
+n4 2.918 s  skor 1.0 | Terdata itu dijaga oleh empat hal.
+n5 4.595 s  skor 1.0 | Pertama, syaratnya jelas, diumumkan lebih awal.
+n6 5.62 s  skor 1.0 | Kedua, cukup satu formulir, orang tua tidak diminta berkali-kali.
+n7 4.538 s  skor 1.0 | Ketiga, data langsung masuk, tidak diketik ulang.
+n8 5.469 s  skor 1.0 | keempat orang tua dikabari, status pendaftaran mudah diketahui.
+n9 4.418 s  skor 1.0 | Empat hal inilah yang membuat data siswa baru terdata.
+n10 5.651 s  skor 1.0 | Dan saat data terdata, pendaftar lebih tenang dan panitia tidak lembur.
+n11 5.986 s  skor 1.0 | Akadiva by Sabiha Edu membantu operator memasukkan data siswa dari Excel.
+events 307 dur 59.9 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.2), 'chalk+fx': np.float64(-21.8)}
+durasi 59.900000s, 10 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-24 21.00 Penerimaan Siswa Baru yang Lancar/reel.mp4

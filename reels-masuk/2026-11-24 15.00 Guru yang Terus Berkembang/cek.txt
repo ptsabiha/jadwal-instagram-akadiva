@@ -1,0 +1,19 @@
+== 2026-11-24 15.00 Guru yang Terus Berkembang
+konten ok: Guru yang Terus Berkembang
+-- membuat narasi Suara Ridwan
+n1 4.528 s  skor 1.1 | banyak yang mengira guru yang berkembang itu yang pintar saja.
+n2 2.922 s  skor 1.0 | Padahal pintar saja tidak cukup.
+n3 2.993 s  skor 1.1 | Guru berkembang karena dibina.
+n4 2.891 s  skor 1.0 | Dibina itu dibangun oleh empat hal.
+n5 4.833 s  skor 1.0 | Pertama, kebutuhan guru dikenali, tiap guru berbeda.
+n6 4.705 s  skor 1.0 | Kedua, ada pelatihan, sesuai mata pelajarannya.
+n7 4.729 s  skor 0.86 | Ketiga, data pendamping. Guru senior yang membimbing.
+n8 4.944 s  skor 1.0 | keempat Ada Apresiasi, dihargai secara terbuka.
+n9 3.929 s  skor 1.0 | Empat hal inilah yang membuat guru terus dibina.
+n10 5.931 s  skor 1.0 | dan saat Guru Dibina mengajar lebih percaya diri dan murid ikut berkembang.
+n11 5.925 s  skor 1.0 | Akadiva by Sabiha Edu membantu kepala sekolah memantau jurnal mengajar guru.
+events 296 dur 56.58 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.7)}
+durasi 56.566667s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-24 15.00 Guru yang Terus Berkembang/reel.mp4
