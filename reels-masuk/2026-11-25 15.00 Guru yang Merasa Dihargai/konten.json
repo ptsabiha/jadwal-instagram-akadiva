@@ -1,0 +1,94 @@
+{
+ "judul": "Guru yang Merasa Dihargai",
+ "tema": "SDM sekolah",
+ "tanya": [
+  "Guru",
+  "yang dihargai?"
+ ],
+ "salah": "cukup diberi bunga",
+ "kunci": "dihargai",
+ "kepala": "dimulai dari 4 hal:",
+ "poin": [
+  [
+   "1. Ucapkan terima kasih",
+   "sebut jasanya dengan jelas"
+  ],
+  [
+   "2. Dengarkan masukan",
+   "ruang bicara tiap bulan"
+  ],
+  [
+   "3. Adil dalam tugas",
+   "beban kerja merata"
+  ],
+  [
+   "4. Beri ruang tumbuh",
+   "pelatihan dan kepercayaan"
+  ]
+ ],
+ "hasil": "guru betah",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira guru dihargai itu cukup diberi bunga.",
+   "say_ridwan": "Banyak yang mengira, guru dihargai itu, cukup diberi bunga.",
+   "kunci": [
+    "bunga"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal bunga saja tidak cukup.",
+   "say_ridwan": "Padahal, bunga saja, tidak cukup."
+  },
+  {
+   "id": "n3",
+   "text": "Guru butuh merasa dihargai.",
+   "say_ridwan": "Guru butuh, merasa, dihargai.",
+   "kunci": [
+    "dihargai"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Dihargai itu dimulai dari empat hal.",
+   "say_ridwan": "Dihargai itu, dimulai dari empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, terima kasih diucapkan. Jasanya disebut dengan jelas.",
+   "say_ridwan": "Pertama, terima kasih diucapkan. Jasanya, disebut dengan jelas."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, masukan didengarkan. Ada ruang bicara tiap bulan.",
+   "say_ridwan": "Kedua, masukan didengarkan. Ada ruang bicara, tiap bulan."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, tugas dibagi adil. Beban kerja merata.",
+   "say_ridwan": "Ketiga, tugas dibagi adil. Beban kerja, merata."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, ada ruang tumbuh. Pelatihan dan kepercayaan.",
+   "say_ridwan": "Keempat, ada ruang tumbuh. Pelatihan, dan kepercayaan."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat guru merasa dihargai.",
+   "say_ridwan": "Empat hal inilah, yang membuat guru, merasa dihargai."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat guru dihargai, mereka betah dan mengajar dengan hati.",
+   "say_ridwan": "Dan saat guru dihargai, mereka betah, dan mengajar, dengan hati."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu kepala sekolah melihat jurnal mengajar, supaya kerja guru terlihat.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu kepala sekolah, melihat jurnal mengajar, supaya kerja guru, terlihat."
+  }
+ ],
+ "caption": "Hari Guru bukan hanya soal bunga dan ucapan, tapi soal guru yang merasa dihargai sepanjang tahun.\n\nEmpat hal yang membangunnya: terima kasih yang jelas, masukan yang didengar, tugas yang adil, dan ruang untuk tumbuh.\n\nSelamat Hari Guru Nasional. Coba Akadiva gratis, link di bio.\n\n#harigurunasional #sdmsekolah #gurusekolah #kepalasekolah #yayasanpendidikan #akadiva"
+}

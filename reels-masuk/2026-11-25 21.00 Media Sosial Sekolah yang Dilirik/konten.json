@@ -1,0 +1,94 @@
+{
+ "judul": "Media Sosial Sekolah yang Dilirik",
+ "tema": "branding sekolah",
+ "tanya": [
+  "Medsos",
+  "yang dilirik?"
+ ],
+ "salah": "posting tiap jam",
+ "kunci": "konsisten",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Pilih satu tujuan",
+   "kenalkan sekolah apa adanya"
+  ],
+  [
+   "2. Tampilkan kegiatan",
+   "dengan izin orang tua"
+  ],
+  [
+   "3. Jadwal tetap",
+   "dua atau tiga kali sepekan"
+  ],
+  [
+   "4. Balas pertanyaan",
+   "ramah dan cepat"
+  ]
+ ],
+ "hasil": "dipercaya",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira medsos sekolah yang dilirik itu yang posting tiap jam.",
+   "say_ridwan": "Banyak yang mengira, medsos sekolah yang dilirik itu, yang posting tiap jam.",
+   "kunci": [
+    "jam"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal sering saja belum tentu menarik.",
+   "say_ridwan": "Padahal, sering saja, belum tentu menarik."
+  },
+  {
+   "id": "n3",
+   "text": "Yang dilirik adalah yang konsisten.",
+   "say_ridwan": "Yang dilirik, adalah yang, konsisten.",
+   "kunci": [
+    "konsisten"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Konsisten itu dijaga oleh empat hal.",
+   "say_ridwan": "Konsisten itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, pilih satu tujuan. Kenalkan sekolah apa adanya.",
+   "say_ridwan": "Pertama, pilih satu tujuan. Kenalkan sekolah, apa adanya."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, tampilkan kegiatan. Dengan izin orang tua.",
+   "say_ridwan": "Kedua, tampilkan kegiatan. Dengan izin, orang tua."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, jadwal tetap. Dua atau tiga kali sepekan.",
+   "say_ridwan": "Ketiga, jadwal tetap. Dua atau tiga kali, sepekan."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, balas pertanyaan. Dengan ramah dan cepat.",
+   "say_ridwan": "Keempat, balas pertanyaan. Dengan ramah, dan cepat."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat medsos sekolah konsisten.",
+   "say_ridwan": "Empat hal inilah, yang membuat medsos sekolah, konsisten."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat konsisten, sekolah makin dikenal dan dipercaya orang tua.",
+   "say_ridwan": "Dan saat konsisten, sekolah makin dikenal, dan dipercaya, orang tua."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah mencatat prestasi siswa dengan rapi, siap dibagikan.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mencatat prestasi siswa dengan rapi, siap dibagikan."
+  }
+ ],
+ "caption": "Media sosial sekolah yang dilirik bukan yang posting tiap jam, tapi yang konsisten.\n\nEmpat hal yang menjaganya: satu tujuan yang jelas, kegiatan yang tampil dengan izin orang tua, jadwal tetap, dan balasan yang ramah.\n\nCoba Akadiva gratis, link di bio.\n\n#brandingsekolah #mediasosialsekolah #humassekolah #kepalasekolah #yayasanpendidikan #akadiva"
+}

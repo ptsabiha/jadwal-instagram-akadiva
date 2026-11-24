@@ -1,0 +1,94 @@
+{
+ "judul": "Kalender Sekolah yang Ditaati",
+ "tema": "manajemen sekolah",
+ "tanya": [
+  "Kalender",
+  "sekolah yang rapi?"
+ ],
+ "salah": "yang penuh agenda",
+ "kunci": "ditaati",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Susun bersama",
+   "libatkan guru dan TU"
+  ],
+  [
+   "2. Tandai hari penting",
+   "rapat, ujian, dan libur"
+  ],
+  [
+   "3. Bagikan sejak awal",
+   "ke guru dan orang tua"
+  ],
+  [
+   "4. Cek tiap bulan",
+   "geser jadwal yang bentrok"
+  ]
+ ],
+ "hasil": "tidak bentrok",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira kalender sekolah yang rapi itu yang penuh agenda.",
+   "say_ridwan": "Banyak yang mengira, kalender sekolah yang rapi itu, yang penuh agenda.",
+   "kunci": [
+    "agenda"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal penuh agenda belum tentu rapi.",
+   "say_ridwan": "Padahal, penuh agenda, belum tentu rapi."
+  },
+  {
+   "id": "n3",
+   "text": "Kalender yang baik adalah yang ditaati.",
+   "say_ridwan": "Kalender yang baik, adalah yang, ditaati.",
+   "kunci": [
+    "ditaati"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Ditaati itu dijaga oleh empat hal.",
+   "say_ridwan": "Ditaati itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, disusun bersama. Guru dan tata usaha dilibatkan.",
+   "say_ridwan": "Pertama, disusun bersama. Guru dan tata usaha, dilibatkan."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, hari penting ditandai. Rapat, ujian, dan libur.",
+   "say_ridwan": "Kedua, hari penting ditandai. Rapat, ujian, dan libur."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, dibagikan sejak awal. Ke guru dan orang tua.",
+   "say_ridwan": "Ketiga, dibagikan sejak awal. Ke guru, dan orang tua."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, dicek tiap bulan. Jadwal yang bentrok digeser.",
+   "say_ridwan": "Keempat, dicek tiap bulan. Jadwal yang bentrok, digeser."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat kalender sekolah ditaati.",
+   "say_ridwan": "Empat hal inilah, yang membuat kalender sekolah, ditaati."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat kalender ditaati, kegiatan tidak bentrok, semua pihak tenang.",
+   "say_ridwan": "Dan saat kalender ditaati, kegiatan tidak bentrok, semua pihak, tenang."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah menyusun kalender akademik, supaya hari efektif dan libur jelas.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah menyusun kalender akademik, supaya hari efektif, dan libur, jelas."
+  }
+ ],
+ "caption": "Kalender sekolah yang rapi bukan yang paling penuh agenda, tapi yang ditaati.\n\nEmpat hal yang menjaganya: disusun bersama, hari penting ditandai, dibagikan sejak awal ke guru dan orang tua, dan dicek tiap bulan.\n\nCoba Akadiva gratis, link di bio.\n\n#manajemensekolah #kalenderpendidikan #kepalasekolah #yayasanpendidikan #administrasisekolah #akadiva"
+}
