@@ -1,0 +1,19 @@
+== 2026-11-25 09.00 Kalender Sekolah yang Ditaati
+konten ok: Kalender Sekolah yang Ditaati
+-- membuat narasi Suara Ridwan
+n1 5.031 s  skor 1.1 | banyak yang mengira kalender sekolah yang rapi itu yang penuh agenda.
+n2 3.455 s  skor 1.0 | Padahal penuh agenda belum tentu rapi.
+n3 3.464 s  skor 1.1 | Kalender yang baik adalah yang ditaati.
+n4 2.939 s  skor 0.77 | Di teati itu dijaga oleh empat hal.
+n5 5.482 s  skor 1.0 | Pertama, disusun bersama. Guru dan tata usaha dilibatkan.
+n6 5.469 s  skor 0.88 | Kedua, hari penting ditandai. Rapat, hujian, dan libur.
+n7 5.005 s  skor 1.0 | Ketiga, dibagikan sejak awal, ke guru, dan orang tua.
+n8 4.922 s  skor 1.0 | Keempat, dicek tiap bulan.  Jadwal yang bentrok, digeser.
+n9 4.528 s  skor 0.82 | Empat hal inilah yang membuat kalender sekolah di Taati.
+n10 5.621 s  skor 0.9 | Dan saat kalender ditaati, kegiatan tidak bentuk, semua pihak tenang.
+n11 8.462 s  skor 0.93 | Akadiva Bay Sabiha Edu membantu sekolah menyusun kalender akademik supaya hari efektif dan libur jelas.
+events 297 dur 62.63 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-22.1)}
+durasi 62.630000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-25 09.00 Kalender Sekolah yang Ditaati/reel.mp4

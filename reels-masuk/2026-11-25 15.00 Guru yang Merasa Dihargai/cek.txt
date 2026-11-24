@@ -1,0 +1,19 @@
+== 2026-11-25 15.00 Guru yang Merasa Dihargai
+konten ok: Guru yang Merasa Dihargai
+-- membuat narasi Suara Ridwan
+n1 4.499 s  skor 1.1 | banyak yang mengira guru dihargai itu cukup diberi bunga.
+n2 2.869 s  skor 1.0 | Padahal bunga saja tidak cukup.
+n3 3.05 s  skor 1.1 | Guru Butuh Merasa Dihargai
+n4 2.968 s  skor 1.0 | dihargai itu dimulai dari empat hal.
+n5 5.55 s  skor 0.88 | Pertama, terima kasih diucapkan. Jasannya disebut dengan jelas.
+n6 5.106 s  skor 0.71 | Kedua, Mesukin Diden Garkin. Ada ruang bicara tiap bulan.
+n7 4.786 s  skor 1.0 | Ketiga, tugas dibagi adil. Beban kerja merata.
+n8 4.828 s  skor 1.0 | Keempat ada ruang tumbuh, pelatihan, dan kepercayaan.
+n9 4.238 s  skor 1.0 | Empat hal inilah yang membuat guru merasa dihargai.
+n10 5.263 s  skor 1.0 | dan saat guru dihargai, mereka betah dan mengajar dengan hati.
+n11 7.876 s  skor 0.93 | Akadiva Bai Sabiha Edu membantu kepala sekolah melihat jurnal mengajar supaya kerja guru terlihat.
+events 307 dur 59.61 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.0), 'chalk+fx': np.float64(-21.9)}
+durasi 59.600000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-25 15.00 Guru yang Merasa Dihargai/reel.mp4

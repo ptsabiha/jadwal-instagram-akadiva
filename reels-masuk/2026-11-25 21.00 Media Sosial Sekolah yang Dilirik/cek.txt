@@ -1,0 +1,19 @@
+== 2026-11-25 21.00 Media Sosial Sekolah yang Dilirik
+konten ok: Media Sosial Sekolah yang Dilirik
+-- membuat narasi Suara Ridwan
+n1 5.231 s  skor 1.02 | Banyak yang menyerah, medsos sekolah yang dilirik itu, yang posting tiap jam.
+n2 3.313 s  skor 1.0 | Padahal sering saja belum tentu menarik.
+n3 3.245 s  skor 1.1 | yang dilirik adalah yang konsisten.
+n4 3.071 s  skor 1.0 | konsisten itu dijaga oleh empat hal.
+n5 5.171 s  skor 1.0 | Pertama, pilih satu tujuan.  Kenalkan sekolah apa adanya.
+n6 4.767 s  skor 1.0 | Kedua, tampilkan kegiatan dengan izin orang tua.
+n7 4.915 s  skor 1.0 | Ketiga, jadwal tetap, dua atau tiga kali sepekan.
+n8 4.563 s  skor 1.0 | keempat balas pertanyaan, dengan ramah dan cepat.
+n9 4.434 s  skor 1.0 | Empat hal inilah yang membuat medsos sekolah konsisten.
+n10 5.544 s  skor 1.0 | Dan saat konsisten, sekolah makin dikenal dan dipercaya orang tua.
+n11 7.334 s  skor 0.92 | Akadiva Bay Sabiha Edu membantu sekolah mencatat prestasi siswa dengan rapi, siap dibagikan.
+events 295 dur 60.16 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.2), 'chalk+fx': np.float64(-21.8)}
+durasi 60.160000s, 12 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-25 21.00 Media Sosial Sekolah yang Dilirik/reel.mp4
