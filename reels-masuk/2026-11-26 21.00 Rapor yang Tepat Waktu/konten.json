@@ -1,0 +1,94 @@
+{
+ "judul": "Rapor yang Tepat Waktu",
+ "tema": "administrasi sekolah",
+ "tanya": [
+  "Rapor",
+  "tepat waktu?"
+ ],
+ "salah": "ngebut di akhir",
+ "kunci": "jadwal",
+ "kepala": "diatur oleh 4 hal:",
+ "poin": [
+  [
+   "1. Nilai masuk awal",
+   "batas waktu tiap guru"
+  ],
+  [
+   "2. Cek nilai kosong",
+   "sebelum dikunci"
+  ],
+  [
+   "3. Wali kelas teliti",
+   "koreksi satu kali"
+  ],
+  [
+   "4. Undang orang tua",
+   "jauh hari sebelumnya"
+  ]
+ ],
+ "hasil": "rapor lancar",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira rapor tepat waktu itu soal ngebut di akhir.",
+   "say_ridwan": "Banyak yang mengira, rapor tepat waktu, itu soal ngebut di akhir.",
+   "kunci": [
+    "ngebut"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal ngebut justru bikin salah.",
+   "say_ridwan": "Padahal, ngebut, justru bikin salah."
+  },
+  {
+   "id": "n3",
+   "text": "Rapor yang tepat waktu bergantung pada jadwal.",
+   "say_ridwan": "Rapor yang tepat waktu, bergantung pada, jadwal.",
+   "kunci": [
+    "jadwal"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Jadwal itu diatur oleh empat hal.",
+   "say_ridwan": "Jadwal itu, diatur oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, nilai masuk lebih awal. Tiap guru punya batas waktu.",
+   "say_ridwan": "Pertama, nilai masuk lebih awal. Tiap guru, punya batas waktu."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, periksa nilai yang kosong. Sebelum dikunci.",
+   "say_ridwan": "Kedua, periksa nilai yang kosong. Sebelum, dikunci."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, wali kelas teliti. Koreksi satu kali saja.",
+   "say_ridwan": "Ketiga, wali kelas teliti. Koreksi, satu kali saja."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, undang orang tua. Jauh hari sebelumnya.",
+   "say_ridwan": "Keempat, undang orang tua. Jauh hari, sebelumnya."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang menjaga jadwal rapor tetap tepat.",
+   "say_ridwan": "Empat hal inilah, yang menjaga jadwal rapor, tetap tepat."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat jadwal terjaga, pembagian rapor berjalan lancar.",
+   "say_ridwan": "Dan saat jadwal terjaga, pembagian rapor, berjalan lancar."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah mengirim undangan bagi rapor lewat Kabar WA.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mengirim undangan bagi rapor, lewat Kabar WA."
+  }
+ ],
+ "caption": "Rapor tepat waktu bukan soal ngebut di akhir, tapi soal jadwal.\n\nEmpat hal yang menjaganya: nilai masuk lebih awal, cek nilai kosong sebelum dikunci, wali kelas yang teliti, dan undangan orang tua jauh hari.\n\nTanggal bagi rapor berbeda tiap daerah, cek kalender dinas pendidikan setempat.\n\nCoba Akadiva gratis, link di bio.\n\n#administrasisekolah #raporsiswa #walikelas #manajemensekolah #yayasanpendidikan #akadiva"
+}

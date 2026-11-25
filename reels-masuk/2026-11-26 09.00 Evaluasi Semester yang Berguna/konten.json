@@ -1,0 +1,94 @@
+{
+ "judul": "Evaluasi Semester yang Berguna",
+ "tema": "manajemen sekolah",
+ "tanya": [
+  "Evaluasi",
+  "akhir semester?"
+ ],
+ "salah": "hanya lihat nilai",
+ "kunci": "tindakan",
+ "kepala": "ditopang 4 hal:",
+ "poin": [
+  [
+   "1. Kumpulkan data",
+   "nilai, hadir, masukan"
+  ],
+  [
+   "2. Dengar guru",
+   "dan wali kelas"
+  ],
+  [
+   "3. Pilih prioritas",
+   "tiga saja cukup"
+  ],
+  [
+   "4. Catat tindak lanjut",
+   "siapa dan kapan"
+  ]
+ ],
+ "hasil": "semester maju",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira evaluasi akhir semester cukup dengan melihat nilai.",
+   "say_ridwan": "Banyak yang mengira, evaluasi akhir semester, cukup dengan melihat nilai.",
+   "kunci": [
+    "nilai"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal nilai saja belum cukup.",
+   "say_ridwan": "Padahal, nilai saja, belum cukup."
+  },
+  {
+   "id": "n3",
+   "text": "Evaluasi yang berguna berujung pada tindakan.",
+   "say_ridwan": "Evaluasi yang berguna, berujung pada, tindakan.",
+   "kunci": [
+    "tindakan"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Tindakan itu ditopang oleh empat hal.",
+   "say_ridwan": "Tindakan itu, ditopang oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, kumpulkan data. Nilai, kehadiran, dan masukan.",
+   "say_ridwan": "Pertama, kumpulkan data. Nilai, kehadiran, dan masukan."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, dengarkan guru. Juga para wali kelas.",
+   "say_ridwan": "Kedua, dengarkan guru. Juga, para wali kelas."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, pilih prioritas. Tiga saja sudah cukup.",
+   "say_ridwan": "Ketiga, pilih prioritas. Tiga saja, sudah cukup."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, catat tindak lanjut. Siapa mengerjakan apa, dan kapan.",
+   "say_ridwan": "Keempat, catat tindak lanjut. Siapa mengerjakan apa, dan kapan."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat evaluasi berujung tindakan.",
+   "say_ridwan": "Empat hal inilah, yang membuat evaluasi, berujung tindakan."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat tindakannya jalan, semester berikutnya terasa lebih maju.",
+   "say_ridwan": "Dan saat tindakannya jalan, semester berikutnya, terasa lebih maju."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah memantau nilai dan kehadiran siswa dalam satu tempat.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, memantau nilai dan kehadiran siswa, dalam satu tempat."
+  }
+ ],
+ "caption": "Evaluasi akhir semester yang berguna bukan cuma melihat nilai, tapi berujung pada tindakan.\n\nEmpat hal yang menopangnya: kumpulkan data, dengarkan guru dan wali kelas, pilih tiga prioritas, lalu catat siapa mengerjakan apa dan kapan.\n\nCoba Akadiva gratis, link di bio.\n\n#manajemensekolah #evaluasisekolah #kepalasekolah #yayasanpendidikan #gurumuda #akadiva"
+}

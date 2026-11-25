@@ -1,0 +1,94 @@
+{
+ "judul": "Tenaga Kependidikan yang Diakui",
+ "tema": "SDM sekolah",
+ "tanya": [
+  "Tendik",
+  "cuma pelengkap?"
+ ],
+ "salah": "cuma urus berkas",
+ "kunci": "mitra",
+ "kepala": "diperkuat 4 hal:",
+ "poin": [
+  [
+   "1. Tugas jelas",
+   "uraian kerja tertulis"
+  ],
+  [
+   "2. Ikut pelatihan",
+   "seperti para guru"
+  ],
+  [
+   "3. Diajak rapat",
+   "suaranya didengar"
+  ],
+  [
+   "4. Diberi apresiasi",
+   "di depan rekan kerja"
+  ]
+ ],
+ "hasil": "kerja tenang",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira tenaga kependidikan hanya pelengkap yang mengurus berkas.",
+   "say_ridwan": "Banyak yang mengira, tenaga kependidikan, hanya pelengkap, yang mengurus berkas.",
+   "kunci": [
+    "berkas"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal mereka bukan sekadar pelengkap.",
+   "say_ridwan": "Padahal, mereka bukan, sekadar pelengkap."
+  },
+  {
+   "id": "n3",
+   "text": "Tenaga kependidikan adalah mitra guru.",
+   "say_ridwan": "Tenaga kependidikan, adalah, mitra guru.",
+   "kunci": [
+    "mitra"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Kemitraan itu diperkuat oleh empat hal.",
+   "say_ridwan": "Kemitraan itu, diperkuat oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, tugas yang jelas. Uraian kerjanya tertulis.",
+   "say_ridwan": "Pertama, tugas yang jelas. Uraian kerjanya, tertulis."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, ikut pelatihan. Seperti para guru.",
+   "say_ridwan": "Kedua, ikut pelatihan. Seperti, para guru."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, diajak rapat. Suaranya didengar.",
+   "say_ridwan": "Ketiga, diajak rapat. Suaranya, didengar."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, diberi apresiasi. Di depan rekan kerja.",
+   "say_ridwan": "Keempat, diberi apresiasi. Di depan, rekan kerja."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat tenaga kependidikan menjadi mitra.",
+   "say_ridwan": "Empat hal inilah, yang membuat tenaga kependidikan, menjadi mitra."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat dihargai sebagai mitra, mereka bisa bekerja dengan tenang.",
+   "say_ridwan": "Dan saat dihargai sebagai mitra, mereka bisa, bekerja dengan tenang."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu operator sekolah menyiapkan data siswa dari Excel dengan lebih cepat.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu operator sekolah, menyiapkan data siswa dari Excel, dengan lebih cepat."
+  }
+ ],
+ "caption": "Tenaga kependidikan bukan sekadar pelengkap yang mengurus berkas. Mereka mitra guru.\n\nEmpat hal yang memperkuatnya: tugas yang jelas, ikut pelatihan seperti guru, diajak rapat, dan diberi apresiasi.\n\nCoba Akadiva gratis, link di bio.\n\n#sdmsekolah #tenagakependidikan #tusekolah #operatorsekolah #yayasanpendidikan #akadiva"
+}
