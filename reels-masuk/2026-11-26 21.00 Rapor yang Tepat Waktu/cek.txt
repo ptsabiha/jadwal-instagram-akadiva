@@ -1,0 +1,19 @@
+== 2026-11-26 21.00 Rapor yang Tepat Waktu
+konten ok: Rapor yang Tepat Waktu
+-- membuat narasi Suara Ridwan
+n1 4.801 s  skor 0.82 | Banyak yang mengira rapport tepat waktu itu soal nebut di akhir.
+n2 3.101 s  skor 1.0 | Padahal, ngebut justru bikin salah.
+n3 3.983 s  skor 1.1 | Rapor yang tepat waktu bergantung pada Jadwal.
+n4 2.889 s  skor 1.0 | Jadwal itu diatur oleh empat hal.
+n5 5.328 s  skor 1.0 | Pertama, nilai masuk lebih awal, tiap guru punya batas waktu.
+n6 4.697 s  skor 0.8 | Kedua, periksa nilai yang kosong, sebelum di kunci.
+n7 4.86 s  skor 0.88 | Ketiga, Wali-class-teliti. Koreksi, satu kali saja.
+n8 4.419 s  skor 0.86 | Keempat Pundang Orang Tua  Jauh Hari Sebelumnya
+n9 4.303 s  skor 1.0 | Empat hal inilah yang menjaga jadwal rapor tetap tepat.
+n10 4.738 s  skor 1.0 | dan saat jadwal terjaga, pembagian rapor berjalan lancar.
+n11 6.716 s  skor 0.85 | Akadiva Bai Sabiha Edu membantu sekolah mengirim undangan bagi rapor lewat kabar Wah.
+events 278 dur 58.09 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.7)}
+durasi 58.090000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-26 21.00 Rapor yang Tepat Waktu/reel.mp4

@@ -1,0 +1,20 @@
+== 2026-11-26 15.00 Tenaga Kependidikan yang Diakui
+konten ok: Tenaga Kependidikan yang Diakui
+-- membuat narasi Suara Ridwan
+n1 5.74 s  skor 1.1 | Banyak yang mengira tenaga kependidikan hanya pelengkap yang mengurus berkas.
+n2 3.245 s  skor 1.0 | Padahal mereka bukan sekadar pelengkap.
+n3 3.558 s  skor 1.1 | Tenaga kependidikan adalah Mitra Guru.
+n4 3.168 s  skor 1.0 | kemitraan itu diperkuat oleh empat hal.
+n5 4.399 s  skor 0.86 | Pertama, Tugas Yang Jelas, Yurein Kerjanya Tertulis
+n6 4.321 s  skor 1.0 | Kedua, ikut pelatihan, seperti para guru.
+n7 3.76 s  skor 0.6 | Ketiga, diajak rapat, Suranya Dainggar.
+n8 4.706 s  skor 1.0 | keempat diberi apresiasi, di depan rekan kerja.
+n9 4.852 s  skor 1.0 | Empat hal inilah yang membuat tenaga kependidikan menjadi Mitra.
+n10 5.131 s  skor 1.0 | dan saat dihargai sebagai mitra, mereka bisa bekerja dengan tenang.
+n11 7.574 s  skor 0.93 | Akadiva Bay Sabiha Edu membantu operator sekolah  menyiapkan data siswa dari Excel dengan lebih cepat.
+PERINGATAN: kalimat kurang jelas (skor < 0,7): n7
+events 272 dur 58.7 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.4)}
+durasi 58.700000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-26 15.00 Tenaga Kependidikan yang Diakui/reel.mp4

@@ -1,0 +1,19 @@
+== 2026-11-26 09.00 Evaluasi Semester yang Berguna
+konten ok: Evaluasi Semester yang Berguna
+-- membuat narasi Suara Ridwan
+n1 5.143 s  skor 1.0 | Banyak yang menyerah evaluasi akhir semester cukup dengan melihat nilai.
+n2 2.954 s  skor 1.0 | Padahal nilai saja belum cukup.
+n3 3.949 s  skor 1.1 | Evaluasi yang berguna berujung pada tindakan.
+n4 2.953 s  skor 1.0 | Tindakan itu ditopang oleh empat hal.
+n5 5.358 s  skor 0.86 | Pertama, Kempalkan Data.  Nilai, kehadiran, dan masukan.
+n6 4.457 s  skor 1.0 | Kedua, dengarkan guru, juga para wali-kelas.
+n7 4.491 s  skor 1.0 | Ketiga, pilih prioritas.  Tiga saja sudah cukup.
+n8 5.258 s  skor 1.0 | Keempat, catat tindak lanjut. Siapa mengerjakan apa dan kapan?
+n9 4.769 s  skor 1.0 | Empat hal inilah yang membuat evaluasi berujung tindakan.
+n10 4.95 s  skor 1.0 | Dan saat tindakannya jalan, semester berikutnya terasa lebih maju.
+n11 7.149 s  skor 0.93 | Akadiva Bay Sabiha Edu membantu sekolah memantau nilai dan kehadiran siswa dalam satu tempat.
+events 280 dur 59.95 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.8)}
+durasi 59.950000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-26 09.00 Evaluasi Semester yang Berguna/reel.mp4
