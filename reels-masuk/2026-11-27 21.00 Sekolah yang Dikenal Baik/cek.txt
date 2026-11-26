@@ -1,0 +1,18 @@
+== 2026-11-27 21.00 Sekolah yang Dikenal Baik
+konten ok: Sekolah yang Dikenal Baik
+-- membuat narasi Suara Ridwan
+n1 4.362 s  skor 0.88 | Banyak yang mengira sekolah dikenal karena sepanduk besar.
+n2 3.52 s  skor 0.8 | Padahal, sepanduk besar cepat dilupakan.
+n3 3.364 s  skor 1.1 | Sekolah dikenal karena cerita yang baik.
+n4 3.093 s  skor 1.0 | Cerita itu diceritakan lewat empat hal.
+n5 4.684 s  skor 1.0 | Pertama, prestasi dicatat, lengkap dengan tanggalnya.
+n6 4.602 s  skor 0.8 | Kedua, kegiatan di foto, dengan izin orang tua.
+n7 4.679 s  skor 1.0 | Ketiga, kabar disampaikan secara rutin ke orang tua.
+n8 3.978 s  skor 1.0 | Keempat orang tua bercerita dari pengalaman sendiri.
+n9 4.291 s  skor 1.0 | Empat hal inilah yang membuat cerita sekolah dikenal.
+n10 4.321 s  skor 1.0 | Dan saat cerita baik menyebar, nama baik sekolah tumbuh.
+n11 6.288 s  skor 0.7 | Akadiva Bay Sabiha Edum membantu sekolah mengabari orang tua lewat kabarwa.
+events 286 dur 55.43 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+[note] WebGL runs on software rendering (ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftSh): 3D/CRT demos will be slow. macOS: LEMO_ANGLE=metal; Linux: needs GPU drivers. See core/README.md.
+BAD head               at 14.60s   18 chars  need 2.70s  got 0.60s  "dibangun lewat 4 hal:"
+GAGAL: tulisan papan terlalu cepat hilang

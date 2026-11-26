@@ -1,0 +1,19 @@
+== 2026-11-27 09.00 Mutu Sekolah yang Terjaga
+konten ok: Mutu Sekolah yang Terjaga
+-- membuat narasi Suara Ridwan
+n1 4.318 s  skor 0.99 | Banyak yang mengira mutu sekolah datang dari gedung mega.
+n2 3.212 s  skor 1.0 | Padahal, gedung megah tidak menjamin.
+n3 3.597 s  skor 1.1 | Mutu sekolah berasal dari kebiasaan.
+n4 3.061 s  skor 0.91 | kebiasaan itu dibangun oleh 4 hal.
+n5 4.936 s  skor 1.0 | Pertama, Target Tertulis, dibuat tiap awal semester.
+n6 4.813 s  skor 1.0 | Kedua, rapat evaluasi. Hasilnya selalu dicatat.
+n7 3.852 s  skor 0.83 | Ketiga, guru saling belajar setiap bulan.
+n8 3.776 s  skor 0.86 | Keempat, masukkan orang tua, didengar dan dicatat.
+n9 4.556 s  skor 1.0 | Empat hal inilah yang menjaga kebiasaan baik di sekolah.
+n10 4.596 s  skor 1.0 | Dan saat kebiasaan terjaga, mutu sekolah ikut terjaga.
+n11 7.319 s  skor 0.92 | Akadiva Bay Sabiha Edu membantu kepala sekolah memantau pembelajaran lewat pantau pembelajaran.
+events 280 dur 56.84 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.8)}
+durasi 56.833333s, 10 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-27 09.00 Mutu Sekolah yang Terjaga/reel.mp4

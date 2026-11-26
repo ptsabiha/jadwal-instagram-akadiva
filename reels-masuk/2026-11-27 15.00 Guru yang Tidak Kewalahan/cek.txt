@@ -1,0 +1,19 @@
+== 2026-11-27 15.00 Guru yang Tidak Kewalahan
+konten ok: Guru yang Tidak Kewalahan
+-- membuat narasi Suara Ridwan
+n1 4.727 s  skor 1.1 | Banyak yang mengira, guru tidak kewalahan karena kerja lebih lama.
+n2 3.71 s  skor 1.0 | Padahal kerja lebih lama justru melelahkan.
+n3 3.956 s  skor 1.1 | Guru tidak kewalahan karena pembagian yang tepat.
+n4 3.098 s  skor 1.0 | Pembagian itu dijaga oleh empat hal.
+n5 5.292 s  skor 1.0 | Pertama, tugas dibagi adil, sesuai kemampuan tiap guru.
+n6 5.708 s  skor 1.0 | Kedua, jadwal piket jelas. Semua tahu siapa bertugas hari ini.
+n7 5.316 s  skor 1.0 | Ketiga, administrasi ringkas. Data tidak diisi dua kali.
+n8 5.297 s  skor 1.0 | keempat waktu istirahat terjaga, benar-benar untuk istirahat.
+n9 4.743 s  skor 1.0 | Empat hal inilah yang menjaga pembagian kerja tetap adil.
+n10 4.307 s  skor 0.88 | dan saat pembagianya adil guru bekerja dengan tenang.
+n11 7.095 s  skor 0.92 | Akadiva Bay Sabiha Edu membantu sekolah, mengatur jadwal piket, dan mencatat jurnal mengajar.
+events 297 dur 62.05 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.0), 'chalk+fx': np.float64(-21.7)}
+durasi 62.050000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-27 15.00 Guru yang Tidak Kewalahan/reel.mp4
