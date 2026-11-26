@@ -1,0 +1,94 @@
+{
+ "judul": "Guru yang Tidak Kewalahan",
+ "tema": "SDM sekolah",
+ "tanya": [
+  "Guru",
+  "tidak kewalahan?"
+ ],
+ "salah": "kerja lebih lama",
+ "kunci": "pembagian",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Tugas dibagi adil",
+   "sesuai kemampuan"
+  ],
+  [
+   "2. Piket jelas",
+   "siapa hari ini"
+  ],
+  [
+   "3. Administrasi ringkas",
+   "tanpa input dua kali"
+  ],
+  [
+   "4. Istirahat terjaga",
+   "benar-benar istirahat"
+  ]
+ ],
+ "hasil": "guru tenang",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira guru tidak kewalahan karena kerja lebih lama.",
+   "say_ridwan": "Banyak yang mengira, guru tidak kewalahan, karena kerja lebih lama.",
+   "kunci": [
+    "lama"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal kerja lebih lama justru melelahkan.",
+   "say_ridwan": "Padahal, kerja lebih lama, justru melelahkan."
+  },
+  {
+   "id": "n3",
+   "text": "Guru tidak kewalahan karena pembagian yang tepat.",
+   "say_ridwan": "Guru tidak kewalahan, karena, pembagian yang tepat.",
+   "kunci": [
+    "pembagian"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Pembagian itu dijaga oleh empat hal.",
+   "say_ridwan": "Pembagian itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, tugas dibagi adil. Sesuai kemampuan tiap guru.",
+   "say_ridwan": "Pertama, tugas dibagi adil. Sesuai kemampuan, tiap guru."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, jadwal piket jelas. Semua tahu siapa bertugas hari ini.",
+   "say_ridwan": "Kedua, jadwal piket jelas. Semua tahu, siapa bertugas hari ini."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, administrasi ringkas. Data tidak diisi dua kali.",
+   "say_ridwan": "Ketiga, administrasi ringkas. Data tidak diisi, dua kali."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, waktu istirahat terjaga. Benar-benar untuk istirahat.",
+   "say_ridwan": "Keempat, waktu istirahat terjaga. Benar-benar, untuk istirahat."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang menjaga pembagian kerja tetap adil.",
+   "say_ridwan": "Empat hal inilah, yang menjaga pembagian kerja, tetap adil."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat pembagiannya adil, guru bekerja dengan tenang.",
+   "say_ridwan": "Dan saat pembagiannya adil, guru bekerja, dengan tenang."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah mengatur Jadwal Piket dan mencatat Jurnal Mengajar.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mengatur Jadwal Piket, dan mencatat Jurnal Mengajar."
+  }
+ ],
+ "caption": "Guru tidak kewalahan bukan karena kerja lebih lama, tapi karena pembagian yang tepat.\n\nEmpat hal yang menjaganya: tugas dibagi adil, piket yang jelas, administrasi yang ringkas, dan waktu istirahat yang terjaga.\n\nCoba Akadiva gratis, link di bio.\n\n#sdmsekolah #gurumuda #kepalasekolah #manajemensekolah #yayasanpendidikan #akadiva"
+}

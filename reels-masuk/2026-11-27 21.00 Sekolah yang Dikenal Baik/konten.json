@@ -1,0 +1,94 @@
+{
+ "judul": "Sekolah yang Dikenal Baik",
+ "tema": "branding sekolah",
+ "tanya": [
+  "Sekolah",
+  "dikenal karena?"
+ ],
+ "salah": "spanduk besar",
+ "kunci": "cerita",
+ "kepala": "dibangun lewat 4 hal:",
+ "poin": [
+  [
+   "1. Prestasi dicatat",
+   "lengkap dengan tanggal"
+  ],
+  [
+   "2. Kegiatan difoto",
+   "dengan izin orang tua"
+  ],
+  [
+   "3. Kabar rutin",
+   "ke orang tua"
+  ],
+  [
+   "4. Orang tua bercerita",
+   "dari pengalaman sendiri"
+  ]
+ ],
+ "hasil": "nama baik",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira sekolah dikenal karena spanduk besar.",
+   "say_ridwan": "Banyak yang mengira, sekolah dikenal, karena spanduk besar.",
+   "kunci": [
+    "spanduk"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal spanduk besar cepat dilupakan.",
+   "say_ridwan": "Padahal, spanduk besar, cepat dilupakan."
+  },
+  {
+   "id": "n3",
+   "text": "Sekolah dikenal karena cerita yang baik.",
+   "say_ridwan": "Sekolah dikenal, karena, cerita yang baik.",
+   "kunci": [
+    "cerita"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Cerita itu diceritakan lewat empat hal.",
+   "say_ridwan": "Cerita itu, diceritakan lewat empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, prestasi dicatat. Lengkap dengan tanggalnya.",
+   "say_ridwan": "Pertama, prestasi dicatat. Lengkap, dengan tanggalnya."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, kegiatan difoto. Dengan izin orang tua.",
+   "say_ridwan": "Kedua, kegiatan difoto. Dengan izin, orang tua."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, kabar disampaikan secara rutin ke orang tua.",
+   "say_ridwan": "Ketiga, kabar disampaikan, secara rutin, ke orang tua."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, orang tua bercerita dari pengalaman sendiri.",
+   "say_ridwan": "Keempat, orang tua bercerita, dari pengalaman sendiri."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat cerita sekolah dikenal.",
+   "say_ridwan": "Empat hal inilah, yang membuat cerita sekolah, dikenal."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat cerita baik menyebar, nama baik sekolah tumbuh.",
+   "say_ridwan": "Dan saat cerita baik menyebar, nama baik sekolah, tumbuh."
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah mengabari orang tua lewat Kabar WA.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mengabari orang tua, lewat Kabar WA."
+  }
+ ],
+ "caption": "Sekolah dikenal bukan karena spanduk besar, tapi karena cerita yang baik.\n\nEmpat hal yang membangunnya: prestasi dicatat, kegiatan difoto dengan izin orang tua, kabar rutin ke orang tua, dan orang tua yang bercerita dari pengalaman sendiri.\n\nCoba Akadiva gratis, link di bio.\n\n#brandingsekolah #citrasekolah #manajemensekolah #yayasanpendidikan #orangtuamurid #akadiva"
+}
