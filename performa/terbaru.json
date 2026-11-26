@@ -1,12 +1,137 @@
 {
-  "diambil": "2026-11-25T07:45:21+07:00",
+  "diambil": "2026-11-26T07:22:36+07:00",
   "akun": "akadiva.app",
   "pengikut": 8,
   "mengikuti": 19,
-  "jumlah_postingan": 18,
+  "jumlah_postingan": 21,
   "izin_insights": true,
   "catatan": "",
   "media": [
+    {
+      "id": "18428863117157229",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgLxLFNDfGv/",
+      "timestamp": "2026-11-26T00:00:40+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Sehari sebelum rapat evaluasi akhir tahun, ketua pengurus bertanya apakah rekap tiga sekolah sudah siap. Kepala sekolah ",
+      "panjang_caption": 658,
+      "insights": {
+        "reach": 0,
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "id": "18653983939015638",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgKsecvyjcN/",
+      "timestamp": "2026-11-25T14:01:05+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Media sosial sekolah yang dilirik bukan yang posting tiap jam, tapi yang konsisten.",
+      "panjang_caption": 347,
+      "insights": {
+        "reach": 3,
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "17894484654685793",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgKeyaaIHqS/",
+      "timestamp": "2026-11-25T12:00:52+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Sehari sebelum bagi rapor, wali murid baru tahu jadwalnya dari tetangga. Undangan yang dititipkan lewat siswa sering ter",
+      "panjang_caption": 682,
+      "insights": {
+        "reach": 2,
+        "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18135065326762728",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgKDRdKy41q/",
+      "timestamp": "2026-11-25T08:01:06+0000",
+      "like_count": 1,
+      "comments_count": 0,
+      "caption_awal": "Hari Guru bukan hanya soal bunga dan ucapan, tapi soal guru yang merasa dihargai sepanjang tahun.",
+      "panjang_caption": 366,
+      "insights": {
+        "reach": 4,
+        "views": 6,
+        "likes": 1,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 1,
+        "tingkat_interaksi_persen": 25
+      }
+    },
+    {
+      "id": "18401286892201498",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgJutIIFdQO/",
+      "timestamp": "2026-11-25T05:00:42+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Pukul 10.40, wali murid mengabarkan bahwa kelas 7B tidak ada gurunya sejak jam kedua. Kepala sekolah baru tahu dari oran",
+      "panjang_caption": 629,
+      "insights": {
+        "reach": 2,
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18130771534845724",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgJaEw1p59j/",
+      "timestamp": "2026-11-25T02:00:49+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Kalender sekolah yang rapi bukan yang paling penuh agenda, tapi yang ditaati.",
+      "panjang_caption": 349,
+      "insights": {
+        "reach": 4,
+        "views": 5,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
     {
       "id": "18123176999594388",
       "media_type": "CAROUSEL_ALBUM",
@@ -18,13 +143,14 @@
       "caption_awal": "Pengurus yayasan bertanya kenapa angka tunggakan bulan lalu berbeda dengan laporan. Kepala sekolah belum bisa menjawab, ",
       "panjang_caption": 671,
       "insights": {
-        "reach": 0,
-        "views": 0,
+        "reach": 3,
+        "views": 3,
         "likes": 0,
         "comments": 0,
         "saved": 0,
         "shares": 0,
-        "total_interactions": 0
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
       }
     },
     {
@@ -38,8 +164,8 @@
       "caption_awal": "Penerimaan siswa baru yang lancar bukan soal banyaknya formulir, tapi soal datanya terdata.",
       "panjang_caption": 312,
       "insights": {
-        "reach": 11,
-        "views": 11,
+        "reach": 14,
+        "views": 15,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -60,7 +186,7 @@
       "panjang_caption": 1171,
       "insights": {
         "reach": 4,
-        "views": 6,
+        "views": 7,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -143,8 +269,8 @@
       "caption_awal": "Pukul 08.12, kepala sekolah mengabari pengurus yayasan: tim asesor akreditasi datang bulan depan. Yayasan meminta data s",
       "panjang_caption": 647,
       "insights": {
-        "reach": 2,
-        "views": 4,
+        "reach": 3,
+        "views": 7,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -206,14 +332,14 @@
       "caption_awal": "Kepala sekolah yang didengar guru bukan yang paling galak, tapi yang jadi teladan.",
       "panjang_caption": 309,
       "insights": {
-        "reach": 73,
+        "reach": 74,
         "views": 82,
         "likes": 1,
         "comments": 0,
         "saved": 0,
         "shares": 0,
         "total_interactions": 1,
-        "tingkat_interaksi_persen": 1.37
+        "tingkat_interaksi_persen": 1.35
       }
     },
     {
@@ -627,7 +753,7 @@
       "panjang_caption": 407,
       "insights": {
         "reach": 149,
-        "views": 239,
+        "views": 240,
         "likes": 7,
         "comments": 0,
         "saved": 1,
@@ -648,7 +774,7 @@
       "panjang_caption": 969,
       "insights": {
         "reach": 32,
-        "views": 103,
+        "views": 105,
         "likes": 3,
         "comments": 0,
         "saved": 1,
@@ -669,7 +795,7 @@
       "panjang_caption": 998,
       "insights": {
         "reach": 22,
-        "views": 70,
+        "views": 72,
         "likes": 3,
         "comments": 0,
         "saved": 1,
@@ -732,7 +858,7 @@
       "panjang_caption": 400,
       "insights": {
         "reach": 303,
-        "views": 520,
+        "views": 521,
         "likes": 7,
         "comments": 0,
         "saved": 0,
