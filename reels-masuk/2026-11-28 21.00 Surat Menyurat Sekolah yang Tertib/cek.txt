@@ -1,0 +1,19 @@
+== 2026-11-28 21.00 Surat Menyurat Sekolah yang Tertib
+konten ok: Surat Menyurat Sekolah yang Tertib
+-- membuat narasi Suara Ridwan
+n1 4.536 s  skor 1.1 | Banyak yang mengira surat sekolah cukup disimpan seadanya.
+n2 3.887 s  skor 1.0 | Padahal surat penting sering hilang saat dicari.
+n3 3.127 s  skor 0.83 | Surat sekolah perlu dijaga dengan tertip.
+n4 3.483 s  skor 0.88 | Surat yang tertip itu dijaga oleh empat hal.
+n5 4.836 s  skor 1.0 | Pertama, nomor surat dibuat berurutan jadi tidak ada yang kembar.
+n6 5.158 s  skor 1.0 | Kedua, ada buku agenda untuk surat masuk dan surat keluar.
+n7 4.719 s  skor 1.0 | Ketiga, surat disimpan per bulan, satu map untuk satu bulan.
+n8 5.317 s  skor 0.84 | keempat salinannya ada di komputer, hasil dipindai atau di foto.
+n9 4.884 s  skor 0.9 | Empat hal inilah yang membuat surat menyurat sekolah menjadi tertip.
+n10 4.948 s  skor 1.01 | Dan saat surat tertip, arsip sekolah jadi rapi dan mudah dicari.
+n11 9.151 s  skor 0.93 | Akadiva Bay Sabiha Edu membantu sekolah merapikan data siswa dan laporan supaya administrasi lebih ringan.
+events 297 dur 62.3 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.2), 'chalk+fx': np.float64(-21.6)}
+durasi 62.300000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-28 21.00 Surat Menyurat Sekolah yang Tertib/reel.mp4

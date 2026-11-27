@@ -1,0 +1,19 @@
+== 2026-11-27 21.00 Sekolah yang Dikenal Baik
+konten ok: Sekolah yang Dikenal Baik
+-- membuat narasi Suara Ridwan
+n1 4.343 s  skor 0.88 | Banyak yang mengira sekolah dikenal karena sepanduk besar.
+n2 3.513 s  skor 1.0 | Padahal, spanduk besar cepat dilupakan.
+n3 3.369 s  skor 1.1 | sekolah dikenal karena cerita yang baik.
+n4 2.807 s  skor 1.0 | Cerita itu dibangun oleh empat hal.
+n5 4.685 s  skor 1.0 | Pertama, prestasi dicatat, lengkap dengan tanggalnya.
+n6 4.609 s  skor 0.8 | Kedua, kegiatan di foto, dengan izin orang tua.
+n7 4.69 s  skor 0.88 | Kepiga, kabar disampaikan secara rutin ke orang tua.
+n8 3.979 s  skor 1.0 | keempat orang tua bercerita dari pengalaman sendiri.
+n9 4.284 s  skor 1.0 | Empat hal inilah yang membuat cerita sekolah dikenal.
+n10 4.326 s  skor 1.0 | Dan saat cerita baik menyebar, nama baik sekolah tumbuh.
+n11 6.14 s  skor 0.91 | Akadiva Bay Sabiha Edu membantu sekolah mengabari orang tua lewat WhatsApp.
+events 284 dur 54.99 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.2), 'chalk+fx': np.float64(-21.5)}
+durasi 54.990000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-27 21.00 Sekolah yang Dikenal Baik/reel.mp4

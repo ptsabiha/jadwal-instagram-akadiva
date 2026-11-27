@@ -1,0 +1,19 @@
+== 2026-11-28 15.00 Kontrak Kerja Guru yang Jelas
+konten ok: Kontrak Kerja Guru yang Jelas
+-- membuat narasi Suara Ridwan
+n1 4.673 s  skor 1.0 | Banyak yang mengira kontrak guru itu cukup asal tanda tangan.
+n2 4.389 s  skor 1.0 | Padahal kontrak yang kabur sering jadi sumber salah paham.
+n3 2.939 s  skor 1.1 | Kontrak guru perlu dibuat dengan jelas.
+n4 3.445 s  skor 0.93 | Kontrak yang jelas itu dibangun oleh 4 hal.
+n5 4.847 s  skor 0.89 | Pertama, Tugas Guru ditulis ringci supaya beban kerja tercatat.
+n6 4.828 s  skor 0.82 | Kedua, hak dan kewajiban dibaca bersama sebelum menanda tangani.
+n7 5.474 s  skor 1.0 | Ketiga, masa kerja disebut lengkap dengan tanggal mulai dan akhirnya.
+n8 4.441 s  skor 1.0 | keempat ada salinan untuk guru dan salinan untuk sekolah.
+n9 4.761 s  skor 0.9 | Empat hal inilah yang membuat kontra kerja guru menjadi jelas.
+n10 4.334 s  skor 1.1 | Dan saat kontrak jelas, guru bisa bekerja dengan tenang.
+n11 8.198 s  skor 0.93 | Akadiva Bai Sabiha Edu membantu sekolah merapikan data lembaga supaya urusan guru lebih tertata.
+events 293 dur 60.58 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.2), 'chalk+fx': np.float64(-21.4)}
+durasi 60.566667s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-28 15.00 Kontrak Kerja Guru yang Jelas/reel.mp4

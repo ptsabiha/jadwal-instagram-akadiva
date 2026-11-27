@@ -1,0 +1,19 @@
+== 2026-11-28 09.00 Supervisi Kelas yang Membina
+konten ok: Supervisi Kelas yang Membina
+-- membuat narasi Suara Ridwan
+n1 5.126 s  skor 1.1 | banyak yang mengira supervisi kelas itu untuk mencari kesalahan guru.
+n2 4.723 s  skor 1.0 | Padahal, guru jadi takut dan kelas tampil dibuat-buat.
+n3 2.622 s  skor 1.1 | Supervisi yang baik itu membina.
+n4 3.145 s  skor 0.91 | Supervisi itu berjalan lewat 4 hal.
+n5 4.803 s  skor 1.0 | Pertama, supervisi dijadwalkan bersama jadi guru sudah tahu.
+n6 4.421 s  skor 1.0 | Kedua, yang dilihat adalah kelasnya bukan pribadi gurunya.
+n7 4.397 s  skor 1.0 | Ketiga, umpan balik diberikan langsung dengan contoh nyata.
+n8 3.741 s  skor 1.0 | keempat ada tindak lanjut yang dicek bulan depan.
+n9 4.933 s  skor 1.0 | Empat hal inilah yang menjadikan supervisi sebuah pembinaan.
+n10 4.781 s  skor 1.1 | Dan saat guru merasa dibina, guru tumbuh, makin percaya diri.
+n11 7.603 s  skor 0.88 | Akadiva Bay Sabiha Edu membantu kepala sekolah memantau pembelajaran lewat menu pantau pembelajaran.
+events 291 dur 58.81 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.5)}
+durasi 58.800000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-28 09.00 Supervisi Kelas yang Membina/reel.mp4
