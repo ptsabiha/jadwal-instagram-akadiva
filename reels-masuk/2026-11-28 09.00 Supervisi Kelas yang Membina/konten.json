@@ -1,0 +1,97 @@
+{
+ "judul": "Supervisi Kelas yang Membina",
+ "tema": "manajemen sekolah",
+ "tanya": [
+  "Supervisi",
+  "untuk apa?"
+ ],
+ "salah": "cari kesalahan",
+ "kunci": "membina",
+ "kepala": "berjalan lewat 4 hal:",
+ "poin": [
+  [
+   "1. Dijadwalkan bersama",
+   "guru tahu sebelumnya"
+  ],
+  [
+   "2. Fokus pada kelas",
+   "bukan pada pribadi"
+  ],
+  [
+   "3. Umpan balik, langsung",
+   "dengan contoh nyata"
+  ],
+  [
+   "4. Ada tindak lanjut",
+   "dicek bulan depan"
+  ]
+ ],
+ "hasil": "guru tumbuh",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira supervisi kelas itu, untuk mencari kesalahan guru.",
+   "say_ridwan": "Banyak yang mengira, supervisi kelas itu, untuk mencari kesalahan guru.",
+   "kunci": [
+    "kesalahan"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal guru jadi takut, dan kelas tampil dibuat-buat.",
+   "say_ridwan": "Padahal, guru jadi takut, dan kelas tampil, dibuat-buat."
+  },
+  {
+   "id": "n3",
+   "text": "Supervisi yang baik itu, membina.",
+   "say_ridwan": "Supervisi yang baik itu, membina.",
+   "kunci": [
+    "membina"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Supervisi itu berjalan lewat empat hal.",
+   "say_ridwan": "Supervisi itu, berjalan lewat empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, supervisi dijadwalkan bersama, jadi guru sudah tahu.",
+   "say_ridwan": "Pertama, supervisi dijadwalkan bersama, jadi guru sudah tahu."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, yang dilihat adalah kelasnya, bukan pribadi gurunya.",
+   "say_ridwan": "Kedua, yang dilihat adalah kelasnya, bukan pribadi gurunya."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, umpan balik diberikan langsung, dengan contoh nyata.",
+   "say_ridwan": "Ketiga, umpan balik diberikan langsung, dengan contoh nyata."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, ada tindak lanjut, yang dicek bulan depan.",
+   "say_ridwan": "Keempat, ada tindak lanjut, yang dicek bulan depan."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang menjadikan supervisi, sebuah pembinaan.",
+   "say_ridwan": "Empat hal inilah, yang menjadikan supervisi, sebuah pembinaan."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat guru merasa dibina, guru tumbuh makin percaya diri.",
+   "say_ridwan": "Dan saat guru merasa dibina, guru tumbuh, makin percaya diri.",
+   "kunci": [
+    "tumbuh"
+   ]
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu kepala sekolah memantau pembelajaran lewat Pantau Pembelajaran.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu kepala sekolah, memantau pembelajaran, lewat menu Pantau Pembelajaran."
+  }
+ ],
+ "caption": "Supervisi kelas yang baik membina guru, bukan mencari kesalahan.\n\nEmpat hal yang menjaganya: dijadwalkan bersama, fokus pada kelas, umpan balik langsung dengan contoh nyata, dan ada tindak lanjut bulan depan.\n\nCoba Akadiva gratis, link di bio.\n\n#manajemensekolah #supervisikelas #kepalasekolah #guruindonesia #yayasanpendidikan #akadiva"
+}

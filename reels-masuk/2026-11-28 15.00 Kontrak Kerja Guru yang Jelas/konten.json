@@ -1,0 +1,97 @@
+{
+ "judul": "Kontrak Kerja Guru yang Jelas",
+ "tema": "SDM sekolah",
+ "tanya": [
+  "Kontrak",
+  "guru yang jelas?"
+ ],
+ "salah": "asal tanda tangan",
+ "kunci": "jelas",
+ "kepala": "dibangun oleh 4 hal:",
+ "poin": [
+  [
+   "1. Tugas ditulis rinci",
+   "beban kerja tercatat"
+  ],
+  [
+   "2. Hak dan kewajiban",
+   "dibaca bersama"
+  ],
+  [
+   "3. Masa kerja disebut",
+   "tanggal mulai dan akhir"
+  ],
+  [
+   "4. Ada salinan",
+   "untuk guru dan sekolah"
+  ]
+ ],
+ "hasil": "guru tenang",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira kontrak guru itu, cukup asal tanda tangan.",
+   "say_ridwan": "Banyak yang mengira, kontrak guru itu, cukup asal tanda tangan.",
+   "kunci": [
+    "tanda tangan"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal kontrak yang kabur, sering jadi sumber salah paham.",
+   "say_ridwan": "Padahal, kontrak yang kabur, sering jadi sumber salah paham."
+  },
+  {
+   "id": "n3",
+   "text": "Kontrak guru perlu dibuat dengan jelas.",
+   "say_ridwan": "Kontrak guru, perlu dibuat dengan jelas.",
+   "kunci": [
+    "jelas"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Kontrak yang jelas itu dibangun oleh empat hal.",
+   "say_ridwan": "Kontrak yang jelas itu, dibangun oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, tugas guru ditulis rinci, supaya beban kerja tercatat.",
+   "say_ridwan": "Pertama, tugas guru ditulis rinci, supaya beban kerja tercatat."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, hak dan kewajiban dibaca bersama, sebelum menandatangani.",
+   "say_ridwan": "Kedua, hak dan kewajiban dibaca bersama, sebelum menandatangani."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, masa kerja disebut, lengkap dengan tanggal mulai dan akhirnya.",
+   "say_ridwan": "Ketiga, masa kerja disebut, lengkap dengan tanggal mulai, dan akhirnya."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, ada salinan untuk guru, dan salinan untuk sekolah.",
+   "say_ridwan": "Keempat, ada salinan untuk guru, dan salinan untuk sekolah."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat kontrak kerja guru, menjadi jelas.",
+   "say_ridwan": "Empat hal inilah, yang membuat kontrak kerja guru, menjadi jelas."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat kontrak jelas, guru bisa bekerja dengan tenang.",
+   "say_ridwan": "Dan saat kontrak jelas, guru bisa bekerja, dengan tenang.",
+   "kunci": [
+    "tenang"
+   ]
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah merapikan data lembaga, supaya urusan guru lebih tertata.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, merapikan data lembaga, supaya urusan guru, lebih tertata."
+  }
+ ],
+ "caption": "Kontrak guru bukan sekadar tanda tangan di atas kertas.\n\nEmpat hal yang membuatnya jelas: tugas ditulis rinci, hak dan kewajiban dibaca bersama, masa kerja disebut lengkap, dan ada salinan untuk guru dan sekolah.\n\nCoba Akadiva gratis, link di bio.\n\n#sdmsekolah #kontrakguru #yayasanpendidikan #kepalasekolah #guruindonesia #akadiva"
+}

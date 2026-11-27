@@ -7,7 +7,7 @@
  ],
  "salah": "spanduk besar",
  "kunci": "cerita",
- "kepala": "dibangun lewat 4 hal:",
+ "kepala": "dibangun oleh 4 hal:",
  "poin": [
   [
    "1. Prestasi dicatat",
@@ -51,8 +51,8 @@
   },
   {
    "id": "n4",
-   "text": "Cerita itu diceritakan lewat empat hal.",
-   "say_ridwan": "Cerita itu, diceritakan lewat empat hal."
+   "text": "Cerita itu dibangun oleh empat hal.",
+   "say_ridwan": "Cerita itu, dibangun oleh empat hal."
   },
   {
    "id": "n5",
@@ -86,8 +86,8 @@
   },
   {
    "id": "n11",
-   "text": "Akadiva by SABIHA Edu, membantu sekolah mengabari orang tua lewat Kabar WA.",
-   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mengabari orang tua, lewat Kabar WA."
+   "text": "Akadiva by SABIHA Edu, membantu sekolah mengabari orang tua lewat WhatsApp.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mengabari orang tua, lewat WhatsApp."
   }
  ],
  "caption": "Sekolah dikenal bukan karena spanduk besar, tapi karena cerita yang baik.\n\nEmpat hal yang membangunnya: prestasi dicatat, kegiatan difoto dengan izin orang tua, kabar rutin ke orang tua, dan orang tua yang bercerita dari pengalaman sendiri.\n\nCoba Akadiva gratis, link di bio.\n\n#brandingsekolah #citrasekolah #manajemensekolah #yayasanpendidikan #orangtuamurid #akadiva"

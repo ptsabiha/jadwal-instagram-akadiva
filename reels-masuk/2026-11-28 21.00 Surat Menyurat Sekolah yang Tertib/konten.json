@@ -1,0 +1,97 @@
+{
+ "judul": "Surat Menyurat Sekolah yang Tertib",
+ "tema": "administrasi sekolah",
+ "tanya": [
+  "Surat",
+  "yang tertib?"
+ ],
+ "salah": "disimpan seadanya",
+ "kunci": "tertib",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Nomor surat berurutan",
+   "tidak ada yang kembar"
+  ],
+  [
+   "2. Ada buku agenda",
+   "surat masuk dan keluar"
+  ],
+  [
+   "3. Disimpan per bulan",
+   "satu map satu bulan"
+  ],
+  [
+   "4. Salinan di komputer",
+   "dipindai atau difoto"
+  ]
+ ],
+ "hasil": "arsip rapi",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira, surat sekolah cukup disimpan seadanya.",
+   "say_ridwan": "Banyak yang mengira, surat sekolah, cukup disimpan seadanya.",
+   "kunci": [
+    "seadanya"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal surat penting, sering hilang saat dicari.",
+   "say_ridwan": "Padahal, surat penting, sering hilang saat dicari."
+  },
+  {
+   "id": "n3",
+   "text": "Surat sekolah perlu dijaga dengan tertib.",
+   "say_ridwan": "Surat sekolah, perlu dijaga dengan tertib.",
+   "kunci": [
+    "tertib"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Surat yang tertib itu dijaga oleh empat hal.",
+   "say_ridwan": "Surat yang tertib itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, nomor surat dibuat berurutan, jadi tidak ada yang kembar.",
+   "say_ridwan": "Pertama, nomor surat dibuat berurutan, jadi tidak ada yang kembar."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, ada buku agenda, untuk surat masuk dan surat keluar.",
+   "say_ridwan": "Kedua, ada buku agenda, untuk surat masuk, dan surat keluar."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, surat disimpan per bulan, satu map untuk satu bulan.",
+   "say_ridwan": "Ketiga, surat disimpan per bulan, satu map untuk satu bulan."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, salinannya ada di komputer, hasil dipindai atau difoto.",
+   "say_ridwan": "Keempat, salinannya ada di komputer, hasil dipindai, atau difoto."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat surat menyurat sekolah, menjadi tertib.",
+   "say_ridwan": "Empat hal inilah, yang membuat surat menyurat sekolah, menjadi tertib."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat surat tertib, arsip sekolah jadi rapi dan mudah dicari.",
+   "say_ridwan": "Dan saat surat tertib, arsip sekolah jadi rapi, dan mudah dicari.",
+   "kunci": [
+    "rapi"
+   ]
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah merapikan data siswa dan laporan, supaya administrasi lebih ringan.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, merapikan data siswa, dan laporan, supaya administrasi, lebih ringan."
+  }
+ ],
+ "caption": "Surat sekolah yang disimpan seadanya sering hilang saat dibutuhkan.\n\nEmpat hal yang menjaganya tertib: nomor surat berurutan, buku agenda surat masuk dan keluar, simpan per bulan, dan salinan di komputer.\n\nCoba Akadiva gratis, link di bio.\n\n#administrasisekolah #suratmenyurat #arsipsekolah #tatausaha #yayasanpendidikan #akadiva"
+}
