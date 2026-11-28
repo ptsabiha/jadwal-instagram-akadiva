@@ -1,0 +1,97 @@
+{
+ "judul": "Penilaian Kinerja Guru yang Adil",
+ "tema": "SDM sekolah",
+ "tanya": [
+  "Kinerja",
+  "guru yang adil?"
+ ],
+ "salah": "dilihat dari kesan",
+ "kunci": "adil",
+ "kepala": "dijaga oleh 4 hal:",
+ "poin": [
+  [
+   "1. Kriteria disepakati",
+   "dibaca guru sebelum dinilai"
+  ],
+  [
+   "2. Dilihat dari bukti",
+   "dokumen dan pengamatan"
+  ],
+  [
+   "3. Ada waktu bicara",
+   "guru boleh menanggapi"
+  ],
+  [
+   "4. Ada tindak lanjut",
+   "pelatihan sesuai kebutuhan"
+  ]
+ ],
+ "hasil": "guru semangat",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira, kinerja guru cukup dinilai dari kesan.",
+   "say_ridwan": "Banyak yang mengira, kinerja guru, cukup dinilai dari kesan.",
+   "kunci": [
+    "kesan"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal penilaian dari kesan, sering terasa tidak adil.",
+   "say_ridwan": "Padahal, penilaian dari kesan, sering terasa tidak adil."
+  },
+  {
+   "id": "n3",
+   "text": "Penilaian kinerja guru perlu dibuat adil.",
+   "say_ridwan": "Penilaian kinerja guru, perlu dibuat adil.",
+   "kunci": [
+    "adil"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Penilaian yang adil itu dijaga oleh empat hal.",
+   "say_ridwan": "Penilaian yang adil itu, dijaga oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, kriteria disepakati, dan dibaca guru sebelum dinilai.",
+   "say_ridwan": "Pertama, kriteria disepakati, dan dibaca guru sebelum dinilai."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, penilaian dilihat dari bukti, berupa dokumen dan pengamatan.",
+   "say_ridwan": "Kedua, penilaian dilihat dari bukti, berupa dokumen, dan pengamatan."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, ada waktu bicara, supaya guru boleh menanggapi.",
+   "say_ridwan": "Ketiga, ada waktu bicara, supaya guru boleh menanggapi."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, ada tindak lanjut, berupa pelatihan sesuai kebutuhan.",
+   "say_ridwan": "Keempat, ada tindak lanjut, berupa pelatihan sesuai kebutuhan."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang menjaga penilaian kinerja guru, tetap adil.",
+   "say_ridwan": "Empat hal inilah, yang menjaga penilaian kinerja guru, tetap adil."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat penilaian adil, guru jadi lebih semangat mengajar.",
+   "say_ridwan": "Dan saat penilaian adil, guru jadi lebih semangat mengajar.",
+   "kunci": [
+    "semangat"
+   ]
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah mencatat jurnal mengajar guru, supaya penilaian punya data yang jelas.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, mencatat jurnal mengajar guru, supaya penilaian, punya data yang jelas."
+  }
+ ],
+ "caption": "Penilaian kinerja guru yang hanya dari kesan sering terasa tidak adil.\n\nEmpat hal yang menjaganya adil: kriteria disepakati, dilihat dari bukti, ada waktu bicara, dan ada tindak lanjut.\n\nCoba Akadiva gratis, link di bio.\n\n#sdmsekolah #kinerjaguru #kepalasekolah #yayasanpendidikan #gurumuda #akadiva"
+}

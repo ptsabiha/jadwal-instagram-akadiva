@@ -1,0 +1,97 @@
+{
+ "judul": "Cerita Alumni yang Membanggakan Sekolah",
+ "tema": "branding sekolah",
+ "tanya": [
+  "Alumni",
+  "yang dibanggakan?"
+ ],
+ "salah": "hilang kabar",
+ "kunci": "terhubung",
+ "kepala": "dibangun oleh 4 hal:",
+ "poin": [
+  [
+   "1. Data alumni dicatat",
+   "nama, angkatan, kontak"
+  ],
+  [
+   "2. Ada grup alumni",
+   "untuk saling kabar"
+  ],
+  [
+   "3. Alumni diundang",
+   "ke acara sekolah"
+  ],
+  [
+   "4. Kisahnya dibagikan",
+   "di media sosial sekolah"
+  ]
+ ],
+ "hasil": "sekolah dikenal",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira, alumni sekolah cukup dibiarkan hilang kabar.",
+   "say_ridwan": "Banyak yang mengira, alumni sekolah, cukup dibiarkan hilang kabar.",
+   "kunci": [
+    "hilang"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal alumni, adalah cerita terbaik sebuah sekolah.",
+   "say_ridwan": "Padahal, alumni, adalah cerita terbaik sebuah sekolah."
+  },
+  {
+   "id": "n3",
+   "text": "Alumni perlu tetap terhubung dengan sekolah.",
+   "say_ridwan": "Alumni perlu tetap, terhubung dengan sekolah.",
+   "kunci": [
+    "terhubung"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Hubungan itu dibangun oleh empat hal.",
+   "say_ridwan": "Hubungan itu, dibangun oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, data alumni dicatat, lengkap dengan angkatan dan kontak.",
+   "say_ridwan": "Pertama, data alumni dicatat, lengkap dengan angkatan, dan kontak."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, ada grup alumni, supaya mereka saling kabar.",
+   "say_ridwan": "Kedua, ada grup alumni, supaya mereka saling kabar."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, alumni diundang, ke acara sekolah.",
+   "say_ridwan": "Ketiga, alumni diundang, ke acara sekolah."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, kisah mereka dibagikan, di media sosial sekolah.",
+   "say_ridwan": "Keempat, kisah mereka dibagikan, di media sosial sekolah."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat alumni, tetap terhubung dengan sekolah.",
+   "say_ridwan": "Empat hal inilah, yang membuat alumni, tetap terhubung dengan sekolah."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat alumni bercerita, nama sekolah makin dikenal orang tua.",
+   "say_ridwan": "Dan saat alumni bercerita, nama sekolah makin dikenal, orang tua.",
+   "kunci": [
+    "dikenal"
+   ]
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah merapikan data siswa, supaya kabar sekolah, mudah dibagikan.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, merapikan data siswa, supaya kabar sekolah, mudah dibagikan."
+  }
+ ],
+ "caption": "Alumni yang dibiarkan hilang kabar adalah cerita sekolah yang tidak terceritakan.\n\nEmpat hal yang menjaganya terhubung: data alumni dicatat, ada grup alumni, alumni diundang ke acara sekolah, dan kisahnya dibagikan.\n\nCoba Akadiva gratis, link di bio.\n\n#brandingsekolah #alumni #yayasanpendidikan #mediasosialsekolah #akadiva"
+}

@@ -1,0 +1,97 @@
+{
+ "judul": "Pembagian Tugas Sekolah yang Jelas",
+ "tema": "manajemen sekolah",
+ "tanya": [
+  "Tugas",
+  "yang jelas?"
+ ],
+ "salah": "siapa yang sempat",
+ "kunci": "jelas",
+ "kepala": "dibangun oleh 4 hal:",
+ "poin": [
+  [
+   "1. Ada uraian tugas",
+   "tertulis untuk tiap orang"
+  ],
+  [
+   "2. Ada penanggung jawab",
+   "satu nama tiap kegiatan"
+  ],
+  [
+   "3. Ada tenggat waktu",
+   "tanggal selesai disepakati"
+  ],
+  [
+   "4. Dicek tiap bulan",
+   "sudah jalan atau belum"
+  ]
+ ],
+ "hasil": "kerja lancar",
+ "narasi": [
+  {
+   "id": "n1",
+   "text": "Banyak yang mengira, tugas sekolah cukup dikerjakan oleh siapa yang sempat.",
+   "say_ridwan": "Banyak yang mengira, tugas sekolah, cukup dikerjakan oleh siapa yang sempat.",
+   "kunci": [
+    "sempat"
+   ]
+  },
+  {
+   "id": "n2",
+   "text": "Padahal tugas tanpa nama, sering tidak selesai.",
+   "say_ridwan": "Padahal, tugas tanpa nama, sering tidak selesai."
+  },
+  {
+   "id": "n3",
+   "text": "Pembagian tugas sekolah perlu dibuat jelas.",
+   "say_ridwan": "Pembagian tugas sekolah, perlu dibuat jelas.",
+   "kunci": [
+    "jelas"
+   ]
+  },
+  {
+   "id": "n4",
+   "text": "Tugas yang jelas itu dibangun oleh empat hal.",
+   "say_ridwan": "Tugas yang jelas itu, dibangun oleh empat hal."
+  },
+  {
+   "id": "n5",
+   "text": "Pertama, ada uraian tugas tertulis, untuk setiap orang.",
+   "say_ridwan": "Pertama, ada uraian tugas tertulis, untuk setiap orang."
+  },
+  {
+   "id": "n6",
+   "text": "Kedua, ada penanggung jawab, satu nama untuk setiap kegiatan.",
+   "say_ridwan": "Kedua, ada penanggung jawab, satu nama untuk setiap kegiatan."
+  },
+  {
+   "id": "n7",
+   "text": "Ketiga, ada tenggat waktu, yang disepakati bersama.",
+   "say_ridwan": "Ketiga, ada tenggat waktu, yang disepakati bersama."
+  },
+  {
+   "id": "n8",
+   "text": "Keempat, tugas dicek setiap bulan, sudah jalan atau belum.",
+   "say_ridwan": "Keempat, tugas dicek setiap bulan, sudah jalan atau belum."
+  },
+  {
+   "id": "n9",
+   "text": "Empat hal inilah yang membuat pembagian tugas, menjadi jelas.",
+   "say_ridwan": "Empat hal inilah, yang membuat pembagian tugas, menjadi jelas."
+  },
+  {
+   "id": "n10",
+   "text": "Dan saat tugas jelas, kerja sekolah jadi lancar dan tidak saling menunggu.",
+   "say_ridwan": "Dan saat tugas jelas, kerja sekolah jadi lancar, dan tidak saling menunggu.",
+   "kunci": [
+    "lancar"
+   ]
+  },
+  {
+   "id": "n11",
+   "text": "Akadiva by SABIHA Edu, membantu sekolah memantau jurnal mengajar dan data guru, supaya kerja lebih tertata.",
+   "say_ridwan": "Akadiva bai Sabiha Edu, membantu sekolah, memantau jurnal mengajar, dan data guru, supaya kerja, lebih tertata."
+  }
+ ],
+ "caption": "Tugas sekolah yang dikerjakan siapa saja yang sempat, sering tidak selesai.\n\nEmpat hal yang membuatnya jelas: ada uraian tugas tertulis, ada penanggung jawab, ada tenggat waktu, dan dicek tiap bulan.\n\nCoba Akadiva gratis, link di bio.\n\n#manajemensekolah #yayasanpendidikan #kepalasekolah #tatakelolasekolah #akadiva"
+}
