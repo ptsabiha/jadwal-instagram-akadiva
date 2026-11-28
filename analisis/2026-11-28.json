@@ -510,5 +510,63 @@
     "hipotesis": "2 postingan/hari dengan kait bergiliran menaikkan median jangkauan per postingan dari ±4 menjadi ≥ 15.",
     "status": "berjalan",
     "hasil": "Diukur Sabtu 5 Des 2026."
-  }
+  },
+  "jangkauan_harian": [
+    {
+      "tanggal": "2026-11-15",
+      "jangkauan_baru": 131
+    },
+    {
+      "tanggal": "2026-11-16",
+      "jangkauan_baru": 16
+    },
+    {
+      "tanggal": "2026-11-17",
+      "jangkauan_baru": 22
+    },
+    {
+      "tanggal": "2026-11-18",
+      "jangkauan_baru": 0
+    },
+    {
+      "tanggal": "2026-11-19",
+      "jangkauan_baru": 9
+    },
+    {
+      "tanggal": "2026-11-20",
+      "jangkauan_baru": 13
+    },
+    {
+      "tanggal": "2026-11-21",
+      "jangkauan_baru": 5
+    },
+    {
+      "tanggal": "2026-11-22",
+      "jangkauan_baru": 101
+    },
+    {
+      "tanggal": "2026-11-23",
+      "jangkauan_baru": 57
+    },
+    {
+      "tanggal": "2026-11-24",
+      "jangkauan_baru": 112
+    },
+    {
+      "tanggal": "2026-11-25",
+      "jangkauan_baru": 35
+    },
+    {
+      "tanggal": "2026-11-26",
+      "jangkauan_baru": 23
+    },
+    {
+      "tanggal": "2026-11-27",
+      "jangkauan_baru": 31
+    },
+    {
+      "tanggal": "2026-11-28",
+      "jangkauan_baru": 19
+    }
+  ]
 }
