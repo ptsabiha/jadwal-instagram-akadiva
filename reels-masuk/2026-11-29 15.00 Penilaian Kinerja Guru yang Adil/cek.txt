@@ -1,0 +1,19 @@
+== 2026-11-29 15.00 Penilaian Kinerja Guru yang Adil
+konten ok: Penilaian Kinerja Guru yang Adil
+-- membuat narasi Suara Ridwan
+n1 4.536 s  skor 1.1 | Banyak yang mengira kinerja guru cukup dinilai dari kesan.
+n2 4.244 s  skor 1.0 | Padahal penilaian dari kesan sering terasa tidak adil.
+n3 3.262 s  skor 1.1 | Penilaian kinerja guru perlu dibuat adil.
+n4 3.587 s  skor 0.88 | Penilayan yang adil itu dijaga oleh empat hal.
+n5 4.901 s  skor 1.0 | Pertama, kriteria disepakati dan dibaca guru sebelum dinilai.
+n6 5.488 s  skor 1.0 | Kedua, penilaian dilihat dari bukti, berupa dokumen, dan pengamatan.
+n7 4.316 s  skor 1.0 | Ketiga, ada waktu bicara supaya guru boleh menanggapi.
+n8 4.697 s  skor 1.0 | keempat ada tindak lanjut berupa pelatihan sesuai kebutuhan.
+n9 5.057 s  skor 0.9 | Empat hal inilah yang menjaga pendilayan kinerja guru tetap adil.
+n10 4.074 s  skor 1.1 | Dan saat penilaian adil, guru jadi lebih semangat mengajar.
+n11 8.53 s  skor 0.94 | Akadiva Bay Sabiha Edu membantu sekolah mencatat jurnal mengajar guru supaya penilaian punya data yang jelas.
+events 327 dur 60.94 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.7)}
+durasi 60.933333s, 12 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-29 15.00 Penilaian Kinerja Guru yang Adil/reel.mp4

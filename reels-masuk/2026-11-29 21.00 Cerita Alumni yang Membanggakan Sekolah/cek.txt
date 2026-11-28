@@ -1,0 +1,19 @@
+== 2026-11-29 21.00 Cerita Alumni yang Membanggakan Sekolah
+konten ok: Cerita Alumni yang Membanggakan Sekolah
+-- membuat narasi Suara Ridwan
+n1 4.872 s  skor 0.84 | Banyak yang menyerah, alumni sekolah cukup di biarkan hilang kabar.
+n2 4.256 s  skor 0.86 | Padahal, alumi adalah cerita terbaik sebuah sekolah.
+n3 3.145 s  skor 1.1 | Alumni perlu tetap terhubung dengan sekolah.
+n4 2.866 s  skor 1.0 | Hubungan itu dibangun oleh empat hal.
+n5 5.261 s  skor 1.0 | Pertama, data alumni dicatat, lengkap dengan angkatan dan kontak.
+n6 4.087 s  skor 1.0 | Kedua, ada grup alumni supaya mereka saling kabar.
+n7 3.503 s  skor 0.83 | Ketiga, alumi diundang ke acara sekolah.
+n8 4.291 s  skor 1.0 | keempat kisah mereka dibagikan di media sosial sekolah
+n9 4.986 s  skor 0.9 | Empat hal inilah yang membuat alumi tetap terhubung dengan sekolah.
+n10 4.937 s  skor 1.1 | Dan saat alumni bercerita, nama sekolah makin dikenal, orang tua.
+n11 8.193 s  skor 0.93 | Akadiva Bay Sabiha Edu membantu sekolah merapikan data siswa supaya kabar sekolah mudah dibagikan.
+events 303 dur 59.14 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.1), 'chalk+fx': np.float64(-21.8)}
+durasi 59.133333s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-29 21.00 Cerita Alumni yang Membanggakan Sekolah/reel.mp4

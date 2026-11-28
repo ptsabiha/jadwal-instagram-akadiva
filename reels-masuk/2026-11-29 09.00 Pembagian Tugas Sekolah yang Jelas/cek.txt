@@ -1,0 +1,19 @@
+== 2026-11-29 09.00 Pembagian Tugas Sekolah yang Jelas
+konten ok: Pembagian Tugas Sekolah yang Jelas
+-- membuat narasi Suara Ridwan
+n1 5.165 s  skor 1.1 | Banyak yang mengira tugas sekolah cukup dikerjakan oleh siapa yang sempat.
+n2 3.865 s  skor 1.0 | Padahal tugas tanpa nama sering tidak selesai.
+n3 3.263 s  skor 0.93 | Pembahagian tugas sekolah perlu dibuat jelas.
+n4 3.352 s  skor 1.0 | Tugas yang jelas itu dibangun oleh empat hal.
+n5 4.323 s  skor 0.88 | Pertama, ada urayan tugas tertulis untuk setiap orang.
+n6 4.777 s  skor 1.0 | Kedua, ada penanggung jawab, satu nama untuk setiap kegiatan.
+n7 4.091 s  skor 1.0 | Ketiga ada tenggat waktu yang disepakati bersama.
+n8 4.292 s  skor 1.0 | Keempat, tugas dicek setiap bulan sudah jalan atau belum.
+n9 4.7 s  skor 1.0 | Empat hal inilah yang membuat pembagian tugas menjadi jelas.
+n10 5.292 s  skor 1.1 | Dan saat tugas jelas, kerja sekolah jadi lancar dan tidak saling menunggu.
+n11 8.921 s  skor 0.94 | Akadiva Bai Sabiha Edu membantu sekolah, memantau jurnal mengajar, dan data guru supaya kerja lebih tertata.
+events 312 dur 60.29 → /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/pembuat-reels/_reels/cetakan/_kerja/events.json
+readcheck ok
+stems (relative, LUFS): {'voice': np.float64(-14.2), 'chalk+fx': np.float64(-21.8)}
+durasi 60.290000s, 11 MB, frame hitam: 0, suara -14.1 LUFS
+SIAP: /home/runner/work/jadwal-instagram-akadiva/jadwal-instagram-akadiva/reels-masuk/2026-11-29 09.00 Pembagian Tugas Sekolah yang Jelas/reel.mp4
