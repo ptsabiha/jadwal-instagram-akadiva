@@ -1,12 +1,137 @@
 {
-  "diambil": "2026-11-27T07:36:37+07:00",
+  "diambil": "2026-11-28T07:03:49+07:00",
   "akun": "akadiva.app",
   "pengikut": 8,
   "mengikuti": 19,
-  "jumlah_postingan": 25,
+  "jumlah_postingan": 31,
   "izin_insights": true,
   "catatan": "",
   "media": [
+    {
+      "id": "18350760340259023",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgQ6xtYGB2W/",
+      "timestamp": "2026-11-28T00:00:53+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Dua hari sebelum rapat pengurus, sekretaris menanyakan laporan semester. Laporan SD berupa file Word, SMP file Excel, TK",
+      "panjang_caption": 556,
+      "insights": {
+        "reach": 0,
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0
+      }
+    },
+    {
+      "id": "18135784219841431",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgP2EBWA5ze/",
+      "timestamp": "2026-11-27T14:01:03+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Sekolah dikenal bukan karena spanduk besar, tapi karena cerita yang baik.",
+      "panjang_caption": 368,
+      "insights": {
+        "reach": 2,
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18059052488607017",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgPoXPKmzjj/",
+      "timestamp": "2026-11-27T12:00:39+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Jumat sore, dua wali kelas saling bertanya berapa kali seorang siswa sakit bulan lalu. Dua-duanya masih menghitung dari ",
+      "panjang_caption": 594,
+      "insights": {
+        "reach": 2,
+        "views": 3,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18090530525306243",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgPM3I0zEim/",
+      "timestamp": "2026-11-27T08:00:59+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Guru tidak kewalahan bukan karena kerja lebih lama, tapi karena pembagian yang tepat.",
+      "panjang_caption": 330,
+      "insights": {
+        "reach": 4,
+        "views": 8,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "17886564249628696",
+      "media_type": "CAROUSEL_ALBUM",
+      "media_product_type": "FEED",
+      "permalink": "https://www.instagram.com/p/DgO4TZnjqAJ/",
+      "timestamp": "2026-11-27T05:00:47+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Pukul 10.15, seorang wali murid bertanya tanggal berapa saja anaknya tercatat terlambat. Wali kelas menjawab, sebentar B",
+      "panjang_caption": 635,
+      "insights": {
+        "reach": 1,
+        "views": 4,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
+    {
+      "id": "18082824284393306",
+      "media_type": "VIDEO",
+      "media_product_type": "REELS",
+      "permalink": "https://www.instagram.com/reel/DgOjqg8hlZ1/",
+      "timestamp": "2026-11-27T02:01:07+0000",
+      "like_count": 0,
+      "comments_count": 0,
+      "caption_awal": "Mutu sekolah bukan soal gedung megah, tapi soal kebiasaan.",
+      "panjang_caption": 340,
+      "insights": {
+        "reach": 4,
+        "views": 4,
+        "likes": 0,
+        "comments": 0,
+        "saved": 0,
+        "shares": 0,
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
+      }
+    },
     {
       "id": "18136671919688572",
       "media_type": "CAROUSEL_ALBUM",
@@ -18,13 +143,14 @@
       "caption_awal": "Sore di hari terakhir kerja, ketua pengurus bertanya apakah operator yang lama sudah menyerahkan semua datanya. Kepala s",
       "panjang_caption": 663,
       "insights": {
-        "reach": 0,
-        "views": 1,
+        "reach": 2,
+        "views": 2,
         "likes": 0,
         "comments": 0,
         "saved": 0,
         "shares": 0,
-        "total_interactions": 0
+        "total_interactions": 0,
+        "tingkat_interaksi_persen": 0
       }
     },
     {
@@ -38,8 +164,8 @@
       "caption_awal": "Rapor tepat waktu bukan soal ngebut di akhir, tapi soal jadwal.",
       "panjang_caption": 414,
       "insights": {
-        "reach": 5,
-        "views": 7,
+        "reach": 6,
+        "views": 8,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -80,8 +206,8 @@
       "caption_awal": "Tenaga kependidikan bukan sekadar pelengkap yang mengurus berkas. Mereka mitra guru.",
       "panjang_caption": 322,
       "insights": {
-        "reach": 6,
-        "views": 6,
+        "reach": 8,
+        "views": 8,
         "likes": 0,
         "comments": 0,
         "saved": 0,
@@ -873,19 +999,19 @@
       "media_product_type": "REELS",
       "permalink": "https://www.instagram.com/reel/DfL5vNvSKiI/",
       "timestamp": "2026-11-01T04:45:27+0000",
-      "like_count": 7,
+      "like_count": 8,
       "comments_count": 0,
       "caption_awal": "Katanya, kepala sekolah lebih mikirin sekolah dibanding urusan pribadinya. 🏫",
       "panjang_caption": 407,
       "insights": {
-        "reach": 149,
-        "views": 240,
-        "likes": 7,
+        "reach": 150,
+        "views": 243,
+        "likes": 8,
         "comments": 0,
         "saved": 1,
         "shares": 0,
-        "total_interactions": 11,
-        "tingkat_interaksi_persen": 7.38
+        "total_interactions": 12,
+        "tingkat_interaksi_persen": 8
       }
     },
     {
